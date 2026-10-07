@@ -1,10 +1,10 @@
 # Thalissa Job Radar — última execução
 
-Executado em **2026-10-07 07:26 UTC**.
+Executado em **2026-10-07 07:54 UTC**.
 
 - Vagas únicas coletadas nesta execução: **477**
-- Vagas nunca vistas antes: **10**
-- Novas vagas descartadas por regra objetiva: **10**
+- Vagas nunca vistas antes: **0**
+- Novas vagas descartadas por regra objetiva: **0**
 - Novas vagas para revisar/candidatar: **0**
 
 ## Novidades
