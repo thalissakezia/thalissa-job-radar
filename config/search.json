@@ -34,5 +34,10 @@
     "sao joao de meriti",
     "duque de caxias",
     "belford roxo"
-  ]
+  ],
+  "salary_policy": {
+    "remote_minimum_brl": null,
+    "hybrid_onsite_minimum_brl": null,
+    "note": "Vagas remotas/home office não têm salário mínimo porque também servem como experiência."
+  }
 }
