@@ -1,20 +1,40 @@
 # Thalissa Job Radar — última execução
 
-Executado em **2026-10-07 06:43 UTC**.
+Executado em **2026-10-07 07:07 UTC**.
 
-- Vagas únicas coletadas nesta execução: **49**
-- Vagas nunca vistas antes: **49**
-- Novas vagas descartadas por regra objetiva: **49**
-- Novas vagas para revisar/candidatar: **0**
+- Vagas únicas coletadas nesta execução: **349**
+- Vagas nunca vistas antes: **300**
+- Novas vagas descartadas por regra objetiva: **280**
+- Novas vagas para revisar/candidatar: **20**
 
 ## Novidades
 
-Nenhuma vaga nova atingiu a pontuação mínima nesta execução.
+| Prioridade | Pontos | Empresa | Vaga | Data da fonte | Local | Salário | Fonte | Por quê |
+|---|---:|---|---|---|---|---|---|---|
+| PRIORIDADE | 28 | Aegea Saneamento | [Analista Power BI (Pl)](https://aegea.gupy.io/job/eyJqb2JJZCI6MTI0NTYxODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-09-10T16:34:37.414Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com power bi; competências: power bi, excel, dashboard, indicador; híbrida no RJ/Baixada |
+| PRIORIDADE | 22 | Grupo SysMap | [Analista de Dados PL](https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI2NjkzNTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-05T18:26:12.993Z | não informada | não informada | gupy | título combina com analista de dados; competências: power bi, excel, indicador, sql; vaga remota |
+| PRIORIDADE | 22 | Elite | [Assistente de Dados - Militar \| Núcleo Elite](https://elite.gupy.io/job/eyJqb2JJZCI6MTI2NzE0MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-02T20:27:29.369Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com assistente de dados; competências: power bi, excel, indicador, relatorio; híbrida no RJ/Baixada |
+| PRIORIDADE | 20 | Afya | [Assistente de Operações de Polo \| Afya Universidade Unigranrio - Duque de Caxias](https://afya.gupy.io/job/eyJqb2JJZCI6MTI2NzQ4NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T22:58:03.732Z | Duque de Caxias, Rio de Janeiro | não informada | gupy | título combina com assistente de operacoes; competências: power bi, excel, indicador, atendimento; localização compatível no RJ/Baixada |
+| PRIORIDADE | 18 | Aegea Saneamento | [Supervisor de Implantação](https://aegea.gupy.io/job/eyJqb2JJZCI6MTI2MzIxMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-09-29T17:49:44.772Z | Seropédica, Rio de Janeiro | não informada | gupy | título combina com implantacao; competências: power bi, excel, indicador, atendimento; localização compatível no RJ/Baixada |
+| PRIORIDADE | 16 | SolarGrid | [Analista de Backoffice](https://solargrid.gupy.io/job/eyJqb2JJZCI6MTI2MjE1ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-09-28T20:10:12.627Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com backoffice; competências: power bi, excel, backoffice; híbrida no RJ/Baixada |
+| PRIORIDADE | 16 | SolarGrid | [Assistente de Backoffice](https://solargrid.gupy.io/job/eyJqb2JJZCI6MTI2MjExNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-09-28T19:42:35.973Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com backoffice; competências: power bi, excel, backoffice; híbrida no RJ/Baixada |
+| PRIORIDADE | 14 | Afya | [Assistente Administrativo \| Afya Centro Universitário de Itaperuna](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NjYxNjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T04:05:27.675Z | Itaperuna, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; competências: excel, indicador, atendimento, suporte; localização compatível no RJ/Baixada |
+| PRIORIDADE | 13 | Granado - Desde 1870 | [ASSISTENTE ADMINISTRATIVO](https://granado.gupy.io/job/eyJqb2JJZCI6MTI2ODM3NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T14:05:20.774Z | Seropédica, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; competências: indicador, relatorio, atendimento, suporte; localização compatível no RJ/Baixada |
+| PRIORIDADE | 13 | Helppi | [Atendimento - Suporte Cliente](https://helppi.gupy.io/job/eyJqb2JJZCI6MTE2NTkxNjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-07-16T13:05:57.748Z | não informada | não informada | gupy | título combina com atendimento; competências: excel, atendimento, suporte; vaga remota |
+| PRIORIDADE | 13 | nola | [Estagiário de Implantação (CS)](https://nola.gupy.io/job/eyJqb2JJZCI6MTI2NDIyMDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-09-30T13:58:03.839Z | não informada | não informada | gupy | título combina com implantacao; competências: excel, atendimento, suporte; vaga remota |
+| PRIORIDADE | 12 | Starian | [Pessoa Analista de Dados Pl (Remoto) - 8996](https://starian.gupy.io/job/eyJqb2JJZCI6MTIzMDg5OTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T20:42:43.762Z | não informada | não informada | gupy | título combina com analista de dados; competências: sql; vaga remota |
+| PRIORIDADE | 12 | BeFly | [Assistente Administrativo de Facilities - BeFly](https://befly.gupy.io/job/eyJqb2JJZCI6MTI2NDI5MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T19:44:56.848Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; competências: indicador, relatorio, suporte; localização compatível no RJ/Baixada |
+| PRIORIDADE | 11 | Alloha Fibra | [ASSISTENTE DE BACKOFFICE](https://allohafibra.gupy.io/job/eyJqb2JJZCI6MTI0NDYyMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-09-24T21:16:58.565Z | Carmo, Rio de Janeiro | não informada | gupy | título combina com backoffice; competências: excel, backoffice; localização compatível no RJ/Baixada |
+| PRIORIDADE | 11 | Afya | [Assistente Administrativo (Atendimento ao Aluno) \| Afya Universidade Unigranrio - Duque de Caxias](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NjYwMzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T21:28:45.073Z | Duque de Caxias, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; competências: excel, atendimento; localização compatível no RJ/Baixada |
+| SECUNDÁRIA | 10 | Afya | [Assistente Administrativo (Atendimento Acadêmico) \| Afya Universidade Unigranrio - Barra da Tijuca](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1ODc2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T21:11:47.169Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; competências: atendimento, suporte, cadastro; localização compatível no RJ/Baixada |
+| SECUNDÁRIA | 8 | FARM Etc | [FARM Etc \| Assistente Administrativo \| Norte Shopping POP UPs](https://farmetc.gupy.io/job/eyJqb2JJZCI6MTI2ODg2MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T22:45:02.686Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; competências: atendimento; localização compatível no RJ/Baixada |
+| SECUNDÁRIA | 8 | Empresa confidencial | [Assistente Administrativo (Contas a Pagar)](https://c0nf.gupy.io/job/eyJqb2JJZCI6MTI2ODA0MzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-05T20:40:17.402Z | não informada | não informada | gupy | título combina com assistente administrativo; vaga remota |
+| SECUNDÁRIA | 7 | McDonald's Restaurante - Arcos Dorados | [ASSISTENTE ADMINISTRATIVO(A) ( BARRA DA TIJUCA - RIO DE JANEIRO/RJ)](https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI2ODEwOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-05T22:20:28.327Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com assistente administrativo; localização compatível no RJ/Baixada |
+| REVISAR | 5 | Quality Digital | [TÉCNICO DE SUPORTE JR N1](https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI2MzgxODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) | 2026-10-06T20:45:31.825Z | Rio de Janeiro, Rio de Janeiro | não informada | gupy | título combina com suporte; competências: atendimento, suporte; híbrida no RJ/Baixada; suporte/infra avançado aparece na descrição |
 
 ## Saúde das fontes
 
 - **FreeHire**: 58 resultados brutos; 26 requisições OK; 0 falhas.
-- **Gupy**: 0 resultados brutos; 0 requisições OK; 13 falhas.
-  - Primeiras falhas: power bi: HTTPError: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=power+bi&limit=50&offset=0 / analista de dados: HTTPError: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=analista+de+dados&limit=50&offset=0 / assistente de dados: HTTPError: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=assistente+de+dados&limit=50&offset=0
+- **Gupy**: 321 resultados brutos; 29 requisições OK; 0 falhas.
 
 > Nesta primeira versão, a classificação é determinística. A IA ainda não decide aderência e nenhuma candidatura é enviada automaticamente.
