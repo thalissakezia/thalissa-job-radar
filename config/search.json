@@ -14,8 +14,15 @@
     "suporte n1",
     "implantação"
   ],
+  "jobspy_queries": [
+    "\"Power BI\" OR \"analista de dados\" OR \"business intelligence\" OR \"assistente de dados\"",
+    "\"backoffice\" OR \"assistente administrativo\" OR \"analista de operações\" OR \"assistente de operações\"",
+    "\"suporte N1\" OR \"atendimento ao cliente\" OR \"customer support\" OR \"implantação\""
+  ],
   "freehire_posted_within_days": 2,
   "gupy_posted_within_days": 3,
+  "jobspy_hours_old": 30,
+  "jobspy_results_wanted": 20,
   "min_score": 3,
   "allowed_rj_locations": [
     "rio de janeiro",

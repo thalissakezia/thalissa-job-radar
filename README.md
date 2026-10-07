@@ -1,49 +1,46 @@
 # Thalissa Job Radar
 
-Radar automático de vagas criado para reduzir repetição, separar **vaga publicada** de **vaga encontrada** e deixar a IA fora da etapa de coleta.
+Radar automático de vagas para encontrar oportunidades novas sem repetir resultados antigos.
 
-## Versão 0.1
+## Fontes atuais
 
-A primeira versão coleta vagas em duas frentes:
+- **Gupy** — portal público atual, lido diretamente da página de busca.
+- **FreeHire** — agregador de ATS e páginas de empresas.
+- **JobSpy** — busca recente no **LinkedIn Jobs** e **Indeed Brasil**.
 
-- **FreeHire**: vagas de tecnologia/dados vindas de ATS e páginas de empresas.
-- **Gupy**: busca no portal público da Gupy.
+O JobSpy roda sem login do LinkedIn. No LinkedIn, o radar faz uma passagem priorizando **Easy Apply** e outra geral. Como o próprio JobSpy informa que LinkedIn é a fonte mais restritiva, falhas/rate limit aparecem na seção **Saúde das fontes** e não derrubam as outras buscas.
 
-Depois o programa:
+## Regras já aplicadas
 
-1. normaliza as vagas;
-2. elimina duplicatas entre buscas e fontes;
-3. usa SQLite durante a execução;
-4. mantém um histórico persistente em `data/seen_jobs.json`;
-5. aplica regras objetivas de localização, senioridade e aderência;
-6. grava apenas as novidades em `reports/latest.md`.
+- remoto/remoto em português e `remote` em inglês são tratados como a mesma modalidade;
+- Indeed usa explicitamente **Brazil**;
+- valores `R$`, `BRL`, real/reais são normalizados para **BRL** e exibidos como **R$**;
+- vagas presenciais/híbridas fora das cidades permitidas são descartadas;
+- títulos de pleno/sênior/liderança são descartados;
+- Easy Apply recebe prioridade adicional;
+- e-mail encontrado no anúncio é preservado;
+- links diretos de candidatura são preservados quando a fonte fornece;
+- histórico impede a mesma vaga de reaparecer como novidade.
 
-A coleta é agendada no GitHub Actions para **08h, 11h e 16h (horário de Brasília)** e também pode ser executada manualmente.
+## Agenda
 
-## O que ainda não entrou
-
-- LinkedIn/Indeed via JobSpy;
-- leitura de posts do feed do LinkedIn;
-- classificação final por IA;
-- notificação por e-mail/Telegram/ChatGPT;
-- candidatura automática.
-
-Essas partes entram somente depois de validarmos se as fontes atuais estão trazendo vagas reais e recentes de forma estável.
-
-## Segurança
-
-Nenhuma senha, cookie, token do LinkedIn ou dado pessoal é necessário nesta versão. Não coloque credenciais diretamente no código.
+GitHub Actions executa o radar às **08h, 11h e 16h (horário de Brasília)**. O JobSpy olha uma janela de 30 horas para tolerar eventuais falhas de uma execução, mas o histórico faz com que uma vaga já vista não volte como nova.
 
 ## Arquivos principais
 
-- `config/search.json` — termos e filtros.
-- `radar/sources.py` — coletores.
-- `radar/scoring.py` — regras de aderência.
+- `config/search.json` — termos, janelas e locais.
+- `radar/sources.py` — Gupy, FreeHire e JobSpy.
+- `radar/scoring.py` — filtro e pontuação.
 - `radar/store.py` — histórico/deduplicação.
-- `run.py` — orquestração.
-- `reports/latest.md` — resultado mais recente.
-- `.github/workflows/radar.yml` — execução automática.
+- `run.py` — relatório.
+- `reports/latest.md` — novidades da última execução.
+- `.github/workflows/radar.yml` — agendamento.
 
-## Estado
+## Próximas camadas
 
-**MVP em construção.** A primeira execução real deve ser validada antes de usar o relatório como fonte única para candidaturas.
+- comparação requisito por requisito com o currículo;
+- leitura de posts públicos/recrutadores do LinkedIn separada da aba Jobs;
+- entrega das vagas filtradas no ChatGPT e por e-mail;
+- melhorias de ranking após validar falsos positivos/negativos.
+
+Nenhuma candidatura é enviada automaticamente.

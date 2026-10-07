@@ -53,6 +53,11 @@ class Job:
     salary_max: float | None = None
     salary_currency: str | None = None
     salary_period: str | None = None
+    direct_url: str | None = None
+    easy_apply: bool = False
+    job_level: str | None = None
+    contact_emails: str | None = None
+    listing_type: str | None = None
 
     @property
     def key(self) -> str:
@@ -60,8 +65,6 @@ class Job:
 
     @property
     def fingerprint(self) -> str:
-        # Cross-source duplicate key. Location is kept so the same role in
-        # different cities is not collapsed accidentally.
         basis = "|".join(
             [normalize(self.company), normalize(self.title), normalize(self.location)]
         )

@@ -38,9 +38,29 @@ def format_salary(job) -> str:
     else:
         value = f"{symbol} {low or high}".strip()
 
+    periods = {
+        "monthly": "mês",
+        "yearly": "ano",
+        "hourly": "hora",
+        "weekly": "semana",
+        "daily": "dia",
+    }
     if job.salary_period:
-        value += f"/{job.salary_period}"
+        value += f"/{periods.get(job.salary_period, job.salary_period)}"
     return value
+
+
+def application_text(job) -> str:
+    if job.easy_apply:
+        return "Easy Apply"
+    if job.direct_url:
+        return "Link direto"
+    return "Normal"
+
+
+def application_link(job) -> str:
+    target = job.direct_url or job.url
+    return f"[Aplicar]({target})"
 
 
 def main() -> None:
@@ -49,6 +69,9 @@ def main() -> None:
         config["search_terms"],
         config.get("freehire_posted_within_days", 2),
         config.get("gupy_posted_within_days", 3),
+        config.get("jobspy_queries"),
+        config.get("jobspy_hours_old", 30),
+        config.get("jobspy_results_wanted", 20),
     )
 
     store = HistoryStore(
@@ -99,13 +122,14 @@ def main() -> None:
     if new_matches:
         lines.extend(
             [
-                "| Prioridade | Pontos | Empresa | Vaga | Data da fonte | Local | Salário | Fonte | Por quê |",
-                "|---|---:|---|---|---|---|---|---|---|",
+                "| Prioridade | Pontos | Empresa | Vaga | Data | Local | Salário | Candidatura | Contato | Fonte | Por quê |",
+                "|---|---:|---|---|---|---|---|---|---|---|---|",
             ]
         )
         for job, match in new_matches:
             title = esc(job.title)
-            link = f"[{title}]({job.url})"
+            job_link = f"[{title}]({job.url})"
+            apply = f"{application_text(job)} · {application_link(job)}"
             lines.append(
                 "| "
                 + " | ".join(
@@ -113,10 +137,12 @@ def main() -> None:
                         esc(match.label),
                         str(match.score),
                         esc(job.company),
-                        link,
+                        job_link,
                         esc(job.posted_at or "não informada"),
                         esc(job.location or "não informada"),
                         esc(format_salary(job)),
+                        apply,
+                        esc(job.contact_emails or "—"),
                         esc(job.source),
                         esc("; ".join(match.reasons)),
                     ]
@@ -143,8 +169,8 @@ def main() -> None:
     lines.extend(
         [
             "",
-            "> Nesta primeira versão, a classificação é determinística. "
-            "A IA ainda não decide aderência e nenhuma candidatura é enviada automaticamente.",
+            "> A coleta é automática e o histórico evita repetir vagas. "
+            "A comparação completa com o currículo ainda será adicionada.",
             "",
         ]
     )

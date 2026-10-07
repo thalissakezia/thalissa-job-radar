@@ -33,6 +33,15 @@ HARD_TITLE_EXCLUDES = (
     "especialista",
 )
 
+HARD_LEVEL_EXCLUDES = (
+    "senior",
+    "mid senior",
+    "manager",
+    "director",
+    "executive",
+    "pleno",
+)
+
 UNRELATED_TITLE_EXCLUDES = (
     "marketing",
     "social media",
@@ -124,6 +133,7 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
     body = normalize(f"{job.title} {job.description}")
     location = normalize(job.location)
     mode = normalize(job.work_mode)
+    level = normalize(job.job_level)
     reasons: list[str] = []
 
     if (
@@ -131,6 +141,9 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
         or re.search(r"\b(pl|sr)\b", title)
     ):
         return Match(0, True, "DESCARTADA", ["senioridade/liderança explícita no título"])
+
+    if level and any(term in level for term in HARD_LEVEL_EXCLUDES):
+        return Match(0, True, "DESCARTADA", [f"nível informado pela fonte: {job.job_level}"])
 
     if any(normalize(term) in title for term in UNRELATED_TITLE_EXCLUDES):
         return Match(0, True, "DESCARTADA", ["família de cargo fora do foco"])
@@ -147,7 +160,6 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
             reasons.append(f"título combina com {term}")
             break
 
-    # A descrição sozinha não transforma uma vaga de outra área em vaga aderente.
     if title_match is None:
         return Match(0, True, "DESCARTADA", ["título fora das famílias de cargo configuradas"])
 
@@ -194,6 +206,14 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
     if "active directory" in body or "servidores linux" in body or "redes tcp/ip" in body:
         score -= 4
         reasons.append("suporte/infra avançado aparece na descrição")
+
+    if job.easy_apply:
+        score += 2
+        reasons.append("candidatura simplificada/Easy Apply")
+
+    if job.contact_emails:
+        score += 1
+        reasons.append("contato por e-mail encontrado")
 
     score = max(score, 0)
 
