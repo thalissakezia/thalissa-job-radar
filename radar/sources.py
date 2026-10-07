@@ -220,8 +220,11 @@ def fetch_gupy(
 
                 page_all_old = True
                 for item in items:
-                    if not _gupy_is_old(item, cutoff):
+                    is_old = _gupy_is_old(item, cutoff)
+                    if not is_old:
                         page_all_old = False
+                    if is_old:
+                        continue
 
                     description = _text(
                         _first(item, "description", "jobDescription")
