@@ -7,7 +7,7 @@ import requests
 
 from radar.models import Job
 
-USER_AGENT = "thalissa-job-radar/0.1 (+github.com/thalissakezia/thalissa-job-radar)"
+USER_AGENT = "thalissa-job-radar/0.2 (+github.com/thalissakezia/thalissa-job-radar)"
 TIMEOUT = 25
 
 
@@ -35,8 +35,6 @@ def fetch_freehire(
     errors: list[str] = []
 
     for term in search_terms:
-        # One query catches Brazil-located jobs, the second catches remote roles
-        # that explicitly target LATAM/global rather than a single country.
         searches = [
             {"countries": "BR"},
             {"work_mode": "remote", "regions": "global,latam"},
@@ -93,8 +91,8 @@ def fetch_freehire(
 
 def fetch_gupy(search_terms: Iterable[str]) -> tuple[list[Job], dict]:
     """
-    Uses the portal's public employability endpoint. It is not a documented
-    public API, so the adapter fails visibly if Gupy changes the contract.
+    Gupy public portal search endpoint. This is separate from Gupy's authenticated
+    customer API. If the public contract changes, the adapter reports the failure.
     """
     session = requests.Session()
     session.headers.update(
@@ -106,61 +104,75 @@ def fetch_gupy(search_terms: Iterable[str]) -> tuple[list[Job], dict]:
             "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.7",
         }
     )
-    endpoint = "https://employability-portal.gupy.io/api/v1/jobs"
+    endpoint = "https://portal.api.gupy.io/api/v1/jobs"
     jobs: list[Job] = []
     stats = Counter()
     errors: list[str] = []
 
     for term in search_terms:
-        try:
-            response = session.get(
-                endpoint,
-                params={"jobName": term},
-                timeout=TIMEOUT,
-            )
-            response.raise_for_status()
-            payload = response.json()
-            items = payload.get("data", []) if isinstance(payload, dict) else []
-            if not isinstance(items, list):
-                raise ValueError("Gupy returned an unexpected data shape")
+        offset = 0
+        limit = 50
+        max_rows_per_term = 200
 
-            for item in items:
-                location_parts = [
-                    _first(item, "city"),
-                    _first(item, "state"),
-                    _first(item, "country"),
-                ]
-                location = ", ".join(part for part in location_parts if part)
-                external_id = _first(item, "id", "jobId", "jobUrl") or ""
-                jobs.append(
-                    Job(
-                        source="gupy",
-                        external_id=_text(external_id),
-                        title=_text(_first(item, "name", "title")),
-                        company=_text(_first(item, "companyName", "company")),
-                        location=location,
-                        url=_text(_first(item, "jobUrl", "url")),
-                        description=_text(
-                            _first(item, "description", "jobDescription")
-                        ),
-                        posted_at=_first(
-                            item,
-                            "publicationDate",
-                            "publishedDate",
-                            "publicDate",
-                            "createdAt",
-                            "created_at",
-                        ),
-                        work_mode=_text(
-                            _first(item, "workplaceType", "workplace", "type")
-                        ),
-                    )
+        while offset < max_rows_per_term:
+            try:
+                response = session.get(
+                    endpoint,
+                    params={"jobName": term, "limit": limit, "offset": offset},
+                    timeout=TIMEOUT,
                 )
-                stats["rows"] += 1
-            stats["requests_ok"] += 1
-        except Exception as exc:
-            errors.append(f"{term}: {type(exc).__name__}: {exc}")
-            stats["requests_failed"] += 1
+                response.raise_for_status()
+                payload = response.json()
+                items = payload.get("data", []) if isinstance(payload, dict) else []
+                if not isinstance(items, list):
+                    raise ValueError("Gupy returned an unexpected data shape")
+
+                for item in items:
+                    company = _first(item, "careerPageName", "companyName", "company") or ""
+                    if isinstance(item.get("company"), dict):
+                        company = _first(item["company"], "name") or company
+
+                    location_parts = [
+                        _first(item, "city"),
+                        _first(item, "state"),
+                        _first(item, "country"),
+                    ]
+                    location = ", ".join(part for part in location_parts if part)
+                    external_id = _first(item, "id", "jobId", "jobUrl") or ""
+                    jobs.append(
+                        Job(
+                            source="gupy",
+                            external_id=_text(external_id),
+                            title=_text(_first(item, "name", "title")),
+                            company=_text(company),
+                            location=location,
+                            url=_text(_first(item, "jobUrl", "url")),
+                            description=_text(
+                                _first(item, "description", "jobDescription")
+                            ),
+                            posted_at=_first(
+                                item,
+                                "publicationDate",
+                                "publishedDate",
+                                "publicDate",
+                                "createdAt",
+                                "created_at",
+                            ),
+                            work_mode=_text(
+                                _first(item, "workplaceType", "workplace", "type")
+                            ),
+                        )
+                    )
+                    stats["rows"] += 1
+
+                stats["requests_ok"] += 1
+                if len(items) < limit:
+                    break
+                offset += limit
+            except Exception as exc:
+                errors.append(f"{term}: {type(exc).__name__}: {exc}")
+                stats["requests_failed"] += 1
+                break
 
     return jobs, {"source": "Gupy", "stats": dict(stats), "errors": errors[:10]}
 
@@ -180,7 +192,6 @@ def collect_all(
         jobs.extend(collected)
         diagnostics.append(diag)
 
-    # Also collapses the same vacancy returned by several search terms.
     unique: dict[str, Job] = {}
     for job in jobs:
         if job.title and job.company and job.url:
