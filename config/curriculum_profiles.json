@@ -6,33 +6,108 @@
       "name": "BI / Dados",
       "curriculum_file": "curriculo_thalissa_silva_ats_bi_dados.pdf",
       "role_terms": [
-        {"term": "power bi", "weight": 10},
-        {"term": "analista de bi", "weight": 10},
-        {"term": "business intelligence", "weight": 9},
-        {"term": "analista de dados", "weight": 10},
-        {"term": "data analyst", "weight": 9},
-        {"term": "assistente de dados", "weight": 9},
-        {"term": "data assistant", "weight": 8},
-        {"term": "analista de indicadores", "weight": 8},
-        {"term": "relatórios", "weight": 6},
-        {"term": "qualidade de dados", "weight": 8},
-        {"term": "data quality", "weight": 8}
+        {
+          "term": "power bi",
+          "weight": 10
+        },
+        {
+          "term": "analista de bi",
+          "weight": 10
+        },
+        {
+          "term": "business intelligence",
+          "weight": 9
+        },
+        {
+          "term": "analista de dados",
+          "weight": 10
+        },
+        {
+          "term": "data analyst",
+          "weight": 9
+        },
+        {
+          "term": "assistente de dados",
+          "weight": 9
+        },
+        {
+          "term": "data assistant",
+          "weight": 8
+        },
+        {
+          "term": "analista de indicadores",
+          "weight": 8
+        },
+        {
+          "term": "relatórios",
+          "weight": 6
+        },
+        {
+          "term": "qualidade de dados",
+          "weight": 8
+        },
+        {
+          "term": "data quality",
+          "weight": 8
+        }
       ],
       "skills": [
-        {"term": "power bi", "weight": 5},
-        {"term": "excel", "weight": 4},
-        {"term": "sql", "weight": 3},
-        {"term": "python", "weight": 2},
-        {"term": "dashboard", "weight": 4},
-        {"term": "indicador", "weight": 3},
-        {"term": "kpi", "weight": 3},
-        {"term": "relatório", "weight": 2},
-        {"term": "tratamento de dados", "weight": 3},
-        {"term": "validação de dados", "weight": 3},
-        {"term": "etl", "weight": 2},
-        {"term": "tabela dinâmica", "weight": 1},
-        {"term": "procv", "weight": 1},
-        {"term": "procx", "weight": 1}
+        {
+          "term": "power bi",
+          "weight": 5
+        },
+        {
+          "term": "excel",
+          "weight": 4
+        },
+        {
+          "term": "sql",
+          "weight": 3
+        },
+        {
+          "term": "python",
+          "weight": 2
+        },
+        {
+          "term": "dashboard",
+          "weight": 4
+        },
+        {
+          "term": "indicador",
+          "weight": 3
+        },
+        {
+          "term": "kpi",
+          "weight": 3
+        },
+        {
+          "term": "relatório",
+          "weight": 2
+        },
+        {
+          "term": "tratamento de dados",
+          "weight": 3
+        },
+        {
+          "term": "validação de dados",
+          "weight": 3
+        },
+        {
+          "term": "etl",
+          "weight": 2
+        },
+        {
+          "term": "tabela dinâmica",
+          "weight": 1
+        },
+        {
+          "term": "procv",
+          "weight": 1
+        },
+        {
+          "term": "procx",
+          "weight": 1
+        }
       ],
       "transferable_terms": [
         "organização de dados",
@@ -53,31 +128,108 @@
       "name": "Suporte / Atendimento",
       "curriculum_file": "curriculo_thalissa_silva_ats_suporte_atendimento.pdf",
       "role_terms": [
-        {"term": "suporte n1", "weight": 10},
-        {"term": "suporte técnico", "weight": 8},
-        {"term": "suporte", "weight": 8},
-        {"term": "customer support", "weight": 9},
-        {"term": "atendimento ao cliente", "weight": 10},
-        {"term": "atendimento", "weight": 8},
-        {"term": "customer service", "weight": 9},
-        {"term": "implantação", "weight": 8},
-        {"term": "implementation", "weight": 8},
-        {"term": "service desk", "weight": 7},
-        {"term": "help desk", "weight": 7}
+        {
+          "term": "suporte n1",
+          "weight": 10
+        },
+        {
+          "term": "suporte técnico",
+          "weight": 8
+        },
+        {
+          "term": "suporte",
+          "weight": 8
+        },
+        {
+          "term": "customer support",
+          "weight": 9
+        },
+        {
+          "term": "atendimento ao cliente",
+          "weight": 10
+        },
+        {
+          "term": "atendimento",
+          "weight": 8
+        },
+        {
+          "term": "customer service",
+          "weight": 9
+        },
+        {
+          "term": "implantação",
+          "weight": 8
+        },
+        {
+          "term": "implementation",
+          "weight": 8
+        },
+        {
+          "term": "service desk",
+          "weight": 7
+        },
+        {
+          "term": "help desk",
+          "weight": 7
+        },
+        {
+          "term": "technical support",
+          "weight": 9
+        },
+        {
+          "term": "support",
+          "weight": 8
+        }
       ],
       "skills": [
-        {"term": "atendimento", "weight": 5},
-        {"term": "suporte operacional", "weight": 5},
-        {"term": "suporte administrativo", "weight": 4},
-        {"term": "sistemas", "weight": 4},
-        {"term": "excel", "weight": 3},
-        {"term": "planilhas", "weight": 2},
-        {"term": "registro de solicitações", "weight": 3},
-        {"term": "resolução de problemas", "weight": 4},
-        {"term": "comunicação", "weight": 2},
-        {"term": "relatórios", "weight": 2},
-        {"term": "power bi", "weight": 1},
-        {"term": "sql", "weight": 1}
+        {
+          "term": "atendimento",
+          "weight": 5
+        },
+        {
+          "term": "suporte operacional",
+          "weight": 5
+        },
+        {
+          "term": "suporte administrativo",
+          "weight": 4
+        },
+        {
+          "term": "sistemas",
+          "weight": 4
+        },
+        {
+          "term": "excel",
+          "weight": 3
+        },
+        {
+          "term": "planilhas",
+          "weight": 2
+        },
+        {
+          "term": "registro de solicitações",
+          "weight": 3
+        },
+        {
+          "term": "resolução de problemas",
+          "weight": 4
+        },
+        {
+          "term": "comunicação",
+          "weight": 2
+        },
+        {
+          "term": "relatórios",
+          "weight": 2
+        },
+        {
+          "term": "power bi",
+          "weight": 1
+        },
+        {
+          "term": "sql",
+          "weight": 1
+        }
       ],
       "transferable_terms": [
         "organização de informações",
@@ -97,31 +249,100 @@
       "name": "Administrativo / Operações",
       "curriculum_file": "curriculo_thalissa_silva_ats_administrativo_operacoes.pdf",
       "role_terms": [
-        {"term": "assistente administrativo", "weight": 10},
-        {"term": "auxiliar administrativo", "weight": 9},
-        {"term": "analista administrativo", "weight": 7},
-        {"term": "assistente de operações", "weight": 10},
-        {"term": "analista de operações", "weight": 8},
-        {"term": "operations assistant", "weight": 9},
-        {"term": "operations analyst", "weight": 8},
-        {"term": "backoffice", "weight": 10},
-        {"term": "cadastro", "weight": 8},
-        {"term": "controle de dados", "weight": 8}
+        {
+          "term": "assistente administrativo",
+          "weight": 10
+        },
+        {
+          "term": "auxiliar administrativo",
+          "weight": 9
+        },
+        {
+          "term": "analista administrativo",
+          "weight": 7
+        },
+        {
+          "term": "assistente de operações",
+          "weight": 10
+        },
+        {
+          "term": "analista de operações",
+          "weight": 8
+        },
+        {
+          "term": "operations assistant",
+          "weight": 9
+        },
+        {
+          "term": "operations analyst",
+          "weight": 8
+        },
+        {
+          "term": "backoffice",
+          "weight": 10
+        },
+        {
+          "term": "cadastro",
+          "weight": 8
+        },
+        {
+          "term": "controle de dados",
+          "weight": 8
+        }
       ],
       "skills": [
-        {"term": "excel", "weight": 4},
-        {"term": "relatórios", "weight": 3},
-        {"term": "indicadores", "weight": 3},
-        {"term": "documentos", "weight": 4},
-        {"term": "contratos", "weight": 3},
-        {"term": "validação de informações", "weight": 4},
-        {"term": "planilhas", "weight": 3},
-        {"term": "sistemas", "weight": 2},
-        {"term": "atendimento", "weight": 2},
-        {"term": "tabela dinâmica", "weight": 1},
-        {"term": "procv", "weight": 1},
-        {"term": "procx", "weight": 1},
-        {"term": "controle de dados", "weight": 4}
+        {
+          "term": "excel",
+          "weight": 4
+        },
+        {
+          "term": "relatórios",
+          "weight": 3
+        },
+        {
+          "term": "indicadores",
+          "weight": 3
+        },
+        {
+          "term": "documentos",
+          "weight": 4
+        },
+        {
+          "term": "contratos",
+          "weight": 3
+        },
+        {
+          "term": "validação de informações",
+          "weight": 4
+        },
+        {
+          "term": "planilhas",
+          "weight": 3
+        },
+        {
+          "term": "sistemas",
+          "weight": 2
+        },
+        {
+          "term": "atendimento",
+          "weight": 2
+        },
+        {
+          "term": "tabela dinâmica",
+          "weight": 1
+        },
+        {
+          "term": "procv",
+          "weight": 1
+        },
+        {
+          "term": "procx",
+          "weight": 1
+        },
+        {
+          "term": "controle de dados",
+          "weight": 4
+        }
       ],
       "transferable_terms": [
         "rotinas administrativas",
