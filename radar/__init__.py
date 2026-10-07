@@ -1,0 +1,1 @@
+"""Thalissa Job Radar."""
