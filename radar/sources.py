@@ -71,7 +71,7 @@ def _extract_brl_salary(description: str) -> tuple[float | None, float | None, s
     prefix = r"(?:sal[aá]rio|remunera[cç][aã]o|faixa\s+salarial)"
     money = r"R\$\s*([\d.]+(?:,\d{1,2})?)"
     match = re.search(
-        prefix + r"[^\n.;:]{0,50}?" + money + r"(?:\s*(?:a|até|[-–—])\s*R?\$?\s*([\d.]+(?:,\d{1,2})?))?",
+        prefix + r"[^\n]{0,60}?" + money + r"(?:\s*(?:a|até|[-–—])\s*R?\$?\s*([\d.]+(?:,\d{1,2})?))?",
         compact,
         flags=re.IGNORECASE,
     )
