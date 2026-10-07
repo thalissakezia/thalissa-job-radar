@@ -28,6 +28,9 @@ HARD_TITLE_EXCLUDES = (
     "head ",
     "lead ",
     "líder",
+    "supervisor",
+    "supervisora",
+    "especialista",
 )
 
 UNRELATED_TITLE_EXCLUDES = (
@@ -123,7 +126,10 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
     mode = normalize(job.work_mode)
     reasons: list[str] = []
 
-    if any(normalize(term) in title for term in HARD_TITLE_EXCLUDES):
+    if (
+        any(normalize(term) in title for term in HARD_TITLE_EXCLUDES)
+        or re.search(r"\b(pl|sr)\b", title)
+    ):
         return Match(0, True, "DESCARTADA", ["senioridade/liderança explícita no título"])
 
     if any(normalize(term) in title for term in UNRELATED_TITLE_EXCLUDES):
@@ -155,7 +161,8 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
 
     remote = any(normalize(w) in f"{mode} {location} {title}" for w in REMOTE_WORDS)
     hybrid = any(normalize(w) in f"{mode} {location} {title}" for w in HYBRID_WORDS)
-    in_rj = any(normalize(place) in location for place in allowed_rj_locations)
+    city = normalize(location.split(",")[0]) if location else ""
+    in_rj = any(city == normalize(place) for place in allowed_rj_locations)
 
     if remote:
         score += 3
