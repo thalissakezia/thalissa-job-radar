@@ -1,16 +1,17 @@
 from __future__ import annotations
 
+import base64
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 import json
 import math
 import re
 from typing import Iterable
-from urllib.parse import quote
+from urllib.parse import quote, urlparse
 
 import requests
 
-from radar.models import Job, normalize_currency
+from radar.models import Job, normalize, normalize_currency
 
 USER_AGENT = "thalissa-job-radar/0.4 (+github.com/thalissakezia/thalissa-job-radar)"
 TIMEOUT = 25
@@ -484,6 +485,47 @@ def fetch_jobspy(
     return jobs, {"source": "JobSpy", "stats": dict(stats), "errors": errors[:12]}
 
 
+def _gupy_job_id(url: str | None) -> str | None:
+    if not url:
+        return None
+    match = re.search(r"https?://[^/]*gupy\.io/job/([^/?#]+)", url, re.IGNORECASE)
+    if not match:
+        return None
+    token = match.group(1)
+    try:
+        padded = token + "=" * (-len(token) % 4)
+        payload = json.loads(base64.urlsafe_b64decode(padded).decode("utf-8"))
+        job_id = payload.get("jobId") or payload.get("jobID") or payload.get("id")
+        return str(job_id) if job_id else None
+    except Exception:
+        return None
+
+
+def _canonical_identity(job: Job) -> str:
+    # Prefer the underlying ATS vacancy ID. This merges the same Gupy vacancy
+    # when it is also surfaced by Indeed/JobSpy.
+    for candidate in (job.direct_url, job.url):
+        gupy_id = _gupy_job_id(candidate)
+        if gupy_id:
+            return f"gupy:{gupy_id}"
+
+    if job.direct_url:
+        parsed = urlparse(job.direct_url)
+        host = parsed.netloc.lower().removeprefix("www.")
+        if host and not any(domain in host for domain in ("indeed.", "linkedin.")):
+            return f"direct:{host}{parsed.path.rstrip('/')}"
+
+    city = normalize(job.location.split(",")[0]) if job.location else ""
+    return "|".join(
+        [
+            "fallback",
+            normalize(job.company),
+            normalize(job.title),
+            city,
+        ]
+    )
+
+
 def collect_all(
     search_terms: list[str],
     freehire_days: int,
@@ -517,9 +559,10 @@ def collect_all(
     for job in jobs:
         if not (job.title and job.company and job.url):
             continue
-        existing = unique.get(job.fingerprint)
+        identity = _canonical_identity(job)
+        existing = unique.get(identity)
         if existing is None:
-            unique[job.fingerprint] = job
+            unique[identity] = job
             continue
 
         # Preserve the most useful application metadata when the same vacancy is
@@ -535,5 +578,11 @@ def collect_all(
             existing.salary_max = job.salary_max
             existing.salary_currency = job.salary_currency
             existing.salary_period = job.salary_period
+        if len(job.description or "") > len(existing.description or ""):
+            existing.description = job.description
+        if not existing.work_mode and job.work_mode:
+            existing.work_mode = job.work_mode
+        if not existing.job_level and job.job_level:
+            existing.job_level = job.job_level
 
     return list(unique.values()), diagnostics

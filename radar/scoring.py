@@ -61,6 +61,14 @@ LANGUAGE_TITLE_EXCLUDES = (
     "espanhol",
 )
 
+DOMAIN_TITLE_EXCLUDES = (
+    "estagiario de direito",
+    "estagiario(a) de direito",
+    "advogado",
+    "mecanico diesel",
+    "mecânico diesel",
+)
+
 TITLE_WEIGHTS = {
     "power bi": 8,
     "analista de bi": 8,
@@ -150,6 +158,9 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
 
     if any(normalize(term) in title for term in LANGUAGE_TITLE_EXCLUDES):
         return Match(0, True, "DESCARTADA", ["idioma aparece como requisito central no título"])
+
+    if any(normalize(term) in title for term in DOMAIN_TITLE_EXCLUDES):
+        return Match(0, True, "DESCARTADA", ["especialidade/formação do título fora do perfil"])
 
     score = 0
     title_match = None

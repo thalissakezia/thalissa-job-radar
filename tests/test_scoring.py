@@ -5,7 +5,7 @@ import unittest
 from radar.curriculum import evaluate_curriculum_fit, load_profiles
 from radar.models import Job, normalize_currency
 from radar.scoring import evaluate
-from radar.sources import _extract_brl_salary, _jobspy_row_to_job
+from radar.sources import _canonical_identity, _extract_brl_salary, _jobspy_row_to_job
 
 
 RJ = ["rio de janeiro", "nova iguaçu", "mesquita"]
@@ -185,6 +185,55 @@ class RadarTests(unittest.TestCase):
             }
         )
         self.assertIsNone(job)
+
+    def test_profile_family_is_locked_by_title(self):
+        job = Job(
+            source="test",
+            external_id="support-heavy",
+            title="Technical Support Escalation Point",
+            company="Empresa",
+            location="Brasil",
+            url="https://example.com/support-heavy",
+            description=(
+                "Advanced English, Active Directory, Windows Server, TCP/IP, "
+                "Azure, AWS and Linux server experience."
+            ),
+            work_mode="remoto",
+        )
+        fit = evaluate_curriculum_fit(job, PROFILES)
+        self.assertEqual(fit.profile_id, "suporte_atendimento")
+
+    def test_gupy_cross_source_identity(self):
+        gupy = Job(
+            source="gupy",
+            external_id="1",
+            title="Assistente Administrativo",
+            company="Afya",
+            location="Duque de Caxias, Rio de Janeiro",
+            url="https://afya.gupy.io/job/eyJqb2JJZCI6MTI2NzQ4NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        )
+        indeed = Job(
+            source="jobspy/indeed",
+            external_id="2",
+            title="Assistente Administrativo",
+            company="AFYA",
+            location="Duque de Caxias, RJ, BR",
+            url="https://br.indeed.com/viewjob?jk=abc",
+            direct_url="https://afya.gupy.io/job/eyJqb2JJZCI6MTI2NzQ4NjQsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        )
+        self.assertEqual(_canonical_identity(gupy), _canonical_identity(indeed))
+
+    def test_unrelated_professional_domain_is_rejected(self):
+        job = Job(
+            source="test",
+            external_id="law",
+            title="Estagiário(a) de Direito | BackOffice",
+            company="Empresa",
+            location="Remoto",
+            url="https://example.com/law",
+            work_mode="remoto",
+        )
+        self.assertTrue(evaluate(job, RJ).rejected)
 
     def test_senior_title_is_rejected(self):
         job = Job(

@@ -165,15 +165,25 @@ def evaluate_curriculum_fit(
     description = normalize(job.description)
     body = normalize(f"{job.title} {job.description}")
 
-    best: CurriculumFit | None = None
-
+    # Pick the curriculum family from the job title first. A support vacancy
+    # should stay in the Support profile even when it has many missing technical
+    # requirements; otherwise a low-scoring unrelated profile could "win".
+    role_data = []
     for profile in profiles:
         role_points, role_hits = _role_strength(title, profile)
-        if role_points == 0:
-            # The global radar may accept broad terms; the curriculum matcher
-            # should not pretend a profile is a strong fit without a role match.
-            role_points = 12
+        role_data.append((profile, role_points, role_hits))
 
+    max_role = max((points for _, points, _ in role_data), default=0)
+    candidates = (
+        [item for item in role_data if item[1] == max_role]
+        if max_role > 0
+        else role_data
+    )
+
+    best: CurriculumFit | None = None
+
+    for profile, raw_role_points, role_hits in candidates:
+        role_points = raw_role_points or 12
         skill_points, skill_hits = _skill_points(body, profile)
         transferable_points, transferable_hits = _transferable_points(body, profile)
         education_points, education_hits = _education_points(body, profile)
@@ -183,15 +193,27 @@ def evaluate_curriculum_fit(
         description_len = len(description)
         if description_len < 80:
             confidence = "baixa"
-            # With only a card/title we can choose the right curriculum, but an
-            # exact 90% compatibility would be misleading.
             percent = min(72, role_points + entry_points + 20)
         elif description_len < 350:
             confidence = "média"
-            percent = role_points + skill_points + transferable_points + education_points + entry_points - penalty
+            percent = (
+                role_points
+                + skill_points
+                + transferable_points
+                + education_points
+                + entry_points
+                - penalty
+            )
         else:
             confidence = "alta"
-            percent = role_points + skill_points + transferable_points + education_points + entry_points - penalty
+            percent = (
+                role_points
+                + skill_points
+                + transferable_points
+                + education_points
+                + entry_points
+                - penalty
+            )
 
         percent = max(0, min(100, round(percent)))
 
@@ -225,7 +247,7 @@ def evaluate_curriculum_fit(
             gaps=gaps,
         )
 
-        if best is None or (fit.percent, fit.confidence) > (best.percent, best.confidence):
+        if best is None or fit.percent > best.percent:
             best = fit
 
     assert best is not None
