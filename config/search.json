@@ -15,6 +15,7 @@
     "implantação"
   ],
   "freehire_posted_within_days": 2,
+  "gupy_posted_within_days": 3,
   "min_score": 3,
   "allowed_rj_locations": [
     "rio de janeiro",
@@ -23,6 +24,7 @@
     "mesquita",
     "nilópolis",
     "são joão de meriti",
+    "sao joao de meriti",
     "duque de caxias",
     "belford roxo"
   ]
