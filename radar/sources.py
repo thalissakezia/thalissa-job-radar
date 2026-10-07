@@ -3,6 +3,7 @@ from __future__ import annotations
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 import json
+import math
 import re
 from typing import Iterable
 from urllib.parse import quote
@@ -22,7 +23,17 @@ _GUPY_NEXT_DATA = re.compile(
 
 
 def _text(value) -> str:
-    return "" if value is None else str(value).strip()
+    if value is None:
+        return ""
+    try:
+        if isinstance(value, (int, float)) and not math.isfinite(float(value)):
+            return ""
+    except (TypeError, ValueError):
+        pass
+    text = str(value).strip()
+    if text.lower() in {"nan", "nat", "<na>", "none"}:
+        return ""
+    return text
 
 
 def _first(data: dict, *names: str) -> str | None:
@@ -37,7 +48,8 @@ def _number(value) -> float | None:
     if value in (None, ""):
         return None
     if isinstance(value, (int, float)):
-        return float(value)
+        number = float(value)
+        return number if math.isfinite(number) else None
     raw = str(value).strip()
     raw = raw.replace("R$", "").replace(" ", "")
     if "," in raw and "." in raw:
