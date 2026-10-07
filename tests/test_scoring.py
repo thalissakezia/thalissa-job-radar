@@ -1,6 +1,6 @@
 import unittest
 
-from radar.models import Job
+from radar.models import Job, normalize_currency
 from radar.scoring import evaluate
 
 
@@ -17,12 +17,32 @@ class ScoringTests(unittest.TestCase):
             location="Brasil - Remoto",
             url="https://example.com/1",
             description="Excel, dashboards e indicadores",
-            work_mode="remote",
+            work_mode="remoto",
         )
         match = evaluate(job, RJ)
         self.assertFalse(match.rejected)
         self.assertGreaterEqual(match.score, 10)
         self.assertEqual(match.label, "PRIORIDADE")
+
+    def test_remote_english_value_is_also_supported(self):
+        job = Job(
+            source="test",
+            external_id="11",
+            title="Analista de Dados",
+            company="Empresa",
+            location="Brazil",
+            url="https://example.com/11",
+            work_mode="remote",
+        )
+        self.assertFalse(evaluate(job, RJ).rejected)
+
+    def test_brl_is_normalized(self):
+        self.assertEqual(normalize_currency("R$"), "BRL")
+        self.assertEqual(normalize_currency("BRL"), "BRL")
+        self.assertEqual(
+            normalize_currency(None, "Salário de R$ 4.500,00 por mês"),
+            "BRL",
+        )
 
     def test_senior_title_is_rejected(self):
         job = Job(
