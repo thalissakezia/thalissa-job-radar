@@ -39,5 +39,14 @@
     "remote_minimum_brl": null,
     "hybrid_onsite_minimum_brl": null,
     "note": "Vagas remotas/home office não têm salário mínimo porque também servem como experiência."
+  },
+  "employment_types": {
+    "include": [
+      "CLT",
+      "PJ",
+      "estágio",
+      "trainee"
+    ],
+    "exclude": []
   }
 }
