@@ -15,11 +15,40 @@ def esc(text: str | None) -> str:
     return (text or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
+def format_salary(job) -> str:
+    if job.salary_min is None and job.salary_max is None:
+        return "não informada"
+
+    currency = job.salary_currency or ""
+    symbol = {"BRL": "R$", "USD": "US$", "EUR": "€", "GBP": "£"}.get(
+        currency, currency
+    )
+
+    def money(value):
+        if value is None:
+            return None
+        if currency == "BRL":
+            return f"{value:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+        return f"{value:,.0f}"
+
+    low = money(job.salary_min)
+    high = money(job.salary_max)
+    if low and high:
+        value = f"{symbol} {low}–{high}".strip()
+    else:
+        value = f"{symbol} {low or high}".strip()
+
+    if job.salary_period:
+        value += f"/{job.salary_period}"
+    return value
+
+
 def main() -> None:
     config = json.loads((ROOT / "config/search.json").read_text(encoding="utf-8"))
     jobs, diagnostics = collect_all(
         config["search_terms"],
         config.get("freehire_posted_within_days", 2),
+        config.get("gupy_posted_within_days", 3),
     )
 
     store = HistoryStore(
@@ -70,8 +99,8 @@ def main() -> None:
     if new_matches:
         lines.extend(
             [
-                "| Prioridade | Pontos | Empresa | Vaga | Data da fonte | Local | Fonte | Por quê |",
-                "|---|---:|---|---|---|---|---|---|",
+                "| Prioridade | Pontos | Empresa | Vaga | Data da fonte | Local | Salário | Fonte | Por quê |",
+                "|---|---:|---|---|---|---|---|---|---|",
             ]
         )
         for job, match in new_matches:
@@ -87,6 +116,7 @@ def main() -> None:
                         link,
                         esc(job.posted_at or "não informada"),
                         esc(job.location or "não informada"),
+                        esc(format_salary(job)),
                         esc(job.source),
                         esc("; ".join(match.reasons)),
                     ]
