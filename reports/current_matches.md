@@ -1,0 +1,1 @@
+# Thalissa Job Radar — vagas atuais compatíveis\n\nAguardando a primeira execução com comparação por currículo.\n

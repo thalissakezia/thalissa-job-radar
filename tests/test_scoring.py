@@ -1,11 +1,16 @@
+import json
+from pathlib import Path
 import unittest
 
+from radar.curriculum import evaluate_curriculum_fit, load_profiles
 from radar.models import Job, normalize_currency
 from radar.scoring import evaluate
 from radar.sources import _extract_brl_salary, _jobspy_row_to_job
 
 
 RJ = ["rio de janeiro", "nova iguaçu", "mesquita"]
+ROOT = Path(__file__).resolve().parents[1]
+PROFILES = load_profiles(ROOT / "config/curriculum_profiles.json")
 
 
 class RadarTests(unittest.TestCase):
@@ -24,6 +29,90 @@ class RadarTests(unittest.TestCase):
         self.assertFalse(match.rejected)
         self.assertGreaterEqual(match.score, 10)
         self.assertEqual(match.label, "PRIORIDADE")
+
+    def test_curriculum_selects_bi_profile(self):
+        job = Job(
+            source="test",
+            external_id="fit-bi",
+            title="Analista de Power BI Junior",
+            company="Empresa",
+            location="Brasil",
+            url="https://example.com/fit-bi",
+            description=(
+                "Buscamos profissional com ensino superior para criar dashboards, "
+                "indicadores e relatórios usando Power BI e Excel. SQL é desejável."
+            ),
+            work_mode="remoto",
+        )
+        fit = evaluate_curriculum_fit(job, PROFILES)
+        self.assertEqual(fit.profile_id, "bi_dados")
+        self.assertGreaterEqual(fit.percent, 75)
+
+    def test_curriculum_selects_support_profile(self):
+        job = Job(
+            source="test",
+            external_id="fit-support",
+            title="Assistente de Suporte ao Cliente",
+            company="Empresa",
+            location="Brasil",
+            url="https://example.com/fit-support",
+            description=(
+                "Atendimento ao cliente, suporte operacional, registro de solicitações, "
+                "uso de sistemas e resolução de problemas. Ensino superior desejável."
+            ),
+            work_mode="remoto",
+        )
+        fit = evaluate_curriculum_fit(job, PROFILES)
+        self.assertEqual(fit.profile_id, "suporte_atendimento")
+
+    def test_curriculum_selects_admin_profile(self):
+        job = Job(
+            source="test",
+            external_id="fit-admin",
+            title="Assistente Administrativo",
+            company="Empresa",
+            location="Rio de Janeiro, RJ",
+            url="https://example.com/fit-admin",
+            description=(
+                "Rotinas administrativas, Excel, planilhas, controle de documentos, "
+                "contratos, relatórios e validação de informações."
+            ),
+        )
+        fit = evaluate_curriculum_fit(job, PROFILES)
+        self.assertEqual(fit.profile_id, "administrativo_operacoes")
+
+    def test_low_information_caps_fit_and_confidence(self):
+        job = Job(
+            source="test",
+            external_id="fit-low",
+            title="Analista de Dados Junior",
+            company="Empresa",
+            location="Brasil",
+            url="https://example.com/fit-low",
+            description="",
+            work_mode="remoto",
+        )
+        fit = evaluate_curriculum_fit(job, PROFILES)
+        self.assertEqual(fit.confidence, "baixa")
+        self.assertLessEqual(fit.percent, 72)
+        self.assertEqual(fit.recommendation, "REVISAR DESCRIÇÃO")
+
+    def test_advanced_english_is_gap(self):
+        job = Job(
+            source="test",
+            external_id="fit-gap",
+            title="Analista de Dados Junior",
+            company="Empresa",
+            location="Brasil",
+            url="https://example.com/fit-gap",
+            description=(
+                "Power BI, Excel e SQL. Ensino superior completo. "
+                "Inglês avançado obrigatório para reuniões diárias."
+            ),
+            work_mode="remoto",
+        )
+        fit = evaluate_curriculum_fit(job, PROFILES)
+        self.assertIn("inglês avançado", fit.gaps)
 
     def test_remote_english_value_is_supported(self):
         job = Job(
@@ -48,7 +137,6 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(low, 3500.0)
         self.assertEqual(high, 4500.0)
         self.assertEqual(period, "monthly")
-
         self.assertEqual(
             _extract_brl_salary("Vale alimentação de R$ 600,00"),
             (None, None, None),
