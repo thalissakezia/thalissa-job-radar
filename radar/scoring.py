@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import re
 
 from radar.models import Job, normalize
 
@@ -33,32 +34,50 @@ UNRELATED_TITLE_EXCLUDES = (
     "marketing",
     "social media",
     "designer",
-    "desenvolvedor senior",
-    "devops senior",
+    "desenvolvedor",
+    "developer",
+    "devops",
     "network engineer",
     "administrador de redes",
     "infraestrutura",
+    "professor",
+    "teacher",
+)
+
+LANGUAGE_TITLE_EXCLUDES = (
+    "spanish",
+    "espanhol",
 )
 
 TITLE_WEIGHTS = {
-    "power bi": 7,
-    "analista de dados": 7,
-    "assistente de dados": 7,
-    "business intelligence": 6,
-    "data analyst": 6,
-    "dados": 4,
-    "relatorio": 3,
-    "indicador": 3,
-    "qualidade de dados": 5,
-    "cadastro": 4,
-    "backoffice": 4,
-    "administrativo": 3,
-    "operacoes": 3,
-    "atendimento": 4,
-    "customer service": 4,
-    "suporte": 4,
-    "support": 4,
-    "implantacao": 4,
+    "power bi": 8,
+    "analista de bi": 8,
+    "assistente de bi": 8,
+    "business intelligence": 7,
+    "analista de dados": 8,
+    "assistente de dados": 8,
+    "data analyst": 7,
+    "data assistant": 7,
+    "analista de indicadores": 6,
+    "analista de relatorios": 6,
+    "qualidade de dados": 6,
+    "data quality": 6,
+    "cadastro": 5,
+    "backoffice": 5,
+    "assistente administrativo": 5,
+    "auxiliar administrativo": 4,
+    "analista administrativo": 4,
+    "analista de operacoes": 5,
+    "assistente de operacoes": 5,
+    "operations analyst": 5,
+    "operations assistant": 5,
+    "atendimento": 5,
+    "customer service": 5,
+    "customer support": 5,
+    "suporte": 5,
+    "support": 5,
+    "implantacao": 5,
+    "implementation": 5,
 }
 
 SKILL_WEIGHTS = {
@@ -90,6 +109,13 @@ REMOTE_WORDS = (
 HYBRID_WORDS = ("hybrid", "hibrido")
 
 
+def _contains_phrase(text: str, phrase: str) -> bool:
+    phrase = normalize(phrase)
+    if phrase == "bi":
+        return re.search(r"\bbi\b", text) is not None
+    return phrase in text
+
+
 def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
     title = normalize(job.title)
     body = normalize(f"{job.title} {job.description}")
@@ -103,13 +129,21 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
     if any(normalize(term) in title for term in UNRELATED_TITLE_EXCLUDES):
         return Match(0, True, "DESCARTADA", ["família de cargo fora do foco"])
 
-    score = 0
+    if any(normalize(term) in title for term in LANGUAGE_TITLE_EXCLUDES):
+        return Match(0, True, "DESCARTADA", ["idioma aparece como requisito central no título"])
 
+    score = 0
+    title_match = None
     for term, weight in TITLE_WEIGHTS.items():
-        if normalize(term) in title:
+        if _contains_phrase(title, term):
             score += weight
+            title_match = term
             reasons.append(f"título combina com {term}")
             break
+
+    # A descrição sozinha não transforma uma vaga de outra área em vaga aderente.
+    if title_match is None:
+        return Match(0, True, "DESCARTADA", ["título fora das famílias de cargo configuradas"])
 
     skill_hits: list[str] = []
     for term, weight in SKILL_WEIGHTS.items():
@@ -137,13 +171,14 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
     else:
         reasons.append("localização não confirmada")
 
-    # Soft penalties: these do not auto-reject because descriptions are often noisy.
     advanced_language = (
         "ingles avancado",
         "english advanced",
         "advanced english",
         "espanhol avancado",
         "spanish advanced",
+        "fluente em ingles",
+        "fluent english",
     )
     if any(term in body for term in advanced_language):
         score -= 4
@@ -155,9 +190,9 @@ def evaluate(job: Job, allowed_rj_locations: list[str]) -> Match:
 
     score = max(score, 0)
 
-    if score >= 10:
+    if score >= 11:
         label = "PRIORIDADE"
-    elif score >= 6:
+    elif score >= 7:
         label = "SECUNDÁRIA"
     else:
         label = "REVISAR"
