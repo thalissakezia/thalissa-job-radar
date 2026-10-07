@@ -80,6 +80,24 @@ class RadarTests(unittest.TestCase):
         self.assertTrue(job.easy_apply)
         self.assertEqual(job.direct_url, "https://empresa.com/vaga/123")
 
+    def test_jobspy_ignores_nan_fields(self):
+        job = _jobspy_row_to_job(
+            {
+                "id": "indeed-1",
+                "site": "indeed",
+                "title": "Assistente Administrativo",
+                "company": float("nan"),
+                "job_url": "https://example.com/job",
+                "location": "Rio de Janeiro, RJ, BR",
+                "min_amount": float("nan"),
+                "max_amount": float("nan"),
+                "currency": float("nan"),
+                "emails": float("nan"),
+                "description": "",
+            }
+        )
+        self.assertIsNone(job)
+
     def test_senior_title_is_rejected(self):
         job = Job(
             source="test",
