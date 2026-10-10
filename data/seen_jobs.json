@@ -2,6 +2,681 @@
   "version": 1,
   "jobs": [
     {
+      "fingerprint": "0a5ed1269372c01354fee03da4df9b757214f40e",
+      "job_key": "jobspy/indeed:in-ac11ad256630272a",
+      "source": "jobspy/indeed",
+      "external_id": "in-ac11ad256630272a",
+      "title": "Product Owner Tech — Core Bancário (TOPAZ)",
+      "company": "Evertec Brasil",
+      "location": "Campinas, SP, BR",
+      "url": "https://br.indeed.com/viewjob?jk=ac11ad256630272a",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.229053+00:00",
+      "last_seen": "2026-10-10T22:17:50.229053+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "61586b57d348f75e9cc2c9e335ac93261368d5d7",
+      "job_key": "jobspy/indeed:in-7c0792ae42ddd225",
+      "source": "jobspy/indeed",
+      "external_id": "in-7c0792ae42ddd225",
+      "title": "Analista de Sistemas e Negócios III",
+      "company": "Insi",
+      "location": "Remoto, BR",
+      "url": "https://br.indeed.com/viewjob?jk=7c0792ae42ddd225",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.220475+00:00",
+      "last_seen": "2026-10-10T22:17:50.220475+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "ad7763c5ef62751b01fa3693c0a73d6ccfb743ab",
+      "job_key": "jobspy/indeed:in-60b50ea3714880d7",
+      "source": "jobspy/indeed",
+      "external_id": "in-60b50ea3714880d7",
+      "title": "ANALISTA DE COMPRAS DE TI - Centro (MTR2. Tech)",
+      "company": "Jobbol",
+      "location": "Rio de Janeiro, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=60b50ea3714880d7",
+      "posted_at": "2026-10-08",
+      "first_seen": "2026-10-10T22:17:50.210925+00:00",
+      "last_seen": "2026-10-10T22:17:50.210925+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "5168249ae64f2f0062026662bfa02309831b2046",
+      "job_key": "jobspy/indeed:in-452396f99da14997",
+      "source": "jobspy/indeed",
+      "external_id": "in-452396f99da14997",
+      "title": "Aprendiz Repositor - RJ",
+      "company": "BRF",
+      "location": "Rio de Janeiro, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=452396f99da14997",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.209073+00:00",
+      "last_seen": "2026-10-10T22:17:50.209073+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "4a2c994ba9efff0101eb2e1e12838156ac6a52c9",
+      "job_key": "jobspy/indeed:in-76ca62f718a298e9",
+      "source": "jobspy/indeed",
+      "external_id": "in-76ca62f718a298e9",
+      "title": "Assistente de Benefícios | Seguro de Vida",
+      "company": "Segna Consultoria Assessoria e corretora de seguros",
+      "location": "Rio de Janeiro, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=76ca62f718a298e9",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.207973+00:00",
+      "last_seen": "2026-10-10T22:17:50.207973+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "8a3e3990c2a516a886ca7f5377e32298a3d2a925",
+      "job_key": "jobspy/indeed:in-1c202a8814a0c278",
+      "source": "jobspy/indeed",
+      "external_id": "in-1c202a8814a0c278",
+      "title": "Aprendiz Repositor - Extra Largo do Machado, RJ",
+      "company": "BRF",
+      "location": "Rio de Janeiro, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=1c202a8814a0c278",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.205042+00:00",
+      "last_seen": "2026-10-10T22:17:50.205042+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "babf3b0a26d8a5e2638ead72c7fc1afe389ceefd",
+      "job_key": "jobspy/indeed:in-9486a30a54fe23dd",
+      "source": "jobspy/indeed",
+      "external_id": "in-9486a30a54fe23dd",
+      "title": "VENDEDOR - Botafogo (LOJA LUIZA BARCELOS)",
+      "company": "Jobbol",
+      "location": "Rio de Janeiro, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=9486a30a54fe23dd",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.200438+00:00",
+      "last_seen": "2026-10-10T22:17:50.200438+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "7ec7e87bce1a21a26b8d5364fdc87bc9e44f337d",
+      "job_key": "jobspy/indeed:in-1e9ce020b020e657",
+      "source": "jobspy/indeed",
+      "external_id": "in-1e9ce020b020e657",
+      "title": "ESTÁGIO APRENDIZ - AUXILIAR DE LANCHONETE - SEG À SEX 8H ÀS 13:30H E SÁB 14H ÀS 19H",
+      "company": "ModoON Estágios",
+      "location": "Petrópolis, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=1e9ce020b020e657",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.197907+00:00",
+      "last_seen": "2026-10-10T22:17:50.197907+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "a2ef51a421a92074af2ed21e9238e6b8c1b9b596",
+      "job_key": "jobspy/indeed:in-a2755b449d79ba3a",
+      "source": "jobspy/indeed",
+      "external_id": "in-a2755b449d79ba3a",
+      "title": "APRENDIZ DE ATENDENTE DE RESTAURANTE ( CERAMICA - NOVA IGUACU/RJ)",
+      "company": "McDonald's",
+      "location": "Nova Iguaçu, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=a2755b449d79ba3a",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.191252+00:00",
+      "last_seen": "2026-10-10T22:17:50.191252+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "40bfb47ab50acaebb0b96bed68c0935f2203e55a",
+      "job_key": "jobspy/indeed:in-2c025c342685c24f",
+      "source": "jobspy/indeed",
+      "external_id": "in-2c025c342685c24f",
+      "title": "APRENDIZ DE ATENDENTE DE RESTAURANTE ( CENTRO - NOVA IGUACU/RJ)",
+      "company": "McDonald's",
+      "location": "Nova Iguaçu, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=2c025c342685c24f",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.189964+00:00",
+      "last_seen": "2026-10-10T22:17:50.189964+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "53a3a10b85dc79d818c6bc91e2f8c429f38b8fb4",
+      "job_key": "jobspy/linkedin:li-4475627512",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475627512",
+      "title": "Técnico em Segurança Eletrônica",
+      "company": "RB Solutions",
+      "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475627512",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.187622+00:00",
+      "last_seen": "2026-10-10T22:17:50.187622+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "57ee1c7aa1b5d7ae0268473584fbbff40a502568",
+      "job_key": "jobspy/linkedin:li-4477822659",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4477822659",
+      "title": "Customer Success Specialist",
+      "company": "Zipdev",
+      "location": "Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4477822659",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.182380+00:00",
+      "last_seen": "2026-10-10T22:17:50.182380+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "85ef04c0a4148781d0909ab15be9cbd9a65092f2",
+      "job_key": "jobspy/linkedin:li-4475241779",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475241779",
+      "title": "Auxiliar de TI",
+      "company": "Labore Saúde Ocupacional - Joinville/SC",
+      "location": "Joinville, Santa Catarina, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475241779",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.181561+00:00",
+      "last_seen": "2026-10-10T22:17:50.181561+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "e4c2dc54e9d3875cc93a09cd861a3d317d259d9c",
+      "job_key": "jobspy/linkedin:li-4477835236",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4477835236",
+      "title": "Assistente de laboratório",
+      "company": "Bondmann Química LTDA",
+      "location": "Indaiatuba, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4477835236",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.180583+00:00",
+      "last_seen": "2026-10-10T22:17:50.180583+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "42a71a6cebcb9691a1a1707d2ea69f3432855950",
+      "job_key": "jobspy/linkedin:li-4475248374",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475248374",
+      "title": "Atendimento ao cliente - Vaga Exclusiva para Mulheres",
+      "company": "Benefício Legal",
+      "location": "São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475248374",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.179505+00:00",
+      "last_seen": "2026-10-10T22:17:50.179505+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "9571f14a8d695b51fa9d6ef13b2bc8e3f743694e",
+      "job_key": "jobspy/linkedin:li-4475616484",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475616484",
+      "title": "Técnico de suporte",
+      "company": "3AM IT Services",
+      "location": "Faxinal dos Guedes, Santa Catarina, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475616484",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.168613+00:00",
+      "last_seen": "2026-10-10T22:17:50.168613+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "0118be3a6861445c5c26a491d1a6fabba23e530c",
+      "job_key": "jobspy/linkedin:li-4474492121",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4474492121",
+      "title": "Atendente Ativo",
+      "company": "Alert Brasil",
+      "location": "Campinas, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4474492121",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.167787+00:00",
+      "last_seen": "2026-10-10T22:17:50.167787+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "f38e27cb4928f1625ee49732a0c1e2c260099c9e",
+      "job_key": "jobspy/linkedin:li-4475615793",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475615793",
+      "title": "Analista de suporte técnico",
+      "company": "We3 Tecnologia",
+      "location": "Palmas, Tocantins, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475615793",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.165159+00:00",
+      "last_seen": "2026-10-10T22:17:50.165159+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "f9550f434e7d3c726a27da20b21b405f7d7c6920",
+      "job_key": "jobspy/indeed:in-a22788a4cb999fb8",
+      "source": "jobspy/indeed",
+      "external_id": "in-a22788a4cb999fb8",
+      "title": "Assistente Administrativo - Sem experiência",
+      "company": "Caderno Nacional",
+      "location": "Duque de Caxias, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=a22788a4cb999fb8",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.133727+00:00",
+      "last_seen": "2026-10-10T22:17:50.133727+00:00",
+      "score": 7,
+      "label": "SECUNDÁRIA"
+    },
+    {
+      "fingerprint": "966e41d034a90bea3fa851660a87dd891c8aed93",
+      "job_key": "jobspy/indeed:in-30973799395f39c9",
+      "source": "jobspy/indeed",
+      "external_id": "in-30973799395f39c9",
+      "title": "JOVEM APRENDIZ - Copacabana - Sem experiência (Accor)",
+      "company": "Jobbol",
+      "location": "Rio de Janeiro, RJ, BR",
+      "url": "https://br.indeed.com/viewjob?jk=30973799395f39c9",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.129610+00:00",
+      "last_seen": "2026-10-10T22:17:50.129610+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "d6ae60d8384937c3e78d182c7797365a7b63a0fc",
+      "job_key": "jobspy/linkedin:li-4477226409",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4477226409",
+      "title": "Assistente Administrativo - Capsi Dom Adriano Hipólito",
+      "company": "AFNE - Associação Filantrópica Nova Esperança",
+      "location": "Nova Iguaçu, Rio de Janeiro, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4477226409",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.124498+00:00",
+      "last_seen": "2026-10-10T22:17:50.124498+00:00",
+      "score": 7,
+      "label": "SECUNDÁRIA"
+    },
+    {
+      "fingerprint": "b5ea50dacd8fa32b85049ecdac588804310058d0",
+      "job_key": "jobspy/linkedin:li-4475620663",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475620663",
+      "title": "Secretária comercial",
+      "company": "WeClinics",
+      "location": "São Gonçalo, Rio de Janeiro, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475620663",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.106531+00:00",
+      "last_seen": "2026-10-10T22:17:50.106531+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "2090d4a60f9cd6ee0620ee73732b59c365846ca4",
+      "job_key": "jobspy/linkedin:li-4478076295",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4478076295",
+      "title": "Auxiliar de Backoffice",
+      "company": "Grupo Orbenk",
+      "location": "Florianópolis, Santa Catarina, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4478076295",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.090190+00:00",
+      "last_seen": "2026-10-10T22:17:50.090190+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "4df9476c214d567104201e221205a9e8266d72fc",
+      "job_key": "jobspy/linkedin:li-4478074655",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4478074655",
+      "title": "Analista Administrativo de Operações",
+      "company": "Jobbol",
+      "location": "Guarulhos, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4478074655",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.089279+00:00",
+      "last_seen": "2026-10-10T22:17:50.089279+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "1be7a66440c71dd24ea919ba09ea8fe494836332",
+      "job_key": "jobspy/linkedin:li-4477819868",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4477819868",
+      "title": "Partner Operations Analyst",
+      "company": "Decolar Brasil",
+      "location": "Greater São Paulo Area",
+      "url": "https://www.linkedin.com/jobs/view/4477819868",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.087811+00:00",
+      "last_seen": "2026-10-10T22:17:50.087811+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "3295ef1d5fbc4136c3432d9c352ec63356309977",
+      "job_key": "jobspy/linkedin:li-4466095922",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4466095922",
+      "title": "Assistente de Suporte Comercial - Flytour Eventos - BeFly",
+      "company": "BeFly",
+      "location": "São Paulo, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4466095922",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.087081+00:00",
+      "last_seen": "2026-10-10T22:17:50.087081+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "300e73c5a0ffa29a9f5143ab01b8023b35d22c9b",
+      "job_key": "jobspy/linkedin:li-4475250471",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475250471",
+      "title": "Auxiliar Administrativo (PCD)",
+      "company": "MONGEL Guindastes & Transportes",
+      "location": "Tarumã, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475250471",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.086175+00:00",
+      "last_seen": "2026-10-10T22:17:50.086175+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "6b0184cab8b76cf7d60198162403c8e7a582a6d0",
+      "job_key": "jobspy/linkedin:li-4475233789",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475233789",
+      "title": "Assistente de Suporte Comercial",
+      "company": "Empresa Confidencial",
+      "location": "São Paulo, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475233789",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.085316+00:00",
+      "last_seen": "2026-10-10T22:17:50.085316+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "0ade13341893fef1835dfb594cc15d3044be8c5f",
+      "job_key": "jobspy/linkedin:li-4475615730",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475615730",
+      "title": "Assistente administrativo",
+      "company": "Hong Decor",
+      "location": "Belém, Pará, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475615730",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.074697+00:00",
+      "last_seen": "2026-10-10T22:17:50.074697+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "1eada1d71cd03e4251e74676a8b5a4145fd50f4d",
+      "job_key": "jobspy/indeed:in-be1201383499c371",
+      "source": "jobspy/indeed",
+      "external_id": "in-be1201383499c371",
+      "title": "[Campus Monks] Estágio em Conteúdo",
+      "company": "Monks",
+      "location": "Sorocaba, SP, BR",
+      "url": "https://br.indeed.com/viewjob?jk=be1201383499c371",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.062937+00:00",
+      "last_seen": "2026-10-10T22:17:50.062937+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "0dfd14d700423c915392a46376265f84b02f56fc",
+      "job_key": "jobspy/indeed:in-5074570ba4d90d9b",
+      "source": "jobspy/indeed",
+      "external_id": "in-5074570ba4d90d9b",
+      "title": "Coordenador(a) de Arquitetura e Governança de Dados",
+      "company": "LEFOSSE",
+      "location": "São Paulo, SP, BR",
+      "url": "https://br.indeed.com/viewjob?jk=5074570ba4d90d9b",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.054918+00:00",
+      "last_seen": "2026-10-10T22:17:50.054918+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "aa2864325f854c907a3f4e4c2849a802ca3e0a1f",
+      "job_key": "jobspy/linkedin:li-4475267188",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475267188",
+      "title": "Líder Sênior de Equipe Logística - Mercado Envios",
+      "company": "Mercado Livre Brasil",
+      "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475267188",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.031895+00:00",
+      "last_seen": "2026-10-10T22:17:50.031895+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "be707ab12147a1ec7702a9a875e269f4be90e762",
+      "job_key": "jobspy/linkedin:li-4476873564",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4476873564",
+      "title": "Estágio em Tecnologia da Informação (TI)",
+      "company": "Hospitaliti",
+      "location": "Greater Rio de Janeiro",
+      "url": "https://www.linkedin.com/jobs/view/4476873564",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.021890+00:00",
+      "last_seen": "2026-10-10T22:17:50.021890+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "24074ecd238d56485e11ef720fb7bafbefb56ba3",
+      "job_key": "jobspy/linkedin:li-4478012177",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4478012177",
+      "title": "Analista de Processos II",
+      "company": "Accerth Serviços e Tecnologia Ltda.",
+      "location": "Greater Rio de Janeiro",
+      "url": "https://www.linkedin.com/jobs/view/4478012177",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.021013+00:00",
+      "last_seen": "2026-10-10T22:17:50.021013+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "1033fa8a2f9337e9d8af6895b513719f4d2c5a80",
+      "job_key": "jobspy/linkedin:li-4404098557",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4404098557",
+      "title": "Technical Consultant Analyst",
+      "company": "Peloton Consulting Group",
+      "location": "Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4404098557",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.015236+00:00",
+      "last_seen": "2026-10-10T22:17:50.015236+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "4a7cb3438de5e1216b8cc9b0b4d18878f231e74b",
+      "job_key": "jobspy/linkedin:li-4476833437",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4476833437",
+      "title": "Estágiario(a) em Dados, Automação e Transformação Digital",
+      "company": "ECO3",
+      "location": "São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4476833437",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.014445+00:00",
+      "last_seen": "2026-10-10T22:17:50.014445+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "a4fbebca632c476a0748a432b74b96cf486a54ec",
+      "job_key": "jobspy/linkedin:li-4477876150",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4477876150",
+      "title": "Diretor de Operações e Inteligência Comercial",
+      "company": "Cirion Technologies",
+      "location": "Brasília, Federal District, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4477876150",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.013676+00:00",
+      "last_seen": "2026-10-10T22:17:50.013676+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "aaa901339bc50d0539fbcf57f2595f7a6f8ce81c",
+      "job_key": "jobspy/linkedin:li-4477847440",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4477847440",
+      "title": "Analista de PCM Sr.",
+      "company": "Capricórnio Têxtil",
+      "location": "São Carlos, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4477847440",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.013014+00:00",
+      "last_seen": "2026-10-10T22:17:50.013014+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "b9fff68f423cccfa4ba615d9da3e6b2b7aae3d9d",
+      "job_key": "jobspy/linkedin:li-4476851321",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4476851321",
+      "title": "Analista de Automação de Processos Pleno",
+      "company": "Timbro Trading",
+      "location": "São Paulo, São Paulo, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4476851321",
+      "posted_at": "2026-10-09",
+      "first_seen": "2026-10-10T22:17:50.012101+00:00",
+      "last_seen": "2026-10-10T22:17:50.012101+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "10f145b0a95b05ab237d0c59bcb960d693a67c32",
+      "job_key": "jobspy/linkedin:li-4469173704",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4469173704",
+      "title": "OPERATIONS ANALYST I | DIGITAL REAL ESTATE & CLOSER MG",
+      "company": "Inter",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4469173704",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.006142+00:00",
+      "last_seen": "2026-10-10T22:17:50.006142+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "85cdf66d87fb8ff54b5e95bbe2aade16376edd38",
+      "job_key": "jobspy/linkedin:li-4404394162",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4404394162",
+      "title": "DATA ANALYST II",
+      "company": "Inter",
+      "location": "Greater Belo Horizonte",
+      "url": "https://www.linkedin.com/jobs/view/4404394162",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.005324+00:00",
+      "last_seen": "2026-10-10T22:17:50.005324+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "25eafcc47d9235c7cb4871e79aa366a858e20f9c",
+      "job_key": "jobspy/linkedin:li-4475620841",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475620841",
+      "title": "Especialista Sênior em Pricing e Controladoria Logística",
+      "company": "Envia Daki",
+      "location": "Bahia, Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4475620841",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.004588+00:00",
+      "last_seen": "2026-10-10T22:17:50.004588+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "cb98324b2dec4712a4482afbb811e478ac66c66f",
+      "job_key": "jobspy/linkedin:li-4478076099",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4478076099",
+      "title": "Data Science | Remote",
+      "company": "AI/R",
+      "location": "Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4478076099",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.003976+00:00",
+      "last_seen": "2026-10-10T22:17:50.003976+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "198b4bde09e2be0c15f512340dd9988103078ca7",
+      "job_key": "jobspy/linkedin:li-4475622771",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4475622771",
+      "title": "Assistente de Dados Processos e Inovação",
+      "company": "CredCrea – Cooperativa Ailos",
+      "location": "Greater Florianopolis",
+      "url": "https://www.linkedin.com/jobs/view/4475622771",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.002315+00:00",
+      "last_seen": "2026-10-10T22:17:50.002315+00:00",
+      "score": 0,
+      "label": "DESCARTADA"
+    },
+    {
+      "fingerprint": "7df9b47876703bc5130534012e61ccbb491b2c29",
+      "job_key": "jobspy/linkedin:li-4478087107",
+      "source": "jobspy/linkedin",
+      "external_id": "li-4478087107",
+      "title": "Analista de BI | Remote",
+      "company": "AI/R",
+      "location": "Brazil",
+      "url": "https://www.linkedin.com/jobs/view/4478087107",
+      "posted_at": "2026-10-10",
+      "first_seen": "2026-10-10T22:17:50.001503+00:00",
+      "last_seen": "2026-10-10T22:17:50.001503+00:00",
+      "score": 13,
+      "label": "PRIORIDADE"
+    },
+    {
       "fingerprint": "7ef656d66e3d2ed6104de120bcebe60306accb0d",
       "job_key": "jobspy/indeed:in-46d3fb8d7bf60f9b",
       "source": "jobspy/indeed",
@@ -12,7 +687,7 @@
       "url": "https://br.indeed.com/viewjob?jk=46d3fb8d7bf60f9b",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.997302+00:00",
-      "last_seen": "2026-10-10T16:10:10.997302+00:00",
+      "last_seen": "2026-10-10T22:17:50.227677+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -27,7 +702,7 @@
       "url": "https://br.indeed.com/viewjob?jk=545b5f10bc45ddfb",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.995647+00:00",
-      "last_seen": "2026-10-10T16:10:10.995647+00:00",
+      "last_seen": "2026-10-10T22:17:50.226458+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -42,7 +717,7 @@
       "url": "https://br.indeed.com/viewjob?jk=ae3d8b53127ed37d",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.994252+00:00",
-      "last_seen": "2026-10-10T16:10:10.994252+00:00",
+      "last_seen": "2026-10-10T22:17:50.225447+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -57,7 +732,7 @@
       "url": "https://br.indeed.com/viewjob?jk=7b3c8214c32197d4",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.993123+00:00",
-      "last_seen": "2026-10-10T16:10:10.993123+00:00",
+      "last_seen": "2026-10-10T22:17:50.216276+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -72,7 +747,7 @@
       "url": "https://br.indeed.com/viewjob?jk=754a031413edf803",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.991238+00:00",
-      "last_seen": "2026-10-10T16:10:10.991238+00:00",
+      "last_seen": "2026-10-10T22:17:50.219221+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -87,7 +762,7 @@
       "url": "https://br.indeed.com/viewjob?jk=52be4ad7186651a2",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.989700+00:00",
-      "last_seen": "2026-10-10T16:10:10.989700+00:00",
+      "last_seen": "2026-10-10T22:17:50.221477+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -102,7 +777,7 @@
       "url": "https://br.indeed.com/viewjob?jk=cff25079a35d213f",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.988443+00:00",
-      "last_seen": "2026-10-10T16:10:10.988443+00:00",
+      "last_seen": "2026-10-10T22:17:50.224606+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -132,7 +807,7 @@
       "url": "https://br.indeed.com/viewjob?jk=41912a9a7949f9f1",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.982598+00:00",
-      "last_seen": "2026-10-10T16:10:10.982598+00:00",
+      "last_seen": "2026-10-10T22:17:50.218031+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -147,7 +822,7 @@
       "url": "https://br.indeed.com/viewjob?jk=e81ccacafeeaee35",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.976091+00:00",
-      "last_seen": "2026-10-10T16:10:10.976091+00:00",
+      "last_seen": "2026-10-10T22:17:50.213644+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -162,7 +837,7 @@
       "url": "https://br.indeed.com/viewjob?jk=60d282d35fcb579b",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.974697+00:00",
-      "last_seen": "2026-10-10T16:10:10.974697+00:00",
+      "last_seen": "2026-10-10T22:17:50.212484+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -177,7 +852,7 @@
       "url": "https://br.indeed.com/viewjob?jk=599525c6512c5862",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-10T16:10:10.973282+00:00",
-      "last_seen": "2026-10-10T16:10:10.973282+00:00",
+      "last_seen": "2026-10-10T22:17:50.209983+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -222,7 +897,7 @@
       "url": "https://br.indeed.com/viewjob?jk=34d5dfc17e68da44",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.968433+00:00",
-      "last_seen": "2026-10-10T16:10:10.968433+00:00",
+      "last_seen": "2026-10-10T22:17:50.196171+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -237,7 +912,7 @@
       "url": "https://br.indeed.com/viewjob?jk=d53dddb47624d7d6",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.967116+00:00",
-      "last_seen": "2026-10-10T16:10:10.967116+00:00",
+      "last_seen": "2026-10-10T22:17:50.202731+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -267,7 +942,7 @@
       "url": "https://br.indeed.com/viewjob?jk=df4e9c3f0e785dfe",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.963565+00:00",
-      "last_seen": "2026-10-10T16:10:10.963565+00:00",
+      "last_seen": "2026-10-10T22:17:50.206949+00:00",
       "score": 9,
       "label": "SECUNDÁRIA"
     },
@@ -282,7 +957,7 @@
       "url": "https://br.indeed.com/viewjob?jk=1ea5c227806404a2",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.961511+00:00",
-      "last_seen": "2026-10-10T16:10:10.961511+00:00",
+      "last_seen": "2026-10-10T22:17:50.193452+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -297,7 +972,7 @@
       "url": "https://br.indeed.com/viewjob?jk=e30cb262d99ada7a",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.956439+00:00",
-      "last_seen": "2026-10-10T16:10:10.956439+00:00",
+      "last_seen": "2026-10-10T22:17:50.198896+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -417,7 +1092,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475266524",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.943647+00:00",
-      "last_seen": "2026-10-10T16:10:10.943647+00:00",
+      "last_seen": "2026-10-10T22:17:50.188700+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -492,7 +1167,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478021074",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.938656+00:00",
-      "last_seen": "2026-10-10T16:10:10.938656+00:00",
+      "last_seen": "2026-10-10T22:17:50.186705+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -507,7 +1182,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477205003",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.937304+00:00",
-      "last_seen": "2026-10-10T16:10:10.937304+00:00",
+      "last_seen": "2026-10-10T22:17:50.185554+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -522,7 +1197,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478009807",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.936531+00:00",
-      "last_seen": "2026-10-10T16:10:10.936531+00:00",
+      "last_seen": "2026-10-10T22:17:50.184398+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -702,7 +1377,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476840653",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.910718+00:00",
-      "last_seen": "2026-10-10T16:10:10.910718+00:00",
+      "last_seen": "2026-10-10T22:17:50.178742+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -717,7 +1392,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476833226",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.909610+00:00",
-      "last_seen": "2026-10-10T16:10:10.909610+00:00",
+      "last_seen": "2026-10-10T22:17:50.177931+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -732,7 +1407,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476829607",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.908624+00:00",
-      "last_seen": "2026-10-10T16:10:10.908624+00:00",
+      "last_seen": "2026-10-10T22:17:50.177136+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -762,7 +1437,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477857854",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.906746+00:00",
-      "last_seen": "2026-10-10T16:10:10.906746+00:00",
+      "last_seen": "2026-10-10T22:17:50.176407+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -807,7 +1482,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476815705",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.903562+00:00",
-      "last_seen": "2026-10-10T16:10:10.903562+00:00",
+      "last_seen": "2026-10-10T22:17:50.175482+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -822,7 +1497,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475294566",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.892579+00:00",
-      "last_seen": "2026-10-10T16:10:10.892579+00:00",
+      "last_seen": "2026-10-10T22:17:50.167020+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -837,7 +1512,7 @@
       "url": "https://www.linkedin.com/jobs/view/4472617833",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.891416+00:00",
-      "last_seen": "2026-10-10T16:10:10.891416+00:00",
+      "last_seen": "2026-10-10T22:17:50.166317+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -867,7 +1542,7 @@
       "url": "https://br.indeed.com/viewjob?jk=e4b61bbfb222f3e6",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.885760+00:00",
-      "last_seen": "2026-10-10T16:10:10.885760+00:00",
+      "last_seen": "2026-10-10T22:17:50.163383+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -882,7 +1557,7 @@
       "url": "https://br.indeed.com/viewjob?jk=fecdabcee46fda29",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.877207+00:00",
-      "last_seen": "2026-10-10T16:10:10.877207+00:00",
+      "last_seen": "2026-10-10T22:17:50.156111+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -897,7 +1572,7 @@
       "url": "https://br.indeed.com/viewjob?jk=2c7429f7b18d123f",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.875444+00:00",
-      "last_seen": "2026-10-10T16:10:10.875444+00:00",
+      "last_seen": "2026-10-10T22:17:50.154697+00:00",
       "score": 11,
       "label": "PRIORIDADE"
     },
@@ -912,7 +1587,7 @@
       "url": "https://br.indeed.com/viewjob?jk=ce2fcbd269368c6a",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.873600+00:00",
-      "last_seen": "2026-10-10T16:10:10.873600+00:00",
+      "last_seen": "2026-10-10T22:17:50.157401+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -927,7 +1602,7 @@
       "url": "https://br.indeed.com/viewjob?jk=87d47c9a9f47802d",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.871866+00:00",
-      "last_seen": "2026-10-10T16:10:10.871866+00:00",
+      "last_seen": "2026-10-10T22:17:50.158533+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -942,7 +1617,7 @@
       "url": "https://br.indeed.com/viewjob?jk=910300110a574f1e",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.855256+00:00",
-      "last_seen": "2026-10-10T16:10:10.855256+00:00",
+      "last_seen": "2026-10-10T22:17:50.142461+00:00",
       "score": 13,
       "label": "PRIORIDADE"
     },
@@ -957,7 +1632,7 @@
       "url": "https://br.indeed.com/viewjob?jk=9d5969a893fc0448",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.848086+00:00",
-      "last_seen": "2026-10-10T16:10:10.848086+00:00",
+      "last_seen": "2026-10-10T22:17:50.136783+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -1002,7 +1677,7 @@
       "url": "https://br.indeed.com/viewjob?jk=979a716aa90f2877",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.842084+00:00",
-      "last_seen": "2026-10-10T16:10:10.842084+00:00",
+      "last_seen": "2026-10-10T22:17:50.132262+00:00",
       "score": 12,
       "label": "PRIORIDADE"
     },
@@ -1017,7 +1692,7 @@
       "url": "https://br.indeed.com/viewjob?jk=7e4b10d829e736a6",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.840031+00:00",
-      "last_seen": "2026-10-10T16:10:10.840031+00:00",
+      "last_seen": "2026-10-10T22:17:50.135184+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -1032,7 +1707,7 @@
       "url": "https://br.indeed.com/viewjob?jk=3b825a3db5515cf3",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.838359+00:00",
-      "last_seen": "2026-10-10T16:10:10.838359+00:00",
+      "last_seen": "2026-10-10T22:17:50.130925+00:00",
       "score": 7,
       "label": "SECUNDÁRIA"
     },
@@ -1062,7 +1737,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477856695",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.834657+00:00",
-      "last_seen": "2026-10-10T16:10:10.834657+00:00",
+      "last_seen": "2026-10-10T22:17:50.128691+00:00",
       "score": 7,
       "label": "SECUNDÁRIA"
     },
@@ -1092,7 +1767,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476870822",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.827852+00:00",
-      "last_seen": "2026-10-10T16:10:10.827852+00:00",
+      "last_seen": "2026-10-10T22:17:50.125489+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1107,7 +1782,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476891001",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.826761+00:00",
-      "last_seen": "2026-10-10T16:10:10.826761+00:00",
+      "last_seen": "2026-10-10T22:17:50.122741+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1122,7 +1797,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475615410",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.825726+00:00",
-      "last_seen": "2026-10-10T16:10:10.825726+00:00",
+      "last_seen": "2026-10-10T22:17:50.121291+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -1137,7 +1812,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478046071",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.823204+00:00",
-      "last_seen": "2026-10-10T16:10:10.823204+00:00",
+      "last_seen": "2026-10-10T22:17:50.119346+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1152,7 +1827,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478034868",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.822105+00:00",
-      "last_seen": "2026-10-10T16:10:10.822105+00:00",
+      "last_seen": "2026-10-10T22:17:50.118519+00:00",
       "score": 7,
       "label": "SECUNDÁRIA"
     },
@@ -1167,7 +1842,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475605788",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.820530+00:00",
-      "last_seen": "2026-10-10T16:10:10.820530+00:00",
+      "last_seen": "2026-10-10T22:17:50.117451+00:00",
       "score": 6,
       "label": "REVISAR"
     },
@@ -1182,7 +1857,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478033971",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.817487+00:00",
-      "last_seen": "2026-10-10T16:10:10.817487+00:00",
+      "last_seen": "2026-10-10T22:17:50.115571+00:00",
       "score": 6,
       "label": "REVISAR"
     },
@@ -1197,7 +1872,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478032630",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.816095+00:00",
-      "last_seen": "2026-10-10T16:10:10.816095+00:00",
+      "last_seen": "2026-10-10T22:17:50.114505+00:00",
       "score": 7,
       "label": "SECUNDÁRIA"
     },
@@ -1212,7 +1887,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475256935",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.807047+00:00",
-      "last_seen": "2026-10-10T16:10:10.807047+00:00",
+      "last_seen": "2026-10-10T22:17:50.104002+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1227,7 +1902,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478003567",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.798563+00:00",
-      "last_seen": "2026-10-10T16:10:10.798563+00:00",
+      "last_seen": "2026-10-10T22:17:50.096975+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1257,7 +1932,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477895906",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.796309+00:00",
-      "last_seen": "2026-10-10T16:10:10.796309+00:00",
+      "last_seen": "2026-10-10T22:17:50.095827+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1272,7 +1947,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475600294",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.794715+00:00",
-      "last_seen": "2026-10-10T16:10:10.794715+00:00",
+      "last_seen": "2026-10-10T22:17:50.094977+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1287,7 +1962,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475603853",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.793654+00:00",
-      "last_seen": "2026-10-10T16:10:10.793654+00:00",
+      "last_seen": "2026-10-10T22:17:50.094249+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1302,7 +1977,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478007368",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.792605+00:00",
-      "last_seen": "2026-10-10T16:10:10.792605+00:00",
+      "last_seen": "2026-10-10T22:17:50.093502+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1317,7 +1992,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478002532",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.790577+00:00",
-      "last_seen": "2026-10-10T16:10:10.790577+00:00",
+      "last_seen": "2026-10-10T22:17:50.091789+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1332,7 +2007,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475610667",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.789564+00:00",
-      "last_seen": "2026-10-10T16:10:10.789564+00:00",
+      "last_seen": "2026-10-10T22:17:50.091034+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1347,7 +2022,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476888123",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.788119+00:00",
-      "last_seen": "2026-10-10T16:10:10.788119+00:00",
+      "last_seen": "2026-10-10T22:17:50.088530+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1362,7 +2037,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475261305",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.786531+00:00",
-      "last_seen": "2026-10-10T16:10:10.786531+00:00",
+      "last_seen": "2026-10-10T22:17:50.084608+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1377,7 +2052,7 @@
       "url": "https://www.linkedin.com/jobs/view/4428868089",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.785268+00:00",
-      "last_seen": "2026-10-10T16:10:10.785268+00:00",
+      "last_seen": "2026-10-10T22:17:50.083923+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1407,7 +2082,7 @@
       "url": "https://www.linkedin.com/jobs/view/4474489358",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.783322+00:00",
-      "last_seen": "2026-10-10T16:10:10.783322+00:00",
+      "last_seen": "2026-10-10T22:17:50.083181+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1437,7 +2112,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475249648",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.781176+00:00",
-      "last_seen": "2026-10-10T16:10:10.781176+00:00",
+      "last_seen": "2026-10-10T22:17:50.082337+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1452,7 +2127,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476842184",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.780068+00:00",
-      "last_seen": "2026-10-10T16:10:10.780068+00:00",
+      "last_seen": "2026-10-10T22:17:50.081559+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1467,7 +2142,7 @@
       "url": "https://www.linkedin.com/jobs/view/4441698404",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.769929+00:00",
-      "last_seen": "2026-10-10T16:10:10.769929+00:00",
+      "last_seen": "2026-10-10T22:17:50.073734+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1482,7 +2157,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475618539",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.768848+00:00",
-      "last_seen": "2026-10-10T16:10:10.768848+00:00",
+      "last_seen": "2026-10-10T22:17:50.072955+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1497,7 +2172,7 @@
       "url": "https://br.indeed.com/viewjob?jk=606e46d90492dbfa",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-10T16:10:10.768057+00:00",
-      "last_seen": "2026-10-10T16:10:10.768057+00:00",
+      "last_seen": "2026-10-10T22:17:50.072247+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1512,7 +2187,7 @@
       "url": "https://br.indeed.com/viewjob?jk=5af888b367ccc26c",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.766982+00:00",
-      "last_seen": "2026-10-10T16:10:10.766982+00:00",
+      "last_seen": "2026-10-10T22:17:50.065493+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1527,7 +2202,7 @@
       "url": "https://br.indeed.com/viewjob?jk=22c56b37735f6334",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.763540+00:00",
-      "last_seen": "2026-10-10T16:10:10.763540+00:00",
+      "last_seen": "2026-10-10T22:17:50.068785+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1542,7 +2217,7 @@
       "url": "https://br.indeed.com/viewjob?jk=c08ce3423bc0a615",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.760176+00:00",
-      "last_seen": "2026-10-10T16:10:10.760176+00:00",
+      "last_seen": "2026-10-10T22:17:50.067566+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1557,7 +2232,7 @@
       "url": "https://br.indeed.com/viewjob?jk=0b9a5b46ac34bafb",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.756581+00:00",
-      "last_seen": "2026-10-10T16:10:10.756581+00:00",
+      "last_seen": "2026-10-10T22:17:50.066765+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1572,7 +2247,7 @@
       "url": "https://br.indeed.com/viewjob?jk=ff3841265df373f5",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.747018+00:00",
-      "last_seen": "2026-10-10T16:10:10.747018+00:00",
+      "last_seen": "2026-10-10T22:17:50.061404+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1587,7 +2262,7 @@
       "url": "https://br.indeed.com/viewjob?jk=74e6fea3d308ca6c",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.743871+00:00",
-      "last_seen": "2026-10-10T16:10:10.743871+00:00",
+      "last_seen": "2026-10-10T22:17:50.056436+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1602,7 +2277,7 @@
       "url": "https://br.indeed.com/viewjob?jk=6d436f9fde4fa3dd",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.742266+00:00",
-      "last_seen": "2026-10-10T16:10:10.742266+00:00",
+      "last_seen": "2026-10-10T22:17:50.051535+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1617,7 +2292,7 @@
       "url": "https://br.indeed.com/viewjob?jk=21ef62e3739467f3",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.740365+00:00",
-      "last_seen": "2026-10-10T16:10:10.740365+00:00",
+      "last_seen": "2026-10-10T22:17:50.053660+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1632,7 +2307,7 @@
       "url": "https://br.indeed.com/viewjob?jk=9ffe0b799aae9f36",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.739084+00:00",
-      "last_seen": "2026-10-10T16:10:10.739084+00:00",
+      "last_seen": "2026-10-10T22:17:50.052699+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1647,7 +2322,7 @@
       "url": "https://br.indeed.com/viewjob?jk=1c43c6b491840746",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.737613+00:00",
-      "last_seen": "2026-10-10T16:10:10.737613+00:00",
+      "last_seen": "2026-10-10T22:17:50.048173+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1662,7 +2337,7 @@
       "url": "https://br.indeed.com/viewjob?jk=db8f106df5a1c8fa",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.735062+00:00",
-      "last_seen": "2026-10-10T16:10:10.735062+00:00",
+      "last_seen": "2026-10-10T22:17:50.043882+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1677,7 +2352,7 @@
       "url": "https://br.indeed.com/viewjob?jk=d9077ac1fb4d0a69",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.731837+00:00",
-      "last_seen": "2026-10-10T16:10:10.731837+00:00",
+      "last_seen": "2026-10-10T22:17:50.041084+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1692,7 +2367,7 @@
       "url": "https://br.indeed.com/viewjob?jk=f95bb233f659e461",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.730791+00:00",
-      "last_seen": "2026-10-10T16:10:10.730791+00:00",
+      "last_seen": "2026-10-10T22:17:50.040316+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1707,7 +2382,7 @@
       "url": "https://br.indeed.com/viewjob?jk=bfcd9cd35be856f9",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.729261+00:00",
-      "last_seen": "2026-10-10T16:10:10.729261+00:00",
+      "last_seen": "2026-10-10T22:17:50.045156+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1722,7 +2397,7 @@
       "url": "https://br.indeed.com/viewjob?jk=4b374a081aac8306",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.727646+00:00",
-      "last_seen": "2026-10-10T16:10:10.727646+00:00",
+      "last_seen": "2026-10-10T22:17:50.050478+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1737,7 +2412,7 @@
       "url": "https://br.indeed.com/viewjob?jk=93f315f89a1f4a8f",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.725911+00:00",
-      "last_seen": "2026-10-10T16:10:10.725911+00:00",
+      "last_seen": "2026-10-10T22:17:50.047136+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1752,7 +2427,7 @@
       "url": "https://br.indeed.com/viewjob?jk=cea3ca4737d4a55b",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.721974+00:00",
-      "last_seen": "2026-10-10T16:10:10.721974+00:00",
+      "last_seen": "2026-10-10T22:17:50.046180+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1767,7 +2442,7 @@
       "url": "https://br.indeed.com/viewjob?jk=5e03b99134c730a5",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.719676+00:00",
-      "last_seen": "2026-10-10T16:10:10.719676+00:00",
+      "last_seen": "2026-10-10T22:17:50.037130+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1782,7 +2457,7 @@
       "url": "https://br.indeed.com/viewjob?jk=77ecbed6d80c124e",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.718695+00:00",
-      "last_seen": "2026-10-10T16:10:10.718695+00:00",
+      "last_seen": "2026-10-10T22:17:50.035292+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1797,7 +2472,7 @@
       "url": "https://br.indeed.com/viewjob?jk=170e73d604377762",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.716713+00:00",
-      "last_seen": "2026-10-10T16:10:10.716713+00:00",
+      "last_seen": "2026-10-10T22:17:50.036191+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1827,7 +2502,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477859673",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.714898+00:00",
-      "last_seen": "2026-10-10T16:10:10.714898+00:00",
+      "last_seen": "2026-10-10T22:17:50.031335+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -1842,7 +2517,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475296017",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.706470+00:00",
-      "last_seen": "2026-10-10T16:10:10.706470+00:00",
+      "last_seen": "2026-10-10T22:17:50.019833+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1857,7 +2532,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475292574",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.705651+00:00",
-      "last_seen": "2026-10-10T16:10:10.705651+00:00",
+      "last_seen": "2026-10-10T22:17:50.019108+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1872,7 +2547,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476881346",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.704694+00:00",
-      "last_seen": "2026-10-10T16:10:10.704694+00:00",
+      "last_seen": "2026-10-10T22:17:50.018397+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1887,7 +2562,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478038605",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.703504+00:00",
-      "last_seen": "2026-10-10T16:10:10.703504+00:00",
+      "last_seen": "2026-10-10T22:17:50.017707+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1902,7 +2577,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475619262",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.702516+00:00",
-      "last_seen": "2026-10-10T16:10:10.702516+00:00",
+      "last_seen": "2026-10-10T22:17:50.017057+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1917,7 +2592,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478000624",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.700918+00:00",
-      "last_seen": "2026-10-10T16:10:10.700918+00:00",
+      "last_seen": "2026-10-10T22:17:50.015803+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -1932,7 +2607,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477898278",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.690688+00:00",
-      "last_seen": "2026-10-10T16:10:10.690688+00:00",
+      "last_seen": "2026-10-10T22:17:50.105502+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2037,7 +2712,7 @@
       "url": "https://www.linkedin.com/jobs/view/4471118392",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.673915+00:00",
-      "last_seen": "2026-10-10T16:10:10.673915+00:00",
+      "last_seen": "2026-10-10T22:17:50.011544+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2112,7 +2787,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475264043",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.669322+00:00",
-      "last_seen": "2026-10-10T16:10:10.669322+00:00",
+      "last_seen": "2026-10-10T22:17:50.010634+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2172,7 +2847,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475236990",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10T16:10:10.666099+00:00",
-      "last_seen": "2026-10-10T16:10:10.666099+00:00",
+      "last_seen": "2026-10-10T22:17:50.010054+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2187,7 +2862,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475623338",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-10T16:10:10.657171+00:00",
-      "last_seen": "2026-10-10T16:10:10.657171+00:00",
+      "last_seen": "2026-10-10T22:17:50.003069+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2202,7 +2877,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDUzMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T23:09:31.266Z",
       "first_seen": "2026-10-10T16:10:10.557511+00:00",
-      "last_seen": "2026-10-10T16:10:10.557511+00:00",
+      "last_seen": "2026-10-10T22:17:49.923073+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2217,7 +2892,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MTA1NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T12:39:21.001Z",
       "first_seen": "2026-10-10T16:10:10.553077+00:00",
-      "last_seen": "2026-10-10T16:10:10.553077+00:00",
+      "last_seen": "2026-10-10T22:17:49.920052+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2232,7 +2907,7 @@
       "url": "https://imediatonexway.gupy.io/job/eyJqb2JJZCI6MTI3MDY5MjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T13:11:59.632Z",
       "first_seen": "2026-10-10T16:10:10.549012+00:00",
-      "last_seen": "2026-10-10T16:10:10.549012+00:00",
+      "last_seen": "2026-10-10T22:17:49.917322+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2247,7 +2922,7 @@
       "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI2ODIwNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T13:27:03.883Z",
       "first_seen": "2026-10-10T16:10:10.547102+00:00",
-      "last_seen": "2026-10-10T16:10:10.547102+00:00",
+      "last_seen": "2026-10-10T22:17:49.916096+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2262,7 +2937,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MDgwNzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T14:53:32.421Z",
       "first_seen": "2026-10-10T16:10:10.544373+00:00",
-      "last_seen": "2026-10-10T16:10:10.544373+00:00",
+      "last_seen": "2026-10-10T22:17:49.913953+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2277,7 +2952,7 @@
       "url": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTE4OTIzNDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T00:11:36.171Z",
       "first_seen": "2026-10-10T16:10:10.455333+00:00",
-      "last_seen": "2026-10-10T16:10:10.455333+00:00",
+      "last_seen": "2026-10-10T22:17:49.843041+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2292,7 +2967,7 @@
       "url": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI3MTAxMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T03:05:07.145Z",
       "first_seen": "2026-10-10T16:10:10.453990+00:00",
-      "last_seen": "2026-10-10T16:10:10.453990+00:00",
+      "last_seen": "2026-10-10T22:17:49.841914+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2307,7 +2982,7 @@
       "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36853?utm_source=freehire.me",
       "posted_at": "2026-10-09T00:00:00Z",
       "first_seen": "2026-10-10T16:10:10.381012+00:00",
-      "last_seen": "2026-10-10T16:10:10.381012+00:00",
+      "last_seen": "2026-10-10T22:17:49.799512+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2322,7 +2997,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464664965__7076?geoID=19&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-10T13:41:23Z",
       "first_seen": "2026-10-10T16:10:10.369357+00:00",
-      "last_seen": "2026-10-10T16:10:10.369357+00:00",
+      "last_seen": "2026-10-10T22:17:49.790789+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2352,7 +3027,7 @@
       "url": "https://br.indeed.com/viewjob?jk=335c347b2f2b3b5d",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-09T23:06:31.294444+00:00",
-      "last_seen": "2026-10-10T16:10:10.998485+00:00",
+      "last_seen": "2026-10-10T22:17:50.230073+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2382,7 +3057,7 @@
       "url": "https://br.indeed.com/viewjob?jk=df110004fcdc4e19",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.284315+00:00",
-      "last_seen": "2026-10-10T16:10:10.984365+00:00",
+      "last_seen": "2026-10-10T22:17:50.214587+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2397,7 +3072,7 @@
       "url": "https://br.indeed.com/viewjob?jk=813b705c781c4ea5",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.281496+00:00",
-      "last_seen": "2026-10-10T16:10:10.987201+00:00",
+      "last_seen": "2026-10-10T22:17:50.215364+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2412,7 +3087,7 @@
       "url": "https://br.indeed.com/viewjob?jk=aec7e786c84a00d9",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.277867+00:00",
-      "last_seen": "2026-10-09T23:06:31.277867+00:00",
+      "last_seen": "2026-10-10T22:17:50.223243+00:00",
       "score": 11,
       "label": "PRIORIDADE"
     },
@@ -2502,7 +3177,7 @@
       "url": "https://br.indeed.com/viewjob?jk=6825ec5b12833525",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.268947+00:00",
-      "last_seen": "2026-10-10T16:10:10.966018+00:00",
+      "last_seen": "2026-10-10T22:17:50.194601+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2547,7 +3222,7 @@
       "url": "https://br.indeed.com/viewjob?jk=2f5bec2a22b396bf",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.265032+00:00",
-      "last_seen": "2026-10-10T16:10:10.955153+00:00",
+      "last_seen": "2026-10-10T22:17:50.192351+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2847,7 +3522,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477841355",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.223696+00:00",
-      "last_seen": "2026-10-10T16:10:10.899244+00:00",
+      "last_seen": "2026-10-10T22:17:50.174196+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2907,7 +3582,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477874280",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.216929+00:00",
-      "last_seen": "2026-10-10T16:10:10.893635+00:00",
+      "last_seen": "2026-10-10T22:17:50.169585+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2922,7 +3597,7 @@
       "url": "https://br.indeed.com/viewjob?jk=bc198d7ddd3c6c94",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.206443+00:00",
-      "last_seen": "2026-10-10T16:10:10.884368+00:00",
+      "last_seen": "2026-10-10T22:17:50.159564+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2937,7 +3612,7 @@
       "url": "https://br.indeed.com/viewjob?jk=73d24c67c11bb0f0",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.205386+00:00",
-      "last_seen": "2026-10-10T16:10:10.882740+00:00",
+      "last_seen": "2026-10-10T22:17:50.162287+00:00",
       "score": 11,
       "label": "PRIORIDADE"
     },
@@ -2952,7 +3627,7 @@
       "url": "https://br.indeed.com/viewjob?jk=37ddba58fbf776fd",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-09T23:06:31.197335+00:00",
-      "last_seen": "2026-10-10T16:10:10.870179+00:00",
+      "last_seen": "2026-10-10T22:17:50.149459+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2967,7 +3642,7 @@
       "url": "https://br.indeed.com/viewjob?jk=42f2aa5172afa12e",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-09T23:06:31.195483+00:00",
-      "last_seen": "2026-10-10T16:10:10.866247+00:00",
+      "last_seen": "2026-10-10T22:17:50.151652+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -2982,7 +3657,7 @@
       "url": "https://br.indeed.com/viewjob?jk=a5f8daf5b6654a71",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.189099+00:00",
-      "last_seen": "2026-10-10T16:10:10.861971+00:00",
+      "last_seen": "2026-10-10T22:17:50.148253+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -2997,7 +3672,7 @@
       "url": "https://br.indeed.com/viewjob?jk=8cc68ec6842ecef8",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.184155+00:00",
-      "last_seen": "2026-10-10T16:10:10.851751+00:00",
+      "last_seen": "2026-10-10T22:17:50.144308+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -3012,7 +3687,7 @@
       "url": "https://br.indeed.com/viewjob?jk=5611f79ecf1f4794",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.182687+00:00",
-      "last_seen": "2026-10-10T16:10:10.853157+00:00",
+      "last_seen": "2026-10-10T22:17:50.147205+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3042,7 +3717,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475266512",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.165257+00:00",
-      "last_seen": "2026-10-10T16:10:10.829364+00:00",
+      "last_seen": "2026-10-10T22:17:50.032947+00:00",
       "score": 6,
       "label": "REVISAR"
     },
@@ -3057,7 +3732,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476854101",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.159328+00:00",
-      "last_seen": "2026-10-10T16:10:10.811158+00:00",
+      "last_seen": "2026-10-10T22:17:50.112085+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3087,7 +3762,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477858161",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.157672+00:00",
-      "last_seen": "2026-10-10T16:10:10.809905+00:00",
+      "last_seen": "2026-10-10T22:17:50.111323+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3102,7 +3777,7 @@
       "url": "https://www.linkedin.com/jobs/view/4470893712",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.156828+00:00",
-      "last_seen": "2026-10-10T16:10:10.808727+00:00",
+      "last_seen": "2026-10-10T22:17:50.108086+00:00",
       "score": 10,
       "label": "SECUNDÁRIA"
     },
@@ -3132,7 +3807,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475278092",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.149094+00:00",
-      "last_seen": "2026-10-10T16:10:10.805853+00:00",
+      "last_seen": "2026-10-10T22:17:50.102975+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3147,7 +3822,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475269360",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.146516+00:00",
-      "last_seen": "2026-10-10T16:10:10.804724+00:00",
+      "last_seen": "2026-10-10T22:17:50.101775+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3162,7 +3837,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475277004",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.143981+00:00",
-      "last_seen": "2026-10-10T16:10:10.802517+00:00",
+      "last_seen": "2026-10-10T22:17:50.100545+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3192,7 +3867,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477859664",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.142413+00:00",
-      "last_seen": "2026-10-10T16:10:10.801310+00:00",
+      "last_seen": "2026-10-10T22:17:50.099545+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3267,7 +3942,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475249540",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.131458+00:00",
-      "last_seen": "2026-10-10T16:10:10.776633+00:00",
+      "last_seen": "2026-10-10T22:17:50.080841+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3282,7 +3957,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475248603",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.129693+00:00",
-      "last_seen": "2026-10-10T16:10:10.774776+00:00",
+      "last_seen": "2026-10-10T22:17:50.079908+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3297,7 +3972,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477845557",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.128714+00:00",
-      "last_seen": "2026-10-10T16:10:10.773843+00:00",
+      "last_seen": "2026-10-10T22:17:50.079180+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3312,7 +3987,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476820960",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.127811+00:00",
-      "last_seen": "2026-10-10T16:10:10.772912+00:00",
+      "last_seen": "2026-10-10T22:17:50.077691+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3327,7 +4002,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475234932",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.126229+00:00",
-      "last_seen": "2026-10-10T16:10:10.771990+00:00",
+      "last_seen": "2026-10-10T22:17:50.076870+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3342,7 +4017,7 @@
       "url": "https://br.indeed.com/viewjob?jk=4e2037da0c1c1b28",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.118321+00:00",
-      "last_seen": "2026-10-10T16:10:10.765602+00:00",
+      "last_seen": "2026-10-10T22:17:50.070253+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3372,7 +4047,7 @@
       "url": "https://br.indeed.com/viewjob?jk=f6bf4b45ef3136e2",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.115612+00:00",
-      "last_seen": "2026-10-10T16:10:10.762112+00:00",
+      "last_seen": "2026-10-10T22:17:50.064352+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3387,7 +4062,7 @@
       "url": "https://br.indeed.com/viewjob?jk=94b50ddf2dc3e401",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.110668+00:00",
-      "last_seen": "2026-10-10T16:10:10.749911+00:00",
+      "last_seen": "2026-10-10T22:17:50.060341+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3402,7 +4077,7 @@
       "url": "https://br.indeed.com/viewjob?jk=4d363abe6859e91c",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.109496+00:00",
-      "last_seen": "2026-10-10T16:10:10.748373+00:00",
+      "last_seen": "2026-10-10T22:17:50.057642+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3417,7 +4092,7 @@
       "url": "https://br.indeed.com/viewjob?jk=5f0fcc3087b7f855",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.107031+00:00",
-      "last_seen": "2026-10-10T16:10:10.745774+00:00",
+      "last_seen": "2026-10-10T22:17:50.059038+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3447,7 +4122,7 @@
       "url": "https://br.indeed.com/viewjob?jk=32edeb7a96717225",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.094639+00:00",
-      "last_seen": "2026-10-10T16:10:10.724326+00:00",
+      "last_seen": "2026-10-10T22:17:50.049259+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3462,7 +4137,7 @@
       "url": "https://br.indeed.com/viewjob?jk=1aab4ee29d73b2fe",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.089941+00:00",
-      "last_seen": "2026-10-10T16:10:10.736288+00:00",
+      "last_seen": "2026-10-10T22:17:50.039154+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3477,7 +4152,7 @@
       "url": "https://br.indeed.com/viewjob?jk=55adec8d51da9c18",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.088902+00:00",
-      "last_seen": "2026-10-10T16:10:10.733510+00:00",
+      "last_seen": "2026-10-10T22:17:50.042357+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3492,7 +4167,7 @@
       "url": "https://br.indeed.com/viewjob?jk=3f268f336e5f336f",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.087723+00:00",
-      "last_seen": "2026-10-10T16:10:10.720821+00:00",
+      "last_seen": "2026-10-10T22:17:50.038133+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3507,7 +4182,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475253299",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.082817+00:00",
-      "last_seen": "2026-10-10T16:10:10.711277+00:00",
+      "last_seen": "2026-10-10T22:17:50.026889+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3522,7 +4197,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475266276",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.079452+00:00",
-      "last_seen": "2026-10-10T16:10:10.710369+00:00",
+      "last_seen": "2026-10-10T22:17:50.025189+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3537,7 +4212,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477878277",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.077708+00:00",
-      "last_seen": "2026-10-10T16:10:10.708310+00:00",
+      "last_seen": "2026-10-10T22:17:50.023548+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3552,7 +4227,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476852394",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.076725+00:00",
-      "last_seen": "2026-10-10T16:10:10.707413+00:00",
+      "last_seen": "2026-10-10T22:17:50.022711+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3567,7 +4242,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475268233",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.068829+00:00",
-      "last_seen": "2026-10-10T16:10:10.700200+00:00",
+      "last_seen": "2026-10-10T22:17:50.109445+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3612,7 +4287,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477880183",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.063852+00:00",
-      "last_seen": "2026-10-10T16:10:10.697560+00:00",
+      "last_seen": "2026-10-10T22:17:50.112780+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3627,7 +4302,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477847618",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.062975+00:00",
-      "last_seen": "2026-10-10T16:10:10.696552+00:00",
+      "last_seen": "2026-10-10T22:17:50.078466+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3642,7 +4317,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477862661",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.062141+00:00",
-      "last_seen": "2026-10-10T16:10:10.695469+00:00",
+      "last_seen": "2026-10-10T22:17:50.033578+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3657,7 +4332,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475262736",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.060598+00:00",
-      "last_seen": "2026-10-10T16:10:10.693664+00:00",
+      "last_seen": "2026-10-10T22:17:50.029609+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3672,7 +4347,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477868406",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.059783+00:00",
-      "last_seen": "2026-10-10T16:10:10.692342+00:00",
+      "last_seen": "2026-10-10T22:17:50.025998+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3792,7 +4467,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476843019",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.036445+00:00",
-      "last_seen": "2026-10-10T16:10:10.664315+00:00",
+      "last_seen": "2026-10-10T22:17:50.009488+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3807,7 +4482,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475260278",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.033191+00:00",
-      "last_seen": "2026-10-10T16:10:10.662495+00:00",
+      "last_seen": "2026-10-10T22:17:50.008881+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3822,7 +4497,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475241777",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.030952+00:00",
-      "last_seen": "2026-10-10T16:10:10.659680+00:00",
+      "last_seen": "2026-10-10T22:17:50.007557+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3837,7 +4512,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475258048",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T23:06:31.029430+00:00",
-      "last_seen": "2026-10-10T16:10:10.658096+00:00",
+      "last_seen": "2026-10-10T22:17:50.006996+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3852,7 +4527,7 @@
       "url": "https://alupar.gupy.io/job/eyJqb2JJZCI6MTI3MDU4NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T15:19:07.579Z",
       "first_seen": "2026-10-09T23:06:31.018860+00:00",
-      "last_seen": "2026-10-10T16:10:10.645095+00:00",
+      "last_seen": "2026-10-10T22:17:49.992416+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3867,7 +4542,7 @@
       "url": "https://nubevagasefetivas.gupy.io/job/eyJqb2JJZCI6MTI3MDcyODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:08:04.063Z",
       "first_seen": "2026-10-09T23:06:31.000642+00:00",
-      "last_seen": "2026-10-10T16:10:10.625487+00:00",
+      "last_seen": "2026-10-10T22:17:49.977650+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -3882,7 +4557,7 @@
       "url": "https://conexaotalento.gupy.io/job/eyJqb2JJZCI6MTI3MDkxMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:39:27.582Z",
       "first_seen": "2026-10-09T23:06:30.999648+00:00",
-      "last_seen": "2026-10-10T16:10:10.624307+00:00",
+      "last_seen": "2026-10-10T22:17:49.976536+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4032,7 +4707,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDcwMTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:13:57.831Z",
       "first_seen": "2026-10-09T23:06:30.988744+00:00",
-      "last_seen": "2026-10-10T16:10:10.622858+00:00",
+      "last_seen": "2026-10-10T22:17:49.975400+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4047,7 +4722,7 @@
       "url": "https://grupobel.gupy.io/job/eyJqb2JJZCI6MTI3MDgwNjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:14:30.245Z",
       "first_seen": "2026-10-09T23:06:30.987689+00:00",
-      "last_seen": "2026-10-10T16:10:10.621606+00:00",
+      "last_seen": "2026-10-10T22:17:49.974432+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4062,7 +4737,7 @@
       "url": "https://alea.gupy.io/job/eyJqb2JJZCI6MTI3MDY2NzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:14:34.474Z",
       "first_seen": "2026-10-09T23:06:30.986694+00:00",
-      "last_seen": "2026-10-10T16:10:10.620370+00:00",
+      "last_seen": "2026-10-10T22:17:49.973406+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4077,7 +4752,7 @@
       "url": "https://estagiarioseaprendizesgpa.gupy.io/job/eyJqb2JJZCI6MTI3MDcyMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:18:47.566Z",
       "first_seen": "2026-10-09T23:06:30.985745+00:00",
-      "last_seen": "2026-10-10T16:10:10.618983+00:00",
+      "last_seen": "2026-10-10T22:17:49.972412+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4092,7 +4767,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDgwMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:21:36.560Z",
       "first_seen": "2026-10-09T23:06:30.984655+00:00",
-      "last_seen": "2026-10-10T16:10:10.617750+00:00",
+      "last_seen": "2026-10-10T22:17:49.971450+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4107,7 +4782,7 @@
       "url": "https://alvoarlacteos.gupy.io/job/eyJqb2JJZCI6MTI3MDgxOTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:24:36.886Z",
       "first_seen": "2026-10-09T23:06:30.983608+00:00",
-      "last_seen": "2026-10-10T16:10:10.616415+00:00",
+      "last_seen": "2026-10-10T22:17:49.970304+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4122,7 +4797,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MDE3OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:31:05.608Z",
       "first_seen": "2026-10-09T23:06:30.982660+00:00",
-      "last_seen": "2026-10-10T16:10:10.615084+00:00",
+      "last_seen": "2026-10-10T22:17:49.969339+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4137,7 +4812,7 @@
       "url": "https://sumaumaparkshopping.gupy.io/job/eyJqb2JJZCI6MTI3MDgyNDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:32:50.971Z",
       "first_seen": "2026-10-09T23:06:30.981738+00:00",
-      "last_seen": "2026-10-10T16:10:10.613929+00:00",
+      "last_seen": "2026-10-10T22:17:49.968439+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4152,7 +4827,7 @@
       "url": "https://estagiarioseaprendizesgpa.gupy.io/job/eyJqb2JJZCI6MTI3MDc3NzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:33:33.643Z",
       "first_seen": "2026-10-09T23:06:30.980789+00:00",
-      "last_seen": "2026-10-10T16:10:10.612724+00:00",
+      "last_seen": "2026-10-10T22:17:49.967364+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4167,7 +4842,7 @@
       "url": "https://grupoverona.gupy.io/job/eyJqb2JJZCI6MTI3MDY1ODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:36:23.569Z",
       "first_seen": "2026-10-09T23:06:30.979800+00:00",
-      "last_seen": "2026-10-10T16:10:10.611463+00:00",
+      "last_seen": "2026-10-10T22:17:49.966433+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4182,7 +4857,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDgzODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:38:40.534Z",
       "first_seen": "2026-10-09T23:06:30.978800+00:00",
-      "last_seen": "2026-10-10T16:10:10.610038+00:00",
+      "last_seen": "2026-10-10T22:17:49.965148+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4197,7 +4872,7 @@
       "url": "https://tenda.gupy.io/job/eyJqb2JJZCI6MTI1NDg5NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:42:22.823Z",
       "first_seen": "2026-10-09T23:06:30.977808+00:00",
-      "last_seen": "2026-10-10T16:10:10.608737+00:00",
+      "last_seen": "2026-10-10T22:17:49.964178+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4212,7 +4887,7 @@
       "url": "https://votorantimcimentos.gupy.io/job/eyJqb2JJZCI6MTI0NTc2NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:44:03.059Z",
       "first_seen": "2026-10-09T23:06:30.976923+00:00",
-      "last_seen": "2026-10-10T16:10:10.607661+00:00",
+      "last_seen": "2026-10-10T22:17:49.963180+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4227,7 +4902,7 @@
       "url": "https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTI2NzMzNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:44:49.178Z",
       "first_seen": "2026-10-09T23:06:30.975852+00:00",
-      "last_seen": "2026-10-10T16:10:10.606336+00:00",
+      "last_seen": "2026-10-10T22:17:49.962128+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4242,7 +4917,7 @@
       "url": "https://estagiarioseaprendizesgpa.gupy.io/job/eyJqb2JJZCI6MTI2NTU1MzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:45:07.929Z",
       "first_seen": "2026-10-09T23:06:30.974638+00:00",
-      "last_seen": "2026-10-10T16:10:10.604876+00:00",
+      "last_seen": "2026-10-10T22:17:49.960974+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4257,7 +4932,7 @@
       "url": "https://farmaciasaojoao.gupy.io/job/eyJqb2JJZCI6MTA4ODc2NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:52:08.641Z",
       "first_seen": "2026-10-09T23:06:30.973686+00:00",
-      "last_seen": "2026-10-10T16:10:10.603545+00:00",
+      "last_seen": "2026-10-10T22:17:49.959923+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4272,7 +4947,7 @@
       "url": "https://engbras.gupy.io/job/eyJqb2JJZCI6MTI3MDg2NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:54:09.843Z",
       "first_seen": "2026-10-09T23:06:30.972676+00:00",
-      "last_seen": "2026-10-10T16:10:10.602116+00:00",
+      "last_seen": "2026-10-10T22:17:49.958831+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4287,7 +4962,7 @@
       "url": "https://roldao.gupy.io/job/eyJqb2JJZCI6MTI2ODA2OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:54:38.687Z",
       "first_seen": "2026-10-09T23:06:30.971648+00:00",
-      "last_seen": "2026-10-10T16:10:10.600895+00:00",
+      "last_seen": "2026-10-10T22:17:49.957853+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4302,7 +4977,7 @@
       "url": "https://grupojbs.gupy.io/job/eyJqb2JJZCI6MTI3MDg1MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:56:15.410Z",
       "first_seen": "2026-10-09T23:06:30.970718+00:00",
-      "last_seen": "2026-10-10T16:10:10.599162+00:00",
+      "last_seen": "2026-10-10T22:17:49.956785+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4317,7 +4992,7 @@
       "url": "https://petz.gupy.io/job/eyJqb2JJZCI6MTI3MDMyMDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:56:57.681Z",
       "first_seen": "2026-10-09T23:06:30.969803+00:00",
-      "last_seen": "2026-10-10T16:10:10.598009+00:00",
+      "last_seen": "2026-10-10T22:17:49.955667+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4332,7 +5007,7 @@
       "url": "https://estagiarioseaprendizesgpa.gupy.io/job/eyJqb2JJZCI6MTI3MDgxNjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:08:39.119Z",
       "first_seen": "2026-10-09T23:06:30.968749+00:00",
-      "last_seen": "2026-10-10T16:10:10.596637+00:00",
+      "last_seen": "2026-10-10T22:17:49.954473+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4347,7 +5022,7 @@
       "url": "https://genesistic.gupy.io/job/eyJqb2JJZCI6MTI3MDg4MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:09:51.599Z",
       "first_seen": "2026-10-09T23:06:30.967750+00:00",
-      "last_seen": "2026-10-10T16:10:10.595369+00:00",
+      "last_seen": "2026-10-10T22:17:49.953370+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4362,7 +5037,7 @@
       "url": "https://bffc.gupy.io/job/eyJqb2JJZCI6MTI3MDg4MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:11:31.447Z",
       "first_seen": "2026-10-09T23:06:30.966895+00:00",
-      "last_seen": "2026-10-10T16:10:10.594416+00:00",
+      "last_seen": "2026-10-10T22:17:49.952577+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4377,7 +5052,7 @@
       "url": "https://gruposoma.gupy.io/job/eyJqb2JJZCI6MTI2OTE2MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:11:56.686Z",
       "first_seen": "2026-10-09T23:06:30.965944+00:00",
-      "last_seen": "2026-10-10T16:10:10.593178+00:00",
+      "last_seen": "2026-10-10T22:17:49.951518+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4392,7 +5067,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDU0NzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:17:38.688Z",
       "first_seen": "2026-10-09T23:06:30.964786+00:00",
-      "last_seen": "2026-10-10T16:10:10.591779+00:00",
+      "last_seen": "2026-10-10T22:17:49.950408+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4407,7 +5082,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDY3MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:18:00.903Z",
       "first_seen": "2026-10-09T23:06:30.963804+00:00",
-      "last_seen": "2026-10-10T16:10:10.590467+00:00",
+      "last_seen": "2026-10-10T22:17:49.949300+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4422,7 +5097,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MDY5MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:22:24.478Z",
       "first_seen": "2026-10-09T23:06:30.962830+00:00",
-      "last_seen": "2026-10-10T16:10:10.589144+00:00",
+      "last_seen": "2026-10-10T22:17:49.948113+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4437,7 +5112,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDg5NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:26:46.292Z",
       "first_seen": "2026-10-09T23:06:30.959507+00:00",
-      "last_seen": "2026-10-10T16:10:10.587844+00:00",
+      "last_seen": "2026-10-10T22:17:49.947267+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4452,7 +5127,7 @@
       "url": "https://lojaskoerich.gupy.io/job/eyJqb2JJZCI6MTI3MDkxMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:42:39.050Z",
       "first_seen": "2026-10-09T23:06:30.954423+00:00",
-      "last_seen": "2026-10-10T16:10:10.585383+00:00",
+      "last_seen": "2026-10-10T22:17:49.945220+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4467,7 +5142,7 @@
       "url": "https://gpa.gupy.io/job/eyJqb2JJZCI6MTI3MDkxNTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:48:27.741Z",
       "first_seen": "2026-10-09T23:06:30.953660+00:00",
-      "last_seen": "2026-10-10T16:10:10.584425+00:00",
+      "last_seen": "2026-10-10T22:17:49.944382+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4482,7 +5157,7 @@
       "url": "https://meumais.gupy.io/job/eyJqb2JJZCI6MTI3MDkwOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:40:59.080Z",
       "first_seen": "2026-10-09T23:06:30.952751+00:00",
-      "last_seen": "2026-10-10T16:10:10.586654+00:00",
+      "last_seen": "2026-10-10T22:17:49.946251+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4497,7 +5172,7 @@
       "url": "https://intralog.gupy.io/job/eyJqb2JJZCI6MTI2OTQ1MTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:56:52.951Z",
       "first_seen": "2026-10-09T23:06:30.951761+00:00",
-      "last_seen": "2026-10-10T16:10:10.581719+00:00",
+      "last_seen": "2026-10-10T22:17:49.942081+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4512,7 +5187,7 @@
       "url": "https://rumolog.gupy.io/job/eyJqb2JJZCI6MTI3MDkxODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:59:16.436Z",
       "first_seen": "2026-10-09T23:06:30.950659+00:00",
-      "last_seen": "2026-10-10T16:10:10.580258+00:00",
+      "last_seen": "2026-10-10T22:17:49.941027+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4527,7 +5202,7 @@
       "url": "https://concessionarianovolitoral.gupy.io/job/eyJqb2JJZCI6MTI3MDkyMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:07:08.552Z",
       "first_seen": "2026-10-09T23:06:30.949643+00:00",
-      "last_seen": "2026-10-10T16:10:10.578895+00:00",
+      "last_seen": "2026-10-10T22:17:49.939801+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4542,7 +5217,7 @@
       "url": "https://careers-beaconschool.gupy.io/job/eyJqb2JJZCI6MTI0MzY1MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:10:28.669Z",
       "first_seen": "2026-10-09T23:06:30.948452+00:00",
-      "last_seen": "2026-10-10T16:10:10.577727+00:00",
+      "last_seen": "2026-10-10T22:17:49.938786+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4557,7 +5232,7 @@
       "url": "https://meumais.gupy.io/job/eyJqb2JJZCI6MTI3MDkzNjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:11:29.643Z",
       "first_seen": "2026-10-09T23:06:30.947439+00:00",
-      "last_seen": "2026-10-10T16:10:10.576303+00:00",
+      "last_seen": "2026-10-10T22:17:49.937617+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4572,7 +5247,7 @@
       "url": "https://hospitalcare.gupy.io/job/eyJqb2JJZCI6MTI2NzQyMzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:14:49.418Z",
       "first_seen": "2026-10-09T23:06:30.946363+00:00",
-      "last_seen": "2026-10-10T16:10:10.574802+00:00",
+      "last_seen": "2026-10-10T22:17:49.936448+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4587,7 +5262,7 @@
       "url": "https://montecarlo.gupy.io/job/eyJqb2JJZCI6MTE5Njc5OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:23:09.583Z",
       "first_seen": "2026-10-09T23:06:30.945254+00:00",
-      "last_seen": "2026-10-10T16:10:10.573359+00:00",
+      "last_seen": "2026-10-10T22:17:49.935354+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4602,7 +5277,7 @@
       "url": "https://grupotrust.gupy.io/job/eyJqb2JJZCI6MTI3MDk0NDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:28:53.337Z",
       "first_seen": "2026-10-09T23:06:30.944365+00:00",
-      "last_seen": "2026-10-10T16:10:10.572183+00:00",
+      "last_seen": "2026-10-10T22:17:49.934469+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4617,7 +5292,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MDk0MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:41:45.509Z",
       "first_seen": "2026-10-09T23:06:30.943307+00:00",
-      "last_seen": "2026-10-10T16:10:10.570737+00:00",
+      "last_seen": "2026-10-10T22:17:49.933367+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4632,7 +5307,7 @@
       "url": "https://ambarenergia.gupy.io/job/eyJqb2JJZCI6MTI3MDk1NjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:54:11.914Z",
       "first_seen": "2026-10-09T23:06:30.942500+00:00",
-      "last_seen": "2026-10-10T16:10:10.569550+00:00",
+      "last_seen": "2026-10-10T22:17:49.932305+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4647,7 +5322,7 @@
       "url": "https://suzano.gupy.io/job/eyJqb2JJZCI6MTI2NzE0MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:54:18.383Z",
       "first_seen": "2026-10-09T23:06:30.941395+00:00",
-      "last_seen": "2026-10-10T16:10:10.568144+00:00",
+      "last_seen": "2026-10-10T22:17:49.931271+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4662,7 +5337,7 @@
       "url": "https://motiva.gupy.io/job/eyJqb2JJZCI6MTI3MDk2MDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:04:33.658Z",
       "first_seen": "2026-10-09T23:06:30.939991+00:00",
-      "last_seen": "2026-10-10T16:10:10.566543+00:00",
+      "last_seen": "2026-10-10T22:17:49.930060+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4677,7 +5352,7 @@
       "url": "https://kuehne-nagel.gupy.io/job/eyJqb2JJZCI6MTI3MDk2NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:28:59.134Z",
       "first_seen": "2026-10-09T23:06:30.938947+00:00",
-      "last_seen": "2026-10-10T16:10:10.565168+00:00",
+      "last_seen": "2026-10-10T22:17:49.928823+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4692,7 +5367,7 @@
       "url": "https://grupobel.gupy.io/job/eyJqb2JJZCI6MTI3MDk2NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:32:49.548Z",
       "first_seen": "2026-10-09T23:06:30.937747+00:00",
-      "last_seen": "2026-10-10T16:10:10.563672+00:00",
+      "last_seen": "2026-10-10T22:17:49.927663+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4707,7 +5382,7 @@
       "url": "https://motiva.gupy.io/job/eyJqb2JJZCI6MTI3MDk2MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:53:26.341Z",
       "first_seen": "2026-10-09T23:06:30.935773+00:00",
-      "last_seen": "2026-10-10T16:10:10.561035+00:00",
+      "last_seen": "2026-10-10T22:17:49.925535+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4722,7 +5397,7 @@
       "url": "https://hospitalcare.gupy.io/job/eyJqb2JJZCI6MTI2NzQyNDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T23:03:45.402Z",
       "first_seen": "2026-10-09T23:06:30.934513+00:00",
-      "last_seen": "2026-10-10T16:10:10.559003+00:00",
+      "last_seen": "2026-10-10T22:17:49.924129+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4737,7 +5412,7 @@
       "url": "https://prumoengenharia.gupy.io/job/eyJqb2JJZCI6MTI2OTQ5ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:26:21.926Z",
       "first_seen": "2026-10-09T23:06:30.886534+00:00",
-      "last_seen": "2026-10-10T16:10:10.480694+00:00",
+      "last_seen": "2026-10-10T22:17:49.865167+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4752,7 +5427,7 @@
       "url": "https://wyden.gupy.io/job/eyJqb2JJZCI6MTI3MDc1MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:30:05.429Z",
       "first_seen": "2026-10-09T23:06:30.885392+00:00",
-      "last_seen": "2026-10-10T16:10:10.479438+00:00",
+      "last_seen": "2026-10-10T22:17:49.863811+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4767,7 +5442,7 @@
       "url": "https://geessa.gupy.io/job/eyJqb2JJZCI6MTIwNTU3NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:57:52.642Z",
       "first_seen": "2026-10-09T23:06:30.884065+00:00",
-      "last_seen": "2026-10-10T16:10:10.477852+00:00",
+      "last_seen": "2026-10-10T22:17:49.862403+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4782,7 +5457,7 @@
       "url": "https://ipiranga.gupy.io/job/eyJqb2JJZCI6MTI3MDgwMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:13:38.845Z",
       "first_seen": "2026-10-09T23:06:30.882927+00:00",
-      "last_seen": "2026-10-10T16:10:10.476652+00:00",
+      "last_seen": "2026-10-10T22:17:49.861282+00:00",
       "score": 13,
       "label": "PRIORIDADE"
     },
@@ -4797,7 +5472,7 @@
       "url": "https://estagiarioseaprendizesgpa.gupy.io/job/eyJqb2JJZCI6MTI2ODc3ODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:17:46.633Z",
       "first_seen": "2026-10-09T23:06:30.880956+00:00",
-      "last_seen": "2026-10-10T16:10:10.473061+00:00",
+      "last_seen": "2026-10-10T22:17:49.858173+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4812,7 +5487,7 @@
       "url": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI3MDg0MzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:35:33.853Z",
       "first_seen": "2026-10-09T23:06:30.879905+00:00",
-      "last_seen": "2026-10-10T16:10:10.471768+00:00",
+      "last_seen": "2026-10-10T22:17:49.857133+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4827,7 +5502,7 @@
       "url": "https://genteraizen.gupy.io/job/eyJqb2JJZCI6MTI2ODc5NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:52:01.507Z",
       "first_seen": "2026-10-09T23:06:30.878756+00:00",
-      "last_seen": "2026-10-10T16:10:10.470434+00:00",
+      "last_seen": "2026-10-10T22:17:49.855909+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4842,7 +5517,7 @@
       "url": "https://engiebrasilenergia.gupy.io/job/eyJqb2JJZCI6MTI3MDg1ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:59:17.218Z",
       "first_seen": "2026-10-09T23:06:30.877458+00:00",
-      "last_seen": "2026-10-10T16:10:10.468967+00:00",
+      "last_seen": "2026-10-10T22:17:49.854591+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4857,7 +5532,7 @@
       "url": "https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTI2OTgwODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:03:48.465Z",
       "first_seen": "2026-10-09T23:06:30.876365+00:00",
-      "last_seen": "2026-10-10T16:10:10.467647+00:00",
+      "last_seen": "2026-10-10T22:17:49.853164+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4872,7 +5547,7 @@
       "url": "https://spdmpais.gupy.io/job/eyJqb2JJZCI6MTI3MDg4MjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:11:40.461Z",
       "first_seen": "2026-10-09T23:06:30.875353+00:00",
-      "last_seen": "2026-10-10T16:10:10.466383+00:00",
+      "last_seen": "2026-10-10T22:17:49.852045+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4887,7 +5562,7 @@
       "url": "https://animale.gupy.io/job/eyJqb2JJZCI6MTI3MDYyMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:34:04.342Z",
       "first_seen": "2026-10-09T23:06:30.874226+00:00",
-      "last_seen": "2026-10-10T16:10:10.464901+00:00",
+      "last_seen": "2026-10-10T22:17:49.850928+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4902,7 +5577,7 @@
       "url": "https://vemserblue3.gupy.io/job/eyJqb2JJZCI6MTI3MDkwNzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:39:21.903Z",
       "first_seen": "2026-10-09T23:06:30.873103+00:00",
-      "last_seen": "2026-10-10T16:10:10.463560+00:00",
+      "last_seen": "2026-10-10T22:17:49.849759+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4917,7 +5592,7 @@
       "url": "https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTI2OTgwNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:40:04.190Z",
       "first_seen": "2026-10-09T23:06:30.872049+00:00",
-      "last_seen": "2026-10-10T16:10:10.462396+00:00",
+      "last_seen": "2026-10-10T22:17:49.848795+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4932,7 +5607,7 @@
       "url": "https://vemserblue3.gupy.io/job/eyJqb2JJZCI6MTI3MDkxMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T20:45:52.266Z",
       "first_seen": "2026-10-09T23:06:30.870957+00:00",
-      "last_seen": "2026-10-10T16:10:10.461160+00:00",
+      "last_seen": "2026-10-10T22:17:49.847735+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4947,7 +5622,7 @@
       "url": "https://automob.gupy.io/job/eyJqb2JJZCI6MTI2MjQ0MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:08:28.605Z",
       "first_seen": "2026-10-09T23:06:30.869858+00:00",
-      "last_seen": "2026-10-10T16:10:10.459994+00:00",
+      "last_seen": "2026-10-10T22:17:49.846629+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4962,7 +5637,7 @@
       "url": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI3MDk2NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:40:34.250Z",
       "first_seen": "2026-10-09T23:06:30.868604+00:00",
-      "last_seen": "2026-10-10T16:10:10.458408+00:00",
+      "last_seen": "2026-10-10T22:17:49.845232+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4977,7 +5652,7 @@
       "url": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI3MDk2ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:43:03.198Z",
       "first_seen": "2026-10-09T23:06:30.867518+00:00",
-      "last_seen": "2026-10-10T16:10:10.456709+00:00",
+      "last_seen": "2026-10-10T22:17:49.844091+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -4992,7 +5667,7 @@
       "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI1NTA0MjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T17:23:09.361Z",
       "first_seen": "2026-10-09T23:06:30.862697+00:00",
-      "last_seen": "2026-10-10T16:10:10.451265+00:00",
+      "last_seen": "2026-10-10T22:17:49.839547+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5007,7 +5682,7 @@
       "url": "https://cogna.gupy.io/job/eyJqb2JJZCI6MTI2ODgxOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:00:44.461Z",
       "first_seen": "2026-10-09T23:06:30.861553+00:00",
-      "last_seen": "2026-10-10T16:10:10.449979+00:00",
+      "last_seen": "2026-10-10T22:17:49.838360+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5022,7 +5697,7 @@
       "url": "https://logothink.gupy.io/job/eyJqb2JJZCI6MTI3MDgzOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:51:45.363Z",
       "first_seen": "2026-10-09T23:06:30.860245+00:00",
-      "last_seen": "2026-10-10T16:10:10.448382+00:00",
+      "last_seen": "2026-10-10T22:17:49.836795+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5037,7 +5712,7 @@
       "url": "https://logothink.gupy.io/job/eyJqb2JJZCI6MTI3MDg2NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T19:56:11.274Z",
       "first_seen": "2026-10-09T23:06:30.859276+00:00",
-      "last_seen": "2026-10-10T16:10:10.447319+00:00",
+      "last_seen": "2026-10-10T22:17:49.835972+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5052,7 +5727,7 @@
       "url": "https://rededor.gupy.io/job/eyJqb2JJZCI6MTI3MDc2OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:53:55.294Z",
       "first_seen": "2026-10-09T23:06:30.850336+00:00",
-      "last_seen": "2026-10-10T16:10:10.437636+00:00",
+      "last_seen": "2026-10-10T22:17:49.830135+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5067,7 +5742,7 @@
       "url": "https://honda.gupy.io/job/eyJqb2JJZCI6MTI3MDYzMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T18:24:00.985Z",
       "first_seen": "2026-10-09T23:06:30.820692+00:00",
-      "last_seen": "2026-10-10T16:10:10.402535+00:00",
+      "last_seen": "2026-10-10T22:17:49.806062+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5082,7 +5757,7 @@
       "url": "https://heads.inhire.app/vagas/664e0f17-8100-4dc6-9121-634a9fca3128/accounting-controller-jundiai-sp?utm_source=freehire.me",
       "posted_at": "2026-10-09T17:30:13Z",
       "first_seen": "2026-10-09T23:06:30.785556+00:00",
-      "last_seen": "2026-10-10T16:10:10.372293+00:00",
+      "last_seen": "2026-10-10T22:17:49.791968+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5097,7 +5772,7 @@
       "url": "https://job-boards.greenhouse.io/ilia/jobs/6221161004?utm_source=freehire.me",
       "posted_at": "2026-10-09T15:01:08Z",
       "first_seen": "2026-10-09T23:06:30.775673+00:00",
-      "last_seen": "2026-10-10T16:10:10.361083+00:00",
+      "last_seen": "2026-10-10T22:17:49.784114+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5112,7 +5787,7 @@
       "url": "https://v4company.inhire.app/vagas/712e7ebb-92d3-4f25-9b16-a3f98ca45cbe/designer-grafico-pleno-v4-victor-basilio-amaral-co?utm_source=freehire.me",
       "posted_at": "2026-10-09T17:33:10Z",
       "first_seen": "2026-10-09T23:06:30.774533+00:00",
-      "last_seen": "2026-10-10T16:10:10.359491+00:00",
+      "last_seen": "2026-10-10T22:17:49.782858+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5127,7 +5802,7 @@
       "url": "https://brq.inhire.app/vagas/4f230978-3d66-43a8-a05c-9b52b7892a14/desenvolvedor-a-senior-full-stack-python-react-ia-generativa?utm_source=freehire.me",
       "posted_at": "2026-10-09T18:02:54Z",
       "first_seen": "2026-10-09T23:06:30.773035+00:00",
-      "last_seen": "2026-10-10T16:10:10.357684+00:00",
+      "last_seen": "2026-10-10T22:17:49.781478+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5142,7 +5817,7 @@
       "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/So-Paulo---Eldorado/LAWYER-III_R-107463?utm_source=freehire.me",
       "posted_at": "2026-10-09T00:00:00Z",
       "first_seen": "2026-10-09T23:06:30.770964+00:00",
-      "last_seen": "2026-10-10T16:10:10.354987+00:00",
+      "last_seen": "2026-10-10T22:17:49.779424+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5157,7 +5832,7 @@
       "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5263545008?utm_source=freehire.me",
       "posted_at": "2026-10-09T20:33:30Z",
       "first_seen": "2026-10-09T23:06:30.760664+00:00",
-      "last_seen": "2026-10-10T16:10:10.346678+00:00",
+      "last_seen": "2026-10-10T22:17:49.775075+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5172,7 +5847,7 @@
       "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5263146008?utm_source=freehire.me",
       "posted_at": "2026-10-09T20:33:30Z",
       "first_seen": "2026-10-09T23:06:30.759715+00:00",
-      "last_seen": "2026-10-10T16:10:10.345687+00:00",
+      "last_seen": "2026-10-10T22:17:49.773904+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5187,7 +5862,7 @@
       "url": "https://jobs.lever.co/ciandt/1508ca8e-82b9-4c14-9484-5b3276a92147?utm_source=freehire.me",
       "posted_at": "2026-10-09T14:09:16Z",
       "first_seen": "2026-10-09T23:06:30.757466+00:00",
-      "last_seen": "2026-10-10T16:10:10.343210+00:00",
+      "last_seen": "2026-10-10T22:17:49.771399+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -5742,7 +6417,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475233688",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.923873+00:00",
-      "last_seen": "2026-10-10T16:10:10.814613+00:00",
+      "last_seen": "2026-10-10T22:17:50.113458+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -6117,7 +6792,7 @@
       "url": "https://br.indeed.com/viewjob?jk=223093da33c5f849",
       "posted_at": "2026-10-07",
       "first_seen": "2026-10-09T17:24:20.882100+00:00",
-      "last_seen": "2026-10-10T16:10:10.890127+00:00",
+      "last_seen": "2026-10-10T22:17:50.164368+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -6312,7 +6987,7 @@
       "url": "https://br.indeed.com/viewjob?jk=939e08c8d3d487e1",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.847251+00:00",
-      "last_seen": "2026-10-10T16:10:10.859151+00:00",
+      "last_seen": "2026-10-10T22:17:50.146254+00:00",
       "score": 12,
       "label": "PRIORIDADE"
     },
@@ -6597,7 +7272,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477824648",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.801990+00:00",
-      "last_seen": "2026-10-09T17:24:20.801990+00:00",
+      "last_seen": "2026-10-10T22:17:50.104757+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -6687,7 +7362,7 @@
       "url": "https://www.linkedin.com/jobs/view/4477824646",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.795632+00:00",
-      "last_seen": "2026-10-10T16:10:10.800054+00:00",
+      "last_seen": "2026-10-10T22:17:50.098274+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -6882,7 +7557,7 @@
       "url": "https://br.indeed.com/viewjob?jk=62fd53a521302f05",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.759464+00:00",
-      "last_seen": "2026-10-09T17:24:20.759464+00:00",
+      "last_seen": "2026-10-10T22:17:50.071381+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -7182,7 +7857,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475229629",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.709407+00:00",
-      "last_seen": "2026-10-10T16:10:10.709625+00:00",
+      "last_seen": "2026-10-10T22:17:50.024504+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -7512,7 +8187,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475244453",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-09T17:24:20.660263+00:00",
-      "last_seen": "2026-10-10T16:10:10.660572+00:00",
+      "last_seen": "2026-10-10T22:17:50.008264+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -7557,7 +8232,7 @@
       "url": "https://vempraponta.gupy.io/job/eyJqb2JJZCI6MTI2NTgzMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T01:07:07.801Z",
       "first_seen": "2026-10-09T17:24:20.646838+00:00",
-      "last_seen": "2026-10-10T16:10:10.650729+00:00",
+      "last_seen": "2026-10-10T22:17:49.996668+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -7572,7 +8247,7 @@
       "url": "https://alpercarreiras.gupy.io/job/eyJqb2JJZCI6MTI2MTk1MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T11:47:28.858Z",
       "first_seen": "2026-10-09T17:24:20.645374+00:00",
-      "last_seen": "2026-10-10T16:10:10.648173+00:00",
+      "last_seen": "2026-10-10T22:17:49.995252+00:00",
       "score": 14,
       "label": "PRIORIDADE"
     },
@@ -7617,7 +8292,7 @@
       "url": "https://vagasstefanini.gupy.io/job/eyJqb2JJZCI6MTI3MDQ3MDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:49:13.245Z",
       "first_seen": "2026-10-09T17:24:20.636810+00:00",
-      "last_seen": "2026-10-10T16:10:10.644029+00:00",
+      "last_seen": "2026-10-10T22:17:49.991374+00:00",
       "score": 10,
       "label": "SECUNDÁRIA"
     },
@@ -7632,7 +8307,7 @@
       "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI3MDU2ODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:59:29.873Z",
       "first_seen": "2026-10-09T17:24:20.611528+00:00",
-      "last_seen": "2026-10-10T16:10:10.629399+00:00",
+      "last_seen": "2026-10-10T22:17:49.981203+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -7647,7 +8322,7 @@
       "url": "https://cinemark.gupy.io/job/eyJqb2JJZCI6MTI3MDYwNzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T15:51:57.685Z",
       "first_seen": "2026-10-09T17:24:20.609869+00:00",
-      "last_seen": "2026-10-10T16:10:10.628197+00:00",
+      "last_seen": "2026-10-10T22:17:49.980048+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8472,7 +9147,7 @@
       "url": "https://logisticagpa.gupy.io/job/eyJqb2JJZCI6MTI3MDE3NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T09:54:30.079Z",
       "first_seen": "2026-10-09T17:24:20.473956+00:00",
-      "last_seen": "2026-10-10T16:10:10.516790+00:00",
+      "last_seen": "2026-10-10T22:17:49.895121+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8487,7 +9162,7 @@
       "url": "https://rodonaves.gupy.io/job/eyJqb2JJZCI6MTI2ODU2NDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T11:16:45.759Z",
       "first_seen": "2026-10-09T17:24:20.472351+00:00",
-      "last_seen": "2026-10-10T16:10:10.515356+00:00",
+      "last_seen": "2026-10-10T22:17:49.893964+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8502,7 +9177,7 @@
       "url": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI3MDAwMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T12:37:57.887Z",
       "first_seen": "2026-10-09T17:24:20.470869+00:00",
-      "last_seen": "2026-10-10T16:10:10.513920+00:00",
+      "last_seen": "2026-10-10T22:17:49.892964+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8517,7 +9192,7 @@
       "url": "https://motiva.gupy.io/job/eyJqb2JJZCI6MTI3MDQzNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T12:39:56.522Z",
       "first_seen": "2026-10-09T17:24:20.469358+00:00",
-      "last_seen": "2026-10-10T16:10:10.512291+00:00",
+      "last_seen": "2026-10-10T22:17:49.891795+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8532,7 +9207,7 @@
       "url": "https://vemseralvorada.gupy.io/job/eyJqb2JJZCI6MTI3MDQ1NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T12:53:23.667Z",
       "first_seen": "2026-10-09T17:24:20.467810+00:00",
-      "last_seen": "2026-10-10T16:10:10.510750+00:00",
+      "last_seen": "2026-10-10T22:17:49.890617+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8547,7 +9222,7 @@
       "url": "https://vemserpratica.gupy.io/job/eyJqb2JJZCI6MTI2MzI1MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:10:56.277Z",
       "first_seen": "2026-10-09T17:24:20.466379+00:00",
-      "last_seen": "2026-10-10T16:10:10.509449+00:00",
+      "last_seen": "2026-10-10T22:17:49.889457+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8562,7 +9237,7 @@
       "url": "https://grupoenergisa.gupy.io/job/eyJqb2JJZCI6MTI3MDQ0ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:11:27.076Z",
       "first_seen": "2026-10-09T17:24:20.464226+00:00",
-      "last_seen": "2026-10-10T16:10:10.507669+00:00",
+      "last_seen": "2026-10-10T22:17:49.887959+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8577,7 +9252,7 @@
       "url": "https://institutoeldorado.gupy.io/job/eyJqb2JJZCI6MTI2NDQwNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:12:20.251Z",
       "first_seen": "2026-10-09T17:24:20.462703+00:00",
-      "last_seen": "2026-10-10T16:10:10.506175+00:00",
+      "last_seen": "2026-10-10T22:17:49.886826+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8592,7 +9267,7 @@
       "url": "https://localiza.gupy.io/job/eyJqb2JJZCI6MTI3MDAwNDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:15:49.461Z",
       "first_seen": "2026-10-09T17:24:20.461023+00:00",
-      "last_seen": "2026-10-10T16:10:10.504212+00:00",
+      "last_seen": "2026-10-10T22:17:49.885796+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8607,7 +9282,7 @@
       "url": "https://checkuphospital.gupy.io/job/eyJqb2JJZCI6MTI3MDQ3MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:20:55.504Z",
       "first_seen": "2026-10-09T17:24:20.459636+00:00",
-      "last_seen": "2026-10-10T16:10:10.502847+00:00",
+      "last_seen": "2026-10-10T22:17:49.884709+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8622,7 +9297,7 @@
       "url": "https://findes.gupy.io/job/eyJqb2JJZCI6MTI2NzkzMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:33:38.481Z",
       "first_seen": "2026-10-09T17:24:20.458059+00:00",
-      "last_seen": "2026-10-10T16:10:10.501704+00:00",
+      "last_seen": "2026-10-10T22:17:49.883619+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8637,7 +9312,7 @@
       "url": "https://petz.gupy.io/job/eyJqb2JJZCI6MTI3MDMxOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:36:24.656Z",
       "first_seen": "2026-10-09T17:24:20.456556+00:00",
-      "last_seen": "2026-10-10T16:10:10.500202+00:00",
+      "last_seen": "2026-10-10T22:17:49.882324+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8652,7 +9327,7 @@
       "url": "https://vemserplano.gupy.io/job/eyJqb2JJZCI6MTI3MDQ2OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:49:17.717Z",
       "first_seen": "2026-10-09T17:24:20.454879+00:00",
-      "last_seen": "2026-10-10T16:10:10.498690+00:00",
+      "last_seen": "2026-10-10T22:17:49.881081+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8667,7 +9342,7 @@
       "url": "https://wamgroup.gupy.io/job/eyJqb2JJZCI6MTI2ODY5NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:13:05.883Z",
       "first_seen": "2026-10-09T17:24:20.453526+00:00",
-      "last_seen": "2026-10-10T16:10:10.497289+00:00",
+      "last_seen": "2026-10-10T22:17:49.879859+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8682,7 +9357,7 @@
       "url": "https://santacasabh.gupy.io/job/eyJqb2JJZCI6MTI2Nzk4NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:23:22.618Z",
       "first_seen": "2026-10-09T17:24:20.452306+00:00",
-      "last_seen": "2026-10-10T16:10:10.496189+00:00",
+      "last_seen": "2026-10-10T22:17:49.878971+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8697,7 +9372,7 @@
       "url": "https://brainfarma.gupy.io/job/eyJqb2JJZCI6MTI2OTU1NTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:23:48.817Z",
       "first_seen": "2026-10-09T17:24:20.450780+00:00",
-      "last_seen": "2026-10-10T16:10:10.494665+00:00",
+      "last_seen": "2026-10-10T22:17:49.877694+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8712,7 +9387,7 @@
       "url": "https://iplace.gupy.io/job/eyJqb2JJZCI6MTI3MDU1MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:37:47.842Z",
       "first_seen": "2026-10-09T17:24:20.448770+00:00",
-      "last_seen": "2026-10-10T16:10:10.493222+00:00",
+      "last_seen": "2026-10-10T22:17:49.876527+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8727,7 +9402,7 @@
       "url": "https://vemprag2l.gupy.io/job/eyJqb2JJZCI6MTI2NDM0MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T14:42:41.653Z",
       "first_seen": "2026-10-09T17:24:20.447008+00:00",
-      "last_seen": "2026-10-10T16:10:10.491691+00:00",
+      "last_seen": "2026-10-10T22:17:49.875187+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8742,7 +9417,7 @@
       "url": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI3MDYwNDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T15:43:59.125Z",
       "first_seen": "2026-10-09T17:24:20.445592+00:00",
-      "last_seen": "2026-10-10T16:10:10.490363+00:00",
+      "last_seen": "2026-10-10T22:17:49.874097+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8757,7 +9432,7 @@
       "url": "https://dentaluni.gupy.io/job/eyJqb2JJZCI6MTI3MDYxNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T16:02:58.497Z",
       "first_seen": "2026-10-09T17:24:20.444119+00:00",
-      "last_seen": "2026-10-10T16:10:10.488917+00:00",
+      "last_seen": "2026-10-10T22:17:49.873049+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8772,7 +9447,7 @@
       "url": "https://simpress.gupy.io/job/eyJqb2JJZCI6MTI2NzUwOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T16:03:43.884Z",
       "first_seen": "2026-10-09T17:24:20.442190+00:00",
-      "last_seen": "2026-10-10T16:10:10.487681+00:00",
+      "last_seen": "2026-10-10T22:17:49.871911+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8787,7 +9462,7 @@
       "url": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI3MDYxODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T16:05:06.708Z",
       "first_seen": "2026-10-09T17:24:20.440768+00:00",
-      "last_seen": "2026-10-10T16:10:10.486268+00:00",
+      "last_seen": "2026-10-10T22:17:49.870532+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8802,7 +9477,7 @@
       "url": "https://vamos.gupy.io/job/eyJqb2JJZCI6MTI2ODE2ODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T16:08:00.314Z",
       "first_seen": "2026-10-09T17:24:20.439338+00:00",
-      "last_seen": "2026-10-10T16:10:10.484849+00:00",
+      "last_seen": "2026-10-10T22:17:49.868798+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8817,7 +9492,7 @@
       "url": "https://agrivalle.gupy.io/job/eyJqb2JJZCI6MTI3MDYzMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T16:32:42.226Z",
       "first_seen": "2026-10-09T17:24:20.437971+00:00",
-      "last_seen": "2026-10-10T16:10:10.483457+00:00",
+      "last_seen": "2026-10-10T22:17:49.867680+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8832,7 +9507,7 @@
       "url": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI3MDY2MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T17:05:12.786Z",
       "first_seen": "2026-10-09T17:24:20.436577+00:00",
-      "last_seen": "2026-10-10T16:10:10.482088+00:00",
+      "last_seen": "2026-10-10T22:17:49.866379+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8862,7 +9537,7 @@
       "url": "https://veracruzhospital.gupy.io/job/eyJqb2JJZCI6MTI2Nzg3NzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T15:10:09.511Z",
       "first_seen": "2026-10-09T17:24:20.417307+00:00",
-      "last_seen": "2026-10-10T16:10:10.439019+00:00",
+      "last_seen": "2026-10-10T22:17:49.831301+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8877,7 +9552,7 @@
       "url": "https://phiz.gupy.io/job/eyJqb2JJZCI6MTI2MzM4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T01:55:05.752Z",
       "first_seen": "2026-10-09T17:24:20.381347+00:00",
-      "last_seen": "2026-10-10T16:10:10.409804+00:00",
+      "last_seen": "2026-10-10T22:17:49.811969+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8892,7 +9567,7 @@
       "url": "https://porto.gupy.io/job/eyJqb2JJZCI6MTI3MDM5ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T11:53:35.232Z",
       "first_seen": "2026-10-09T17:24:20.379907+00:00",
-      "last_seen": "2026-10-10T16:10:10.408413+00:00",
+      "last_seen": "2026-10-10T22:17:49.810760+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8907,7 +9582,7 @@
       "url": "https://energisatech.gupy.io/job/eyJqb2JJZCI6MTI3MDQ2NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:14:55.305Z",
       "first_seen": "2026-10-09T17:24:20.378409+00:00",
-      "last_seen": "2026-10-10T16:10:10.407148+00:00",
+      "last_seen": "2026-10-10T22:17:49.809729+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8922,7 +9597,7 @@
       "url": "https://celksistemas.gupy.io/job/eyJqb2JJZCI6MTI3MDQ1NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T13:32:39.200Z",
       "first_seen": "2026-10-09T17:24:20.376988+00:00",
-      "last_seen": "2026-10-10T16:10:10.405421+00:00",
+      "last_seen": "2026-10-10T22:17:49.808437+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8937,7 +9612,7 @@
       "url": "https://trabalheconoscosenacmg.gupy.io/job/eyJqb2JJZCI6MTI3MDYxMDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T16:32:47.873Z",
       "first_seen": "2026-10-09T17:24:20.375800+00:00",
-      "last_seen": "2026-10-10T16:10:10.404187+00:00",
+      "last_seen": "2026-10-10T22:17:49.807448+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8952,7 +9627,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464023684__7076?geoID=1086&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:37Z",
       "first_seen": "2026-10-09T17:24:20.373226+00:00",
-      "last_seen": "2026-10-10T16:10:10.399989+00:00",
+      "last_seen": "2026-10-10T22:17:49.803885+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8967,7 +9642,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464025009__7076?geoID=25&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:28Z",
       "first_seen": "2026-10-09T17:24:20.370448+00:00",
-      "last_seen": "2026-10-10T16:10:10.398784+00:00",
+      "last_seen": "2026-10-10T22:17:49.802883+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8982,7 +9657,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464025011__7076?geoID=25&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:33Z",
       "first_seen": "2026-10-09T17:24:20.369441+00:00",
-      "last_seen": "2026-10-10T16:10:10.397880+00:00",
+      "last_seen": "2026-10-10T22:17:49.802117+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -8997,7 +9672,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464025010__7076?geoID=25&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:33Z",
       "first_seen": "2026-10-09T17:24:20.368168+00:00",
-      "last_seen": "2026-10-10T16:10:10.396878+00:00",
+      "last_seen": "2026-10-10T22:17:49.801247+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9012,7 +9687,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464521415__7076?geoID=1040&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T02:01:20Z",
       "first_seen": "2026-10-09T17:24:20.367097+00:00",
-      "last_seen": "2026-10-10T16:10:10.395890+00:00",
+      "last_seen": "2026-10-10T22:17:49.800551+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9072,7 +9747,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464027532__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:28Z",
       "first_seen": "2026-10-09T17:24:20.332392+00:00",
-      "last_seen": "2026-10-10T16:10:10.379829+00:00",
+      "last_seen": "2026-10-10T22:17:49.798587+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9087,7 +9762,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464393157__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:31Z",
       "first_seen": "2026-10-09T17:24:20.330900+00:00",
-      "last_seen": "2026-10-10T16:10:10.378487+00:00",
+      "last_seen": "2026-10-10T22:17:49.797622+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9102,7 +9777,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464356183__7076?geoID=25&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:31Z",
       "first_seen": "2026-10-09T17:24:20.329675+00:00",
-      "last_seen": "2026-10-10T16:10:10.377339+00:00",
+      "last_seen": "2026-10-10T22:17:49.796453+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9117,7 +9792,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464524434__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:37Z",
       "first_seen": "2026-10-09T17:24:20.327849+00:00",
-      "last_seen": "2026-10-10T16:10:10.375842+00:00",
+      "last_seen": "2026-10-10T22:17:49.795198+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9132,7 +9807,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464569398__7076?geoID=25&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T13:42:09Z",
       "first_seen": "2026-10-09T17:24:20.326246+00:00",
-      "last_seen": "2026-10-10T16:10:10.374521+00:00",
+      "last_seen": "2026-10-10T22:17:49.793954+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9147,7 +9822,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464582256__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T13:42:09Z",
       "first_seen": "2026-10-09T17:24:20.325069+00:00",
-      "last_seen": "2026-10-10T16:10:10.373443+00:00",
+      "last_seen": "2026-10-10T22:17:49.793020+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9162,7 +9837,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464520881__7076?geoID=3432&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T02:01:20Z",
       "first_seen": "2026-10-09T17:24:20.314457+00:00",
-      "last_seen": "2026-10-10T16:10:10.366693+00:00",
+      "last_seen": "2026-10-10T22:17:49.788198+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9177,7 +9852,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464025052__7076?geoID=5675&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:31Z",
       "first_seen": "2026-10-09T17:24:20.313108+00:00",
-      "last_seen": "2026-10-10T16:10:10.365338+00:00",
+      "last_seen": "2026-10-10T22:17:49.787148+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9192,7 +9867,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464027478__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:32Z",
       "first_seen": "2026-10-09T17:24:20.311352+00:00",
-      "last_seen": "2026-10-10T16:10:10.363699+00:00",
+      "last_seen": "2026-10-10T22:17:49.785948+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9207,7 +9882,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464468281__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:36Z",
       "first_seen": "2026-10-09T17:24:20.310238+00:00",
-      "last_seen": "2026-10-10T16:10:10.362407+00:00",
+      "last_seen": "2026-10-10T22:17:49.785183+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9222,7 +9897,7 @@
       "url": "https://carreiras.btgpactual.com/vagas?gh_jid=6167533004&utm_source=freehire.me",
       "posted_at": "2026-10-08T23:05:21Z",
       "first_seen": "2026-10-09T17:24:20.307786+00:00",
-      "last_seen": "2026-10-10T16:10:10.356209+00:00",
+      "last_seen": "2026-10-10T22:17:49.780432+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9252,7 +9927,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464521579__7076?geoID=25&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T02:01:21Z",
       "first_seen": "2026-10-09T17:24:20.297890+00:00",
-      "last_seen": "2026-10-10T16:10:10.350773+00:00",
+      "last_seen": "2026-10-10T22:17:49.778261+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9267,7 +9942,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464022340__7076?geoID=2075&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:31Z",
       "first_seen": "2026-10-09T17:24:20.296566+00:00",
-      "last_seen": "2026-10-10T16:10:10.349548+00:00",
+      "last_seen": "2026-10-10T22:17:49.777171+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9282,7 +9957,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464515736__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T09:42:32Z",
       "first_seen": "2026-10-09T17:24:20.295306+00:00",
-      "last_seen": "2026-10-10T16:10:10.348250+00:00",
+      "last_seen": "2026-10-10T22:17:49.776193+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -9297,7 +9972,7 @@
       "url": "https://br.whatjobs.com/pub_api__cpl__464521980__7076?geoID=3675&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "posted_at": "2026-10-09T11:41:56Z",
       "first_seen": "2026-10-09T17:24:20.289808+00:00",
-      "last_seen": "2026-10-10T16:10:10.344553+00:00",
+      "last_seen": "2026-10-10T22:17:49.772713+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -11142,7 +11817,7 @@
       "url": "https://institutoeldorado.gupy.io/job/eyJqb2JJZCI6MTI2MzIxNzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T21:47:11.932Z",
       "first_seen": "2026-10-08T23:42:42.054620+00:00",
-      "last_seen": "2026-10-10T16:10:10.641775+00:00",
+      "last_seen": "2026-10-10T22:17:49.989076+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -11157,7 +11832,7 @@
       "url": "https://dasaatendimento.gupy.io/job/eyJqb2JJZCI6MTI3MDI0ODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T21:34:12.584Z",
       "first_seen": "2026-10-08T23:42:42.029608+00:00",
-      "last_seen": "2026-10-10T16:10:10.630483+00:00",
+      "last_seen": "2026-10-10T22:17:49.982066+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -11172,7 +11847,7 @@
       "url": "https://tahto.gupy.io/job/eyJqb2JJZCI6MTI3MDY2NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T17:23:05.823Z",
       "first_seen": "2026-10-08T23:42:42.028568+00:00",
-      "last_seen": "2026-10-10T16:10:10.626723+00:00",
+      "last_seen": "2026-10-10T22:17:49.978613+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -11562,7 +12237,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MDgyMDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T13:52:52.493Z",
       "first_seen": "2026-10-08T23:42:41.991014+00:00",
-      "last_seen": "2026-10-10T16:10:10.545630+00:00",
+      "last_seen": "2026-10-10T22:17:49.914895+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12132,7 +12807,7 @@
       "url": "https://dexco.gupy.io/job/eyJqb2JJZCI6MTI3MDA4OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:12:59.814Z",
       "first_seen": "2026-10-08T23:42:41.879995+00:00",
-      "last_seen": "2026-10-10T16:10:10.543229+00:00",
+      "last_seen": "2026-10-10T22:17:49.913110+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12147,7 +12822,7 @@
       "url": "https://petrobahia.gupy.io/job/eyJqb2JJZCI6MTI3MDExNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:24:52.749Z",
       "first_seen": "2026-10-08T23:42:41.878331+00:00",
-      "last_seen": "2026-10-10T16:10:10.541296+00:00",
+      "last_seen": "2026-10-10T22:17:49.911681+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12162,7 +12837,7 @@
       "url": "https://farmetc.gupy.io/job/eyJqb2JJZCI6MTI3MDExNjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:25:26.015Z",
       "first_seen": "2026-10-08T23:42:41.875327+00:00",
-      "last_seen": "2026-10-10T16:10:10.537052+00:00",
+      "last_seen": "2026-10-10T22:17:49.910501+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12177,7 +12852,7 @@
       "url": "https://cidadania4u.gupy.io/job/eyJqb2JJZCI6MTI3MDEyNTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:45:47.946Z",
       "first_seen": "2026-10-08T23:42:41.873797+00:00",
-      "last_seen": "2026-10-10T16:10:10.533821+00:00",
+      "last_seen": "2026-10-10T22:17:49.908064+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12192,7 +12867,7 @@
       "url": "https://tenda.gupy.io/job/eyJqb2JJZCI6MTI2ODA0MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:59:24.095Z",
       "first_seen": "2026-10-08T23:42:41.872280+00:00",
-      "last_seen": "2026-10-10T16:10:10.532334+00:00",
+      "last_seen": "2026-10-10T22:17:49.906847+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12207,7 +12882,7 @@
       "url": "https://farmetc.gupy.io/job/eyJqb2JJZCI6MTI3MDE1ODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T20:00:44.369Z",
       "first_seen": "2026-10-08T23:42:41.869423+00:00",
-      "last_seen": "2026-10-10T16:10:10.530833+00:00",
+      "last_seen": "2026-10-10T22:17:49.905750+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12222,7 +12897,7 @@
       "url": "https://animale.gupy.io/job/eyJqb2JJZCI6MTI2NzE5MTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T20:33:30.352Z",
       "first_seen": "2026-10-08T23:42:41.867909+00:00",
-      "last_seen": "2026-10-10T16:10:10.527516+00:00",
+      "last_seen": "2026-10-10T22:17:49.903314+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12237,7 +12912,7 @@
       "url": "https://farmetc.gupy.io/job/eyJqb2JJZCI6MTI3MDIwOTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T20:43:49.131Z",
       "first_seen": "2026-10-08T23:42:41.864696+00:00",
-      "last_seen": "2026-10-10T16:10:10.525902+00:00",
+      "last_seen": "2026-10-10T22:17:49.902083+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12252,7 +12927,7 @@
       "url": "https://cogna.gupy.io/job/eyJqb2JJZCI6MTI2NzEwOTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T21:16:58.873Z",
       "first_seen": "2026-10-08T23:42:41.863240+00:00",
-      "last_seen": "2026-10-10T16:10:10.522549+00:00",
+      "last_seen": "2026-10-10T22:17:49.899635+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12267,7 +12942,7 @@
       "url": "https://sejaelgin.gupy.io/job/eyJqb2JJZCI6MTI2OTY0MDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T21:44:47.042Z",
       "first_seen": "2026-10-08T23:42:41.861756+00:00",
-      "last_seen": "2026-10-10T16:10:10.520852+00:00",
+      "last_seen": "2026-10-10T22:17:49.898448+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12282,7 +12957,7 @@
       "url": "https://sigilovagas.gupy.io/job/eyJqb2JJZCI6MTI2NzYzODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T23:00:57.852Z",
       "first_seen": "2026-10-08T23:42:41.859002+00:00",
-      "last_seen": "2026-10-10T16:10:10.519328+00:00",
+      "last_seen": "2026-10-10T22:17:49.897240+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12297,7 +12972,7 @@
       "url": "https://arterisadministrativo.gupy.io/job/eyJqb2JJZCI6MTI2ODQyMDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T23:35:08.904Z",
       "first_seen": "2026-10-08T23:42:41.857985+00:00",
-      "last_seen": "2026-10-10T16:10:10.518146+00:00",
+      "last_seen": "2026-10-10T22:17:49.896237+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12312,7 +12987,7 @@
       "url": "https://lightsolucoes.gupy.io/job/eyJqb2JJZCI6MTI3MDA4MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:18:34.529Z",
       "first_seen": "2026-10-08T23:42:41.832301+00:00",
-      "last_seen": "2026-10-10T16:10:10.436334+00:00",
+      "last_seen": "2026-10-10T22:17:49.829137+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12327,7 +13002,7 @@
       "url": "https://mercantil.gupy.io/job/eyJqb2JJZCI6MTI3MDA0MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T18:27:24.890Z",
       "first_seen": "2026-10-08T23:42:41.813019+00:00",
-      "last_seen": "2026-10-10T16:10:10.423606+00:00",
+      "last_seen": "2026-10-10T22:17:49.823996+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12342,7 +13017,7 @@
       "url": "https://movida.gupy.io/job/eyJqb2JJZCI6MTI2ODE4NzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T18:36:35.266Z",
       "first_seen": "2026-10-08T23:42:41.811603+00:00",
-      "last_seen": "2026-10-10T16:10:10.422214+00:00",
+      "last_seen": "2026-10-10T22:17:49.822780+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12357,7 +13032,7 @@
       "url": "https://incentivar.gupy.io/job/eyJqb2JJZCI6MTI2ODA3NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:09:47.688Z",
       "first_seen": "2026-10-08T23:42:41.810100+00:00",
-      "last_seen": "2026-10-10T16:10:10.420747+00:00",
+      "last_seen": "2026-10-10T22:17:49.821331+00:00",
       "score": 24,
       "label": "PRIORIDADE"
     },
@@ -12372,7 +13047,7 @@
       "url": "https://motz.gupy.io/job/eyJqb2JJZCI6MTI3MDEwMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:21:30.544Z",
       "first_seen": "2026-10-08T23:42:41.807343+00:00",
-      "last_seen": "2026-10-10T16:10:10.417675+00:00",
+      "last_seen": "2026-10-10T22:17:49.818605+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12387,7 +13062,7 @@
       "url": "https://stinesementes.gupy.io/job/eyJqb2JJZCI6MTI3MDEwNDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:26:31.295Z",
       "first_seen": "2026-10-08T23:42:41.805683+00:00",
-      "last_seen": "2026-10-10T16:10:10.416236+00:00",
+      "last_seen": "2026-10-10T22:17:49.817373+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12402,7 +13077,7 @@
       "url": "https://nazaria.gupy.io/job/eyJqb2JJZCI6MTI3MDEzNTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T19:43:22.742Z",
       "first_seen": "2026-10-08T23:42:41.804551+00:00",
-      "last_seen": "2026-10-10T16:10:10.415111+00:00",
+      "last_seen": "2026-10-10T22:17:49.816443+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12417,7 +13092,7 @@
       "url": "https://vagas-mrveco.gupy.io/job/eyJqb2JJZCI6MTI2ODA2MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T20:01:40.528Z",
       "first_seen": "2026-10-08T23:42:41.803005+00:00",
-      "last_seen": "2026-10-10T16:10:10.413747+00:00",
+      "last_seen": "2026-10-10T22:17:49.815242+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12432,7 +13107,7 @@
       "url": "https://piracanjuba.gupy.io/job/eyJqb2JJZCI6MTI2OTMwMTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T20:55:41.611Z",
       "first_seen": "2026-10-08T23:42:41.801905+00:00",
-      "last_seen": "2026-10-10T16:10:10.412646+00:00",
+      "last_seen": "2026-10-10T22:17:49.814399+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -12447,7 +13122,7 @@
       "url": "https://porto.gupy.io/job/eyJqb2JJZCI6MTI2ODMyMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T21:19:15.698Z",
       "first_seen": "2026-10-08T23:42:41.800127+00:00",
-      "last_seen": "2026-10-10T16:10:10.411205+00:00",
+      "last_seen": "2026-10-10T22:17:49.812970+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -13779,10 +14454,10 @@
       "title": "Assistente de Estoque II - RJ",
       "company": "Alsco Uniformes Brasil",
       "location": "Greater Rio de Janeiro",
-      "url": "https://www.linkedin.com/jobs/view/4474805335",
-      "posted_at": "2026-10-08",
+      "url": "https://www.linkedin.com/jobs/view/4475290422",
+      "posted_at": "2026-10-10",
       "first_seen": "2026-10-08T17:48:10.093999+00:00",
-      "last_seen": "2026-10-08T23:42:42.264726+00:00",
+      "last_seen": "2026-10-10T22:17:50.126466+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -14967,7 +15642,7 @@
       "url": "https://movida.gupy.io/job/eyJqb2JJZCI6MTI2OTYzMDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T13:08:44.638Z",
       "first_seen": "2026-10-08T17:48:09.921995+00:00",
-      "last_seen": "2026-10-10T16:10:10.655248+00:00",
+      "last_seen": "2026-10-10T22:17:50.000315+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -14982,7 +15657,7 @@
       "url": "https://alpercarreiras.gupy.io/job/eyJqb2JJZCI6MTI1OTc3NjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T17:14:46.755Z",
       "first_seen": "2026-10-08T17:48:09.916684+00:00",
-      "last_seen": "2026-10-10T16:10:10.653686+00:00",
+      "last_seen": "2026-10-10T22:17:49.998963+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -14997,7 +15672,7 @@
       "url": "https://mitrerealty.gupy.io/job/eyJqb2JJZCI6MTI2OTIxODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T17:33:21.146Z",
       "first_seen": "2026-10-08T17:48:09.914778+00:00",
-      "last_seen": "2026-10-10T16:10:10.651994+00:00",
+      "last_seen": "2026-10-10T22:17:49.997633+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -15012,7 +15687,7 @@
       "url": "https://veri.gupy.io/job/eyJqb2JJZCI6MTI2OTczNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T13:04:20.090Z",
       "first_seen": "2026-10-08T17:48:09.884666+00:00",
-      "last_seen": "2026-10-10T16:10:10.637501+00:00",
+      "last_seen": "2026-10-10T22:17:49.987943+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -15027,7 +15702,7 @@
       "url": "https://corporativopanvel.gupy.io/job/eyJqb2JJZCI6MTI2OTY4NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T13:18:49.976Z",
       "first_seen": "2026-10-08T17:48:09.883331+00:00",
-      "last_seen": "2026-10-10T16:10:10.636191+00:00",
+      "last_seen": "2026-10-10T22:17:49.986876+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -15042,7 +15717,7 @@
       "url": "https://cinemark.gupy.io/job/eyJqb2JJZCI6MTI2OTkxNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T16:11:48.396Z",
       "first_seen": "2026-10-08T17:48:09.882180+00:00",
-      "last_seen": "2026-10-10T16:10:10.635110+00:00",
+      "last_seen": "2026-10-10T22:17:49.985848+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -15057,7 +15732,7 @@
       "url": "https://nubevagasefetivas.gupy.io/job/eyJqb2JJZCI6MTI2OTk0OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T17:05:26.547Z",
       "first_seen": "2026-10-08T17:48:09.878960+00:00",
-      "last_seen": "2026-10-10T16:10:10.631833+00:00",
+      "last_seen": "2026-10-10T22:17:49.983016+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -15342,7 +16017,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MDM5MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T22:49:56.340Z",
       "first_seen": "2026-10-08T17:48:09.856716+00:00",
-      "last_seen": "2026-10-10T16:10:10.562327+00:00",
+      "last_seen": "2026-10-10T22:17:49.926503+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -16287,7 +16962,7 @@
       "url": "https://agendaassessoria.gupy.io/job/eyJqb2JJZCI6MTI2OTg0MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T14:35:22.162Z",
       "first_seen": "2026-10-08T17:48:09.700852+00:00",
-      "last_seen": "2026-10-10T16:10:10.452702+00:00",
+      "last_seen": "2026-10-10T22:17:49.840695+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -16302,7 +16977,7 @@
       "url": "https://petz.gupy.io/job/eyJqb2JJZCI6MTI2ODg4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T12:59:29.786Z",
       "first_seen": "2026-10-08T17:48:09.685251+00:00",
-      "last_seen": "2026-10-10T16:10:10.441770+00:00",
+      "last_seen": "2026-10-10T22:17:49.833761+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -16317,7 +16992,7 @@
       "url": "https://autoamerica.gupy.io/job/eyJqb2JJZCI6MTI2OTkyOTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T16:33:32.549Z",
       "first_seen": "2026-10-08T17:48:09.683719+00:00",
-      "last_seen": "2026-10-10T16:10:10.440423+00:00",
+      "last_seen": "2026-10-10T22:17:49.832516+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -16347,7 +17022,7 @@
       "url": "https://reservasvotorantim.gupy.io/job/eyJqb2JJZCI6MTI2OTU3OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T00:46:14.656Z",
       "first_seen": "2026-10-08T17:48:09.662430+00:00",
-      "last_seen": "2026-10-10T16:10:10.429226+00:00",
+      "last_seen": "2026-10-10T22:17:49.826619+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -16362,7 +17037,7 @@
       "url": "https://afya.gupy.io/job/eyJqb2JJZCI6MTI2OTY1MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-08T17:22:34.497Z",
       "first_seen": "2026-10-08T17:48:09.660670+00:00",
-      "last_seen": "2026-10-10T16:10:10.425156+00:00",
+      "last_seen": "2026-10-10T22:17:49.825357+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -16390,9 +17065,9 @@
       "company": "Clara",
       "location": "Sao Paulo / SP / Brazil",
       "url": "https://job-boards.greenhouse.io/clara/jobs/5195741007?utm_source=freehire.me",
-      "posted_at": "2026-10-09T23:54:06Z",
+      "posted_at": "2026-10-10T16:53:34Z",
       "first_seen": "2026-10-08T17:48:09.633504+00:00",
-      "last_seen": "2026-10-10T16:10:10.371025+00:00",
+      "last_seen": "2026-10-10T22:17:49.789585+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -19647,7 +20322,7 @@
       "url": "https://origoenergia.gupy.io/job/eyJqb2JJZCI6MTI2OTA0NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-07T22:45:56.655Z",
       "first_seen": "2026-10-07T23:31:19.862779+00:00",
-      "last_seen": "2026-10-10T16:10:10.430961+00:00",
+      "last_seen": "2026-10-10T22:17:49.827945+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -22542,7 +23217,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI3MTA2ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T12:44:41.411Z",
       "first_seen": "2026-10-07T17:43:46.707632+00:00",
-      "last_seen": "2026-10-10T16:10:10.551389+00:00",
+      "last_seen": "2026-10-10T22:17:49.919184+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -22917,7 +23592,7 @@
       "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI2ODYzMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T13:26:23.469Z",
       "first_seen": "2026-10-07T17:43:46.579098+00:00",
-      "last_seen": "2026-10-10T16:10:10.446294+00:00",
+      "last_seen": "2026-10-10T22:17:49.835095+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -24057,7 +24732,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475295336",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-07T07:21:34.421864+00:00",
-      "last_seen": "2026-10-10T16:10:10.935580+00:00",
+      "last_seen": "2026-10-10T22:17:50.183647+00:00",
       "score": 8,
       "label": "SECUNDÁRIA"
     },
@@ -25107,7 +25782,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476386029",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-07T07:21:34.330247+00:00",
-      "last_seen": "2026-10-10T16:10:10.830896+00:00",
+      "last_seen": "2026-10-10T22:17:50.127667+00:00",
       "score": 7,
       "label": "SECUNDÁRIA"
     },
@@ -25152,7 +25827,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475284506",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-07T07:21:34.326685+00:00",
-      "last_seen": "2026-10-10T16:10:10.824240+00:00",
+      "last_seen": "2026-10-10T22:17:50.120094+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -25212,7 +25887,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475280951",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-07T07:21:34.321798+00:00",
-      "last_seen": "2026-10-10T16:10:10.819008+00:00",
+      "last_seen": "2026-10-10T22:17:50.116375+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -25452,7 +26127,7 @@
       "url": "https://www.linkedin.com/jobs/view/4475276997",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-07T07:21:34.302632+00:00",
-      "last_seen": "2026-10-10T16:10:10.791580+00:00",
+      "last_seen": "2026-10-10T22:17:50.092654+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -26637,7 +27312,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476894202",
       "posted_at": "2026-10-10",
       "first_seen": "2026-10-07T07:21:34.194344+00:00",
-      "last_seen": "2026-10-10T16:10:10.701777+00:00",
+      "last_seen": "2026-10-10T22:17:50.016535+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -29037,7 +29712,7 @@
       "url": "https://assai.gupy.io/job/eyJqb2JJZCI6MTI2OTQ4NjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-10T10:18:54.783Z",
       "first_seen": "2026-10-07T07:07:21.920387+00:00",
-      "last_seen": "2026-10-10T16:10:10.555986+00:00",
+      "last_seen": "2026-10-10T22:17:49.922035+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
@@ -31512,7 +32187,7 @@
       "url": "https://gradus.gupy.io/job/eyJqb2JJZCI6MTI3MDkzNTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "posted_at": "2026-10-09T21:05:24.790Z",
       "first_seen": "2026-10-07T07:07:21.674468+00:00",
-      "last_seen": "2026-10-10T16:10:10.401148+00:00",
+      "last_seen": "2026-10-10T22:17:49.804878+00:00",
       "score": 0,
       "label": "DESCARTADA"
     },
