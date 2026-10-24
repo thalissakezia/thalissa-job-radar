@@ -1,35 +1,23 @@
 # Thalissa Job Radar — novidades
 
-Executado em **2026-10-24 14:20 UTC**.
+Executado em **2026-10-24 21:27 UTC**.
 
-- Vagas únicas coletadas nesta execução: **862**
-- Vagas nunca vistas antes: **475**
-- Novas vagas descartadas por regra objetiva: **461**
-- Novas vagas para revisar/candidatar: **14**
+- Vagas únicas coletadas nesta execução: **819**
+- Vagas nunca vistas antes: **88**
+- Novas vagas descartadas por regra objetiva: **86**
+- Novas vagas para revisar/candidatar: **2**
 
 ## Novas vagas
 
 | Compatibilidade | Recomendação | Currículo | Empresa | Vaga | Data | Local | Salário | Candidatura | Fonte | Análise |
 |---:|---|---|---|---|---|---|---|---|---|---|
-| 95% (alta) | VALE CANDIDATAR | Administrativo / Operações | Caderno Nacional | [Assistente Administrativo - Sem experiência - (Interage +RH)](https://br.indeed.com/viewjob?jk=9044fc5691b8c21d) | 2026-10-24 | Rio de Janeiro, RJ, BR | não informada | Link direto · [Aplicar](https://cadernonacional.com.br/vagas/assistente-administrativo/87049812?source=Indeed) | jobspy/indeed | Atende: cargo: assistente administrativo; competências: excel, documentos, contratos, atendimento; experiência transferível: rotinas administrativas |
-| 90% (alta) | VALE CANDIDATAR | Administrativo / Operações | Radar - Gestão para Advogados | [Assistente Administrativo](https://br.indeed.com/viewjob?jk=240cdc54491c4114) | 2026-10-23 | Curitiba, PR, BR | R$ 3.000,00/mês | Link direto · [Aplicar](https://radardagestao.pandape.com.br/Detail/3863014?ov=5&xtor=AL-366332663&source=Indeed&utm_source=indeed&utm_medium=referral&utm_campaign=feed&utm_term=organic&utm_content=ats) | jobspy/indeed | Atende: cargo: assistente administrativo; competências: excel, documentos, sistemas, atendimento; experiência transferível: rotinas administrativas / Possíveis lacunas: SAP |
-| 90% (alta) | VALE CANDIDATAR | Administrativo / Operações | Peopleplan | [Assistente administrativo](https://br.indeed.com/viewjob?jk=20a2ac0b15aa65b0) | 2026-10-23 | São José, SC, BR | não informada | Link direto · [Aplicar](https://jobs.recrutei.com.br/PeoplePlan/vacancy/162919-assistente-administrativo?utm_source=indeed&utm_campaign=feed) | jobspy/indeed | Atende: cargo: assistente administrativo; competências: excel, documentos, planilhas, atendimento; experiência transferível: rotinas administrativas |
-| 85% (alta) | VALE CANDIDATAR | Administrativo / Operações | FUNDAÇÃO MUDES | [Assistente Administrativo](https://www.catho.com.br/vagas/assistente-administrativo/38967557/?utm_source=freehire.me) | 2026-10-23T00:00:00Z | Rio de Janeiro, RJ, Brasil | não informada | Normal · [Aplicar](https://www.catho.com.br/vagas/assistente-administrativo/38967557/?utm_source=freehire.me) | freehire/catho | Atende: cargo: assistente administrativo; competências: excel, documentos, atendimento; formação superior disponível |
-| 84% (alta) | VALE CANDIDATAR | Suporte / Atendimento | Motiva | [TRILHOS \| ANALISTA DE ATENDIMENTO JÚNIOR](https://br.indeed.com/viewjob?jk=0785d9320cafa852) | 2026-10-23 | Rio de Janeiro, RJ, BR | não informada | Link direto · [Aplicar](https://motiva.gupy.io/job/eyJqb2JJZCI6MTI0NDE2NTYsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed) | jobspy/indeed | Atende: cargo: atendimento; competências: atendimento, sistemas, excel, sql, power bi; formação superior compatível |
-| 83% (alta) | VALE CANDIDATAR | Administrativo / Operações | UMANA BRASIL | [Assistente Administrativo de Vendas](https://www.catho.com.br/vagas/assistente-administrativo-de-vendas/38969932/?utm_source=freehire.me) | 2026-10-23T00:00:00Z | Rio de Janeiro, RJ, Brasil | não informada | Normal · [Aplicar](https://www.catho.com.br/vagas/assistente-administrativo-de-vendas/38969932/?utm_source=freehire.me) | freehire/catho | Atende: cargo: assistente administrativo; competências: excel, documentos, relatórios, sistemas, atendimento; formação superior disponível / Possíveis lacunas: SAP |
-| 82% (alta) | VALE CANDIDATAR | Administrativo / Operações | Allnutry Pharma | [AUXILIAR ADMINISTRATIVO](https://www.catho.com.br/vagas/auxiliar-administrativo/38972723/?utm_source=freehire.me) | 2026-10-23T00:00:00Z | Rio de Janeiro, RJ, Brasil | não informada | Normal · [Aplicar](https://www.catho.com.br/vagas/auxiliar-administrativo/38972723/?utm_source=freehire.me) | freehire/catho | Atende: cargo: auxiliar administrativo; competências: documentos, planilhas, sistemas, atendimento; experiência transferível: rotinas administrativas, conferência / Possíveis lacunas: SAP |
-| 80% (alta) | VALE CANDIDATAR | Administrativo / Operações | Bosch | [ASSISTENTE BACKOFFICE JR (35993-35995-35996-35997)](https://br.indeed.com/viewjob?jk=0bd510ac718774f8) | 2026-10-23 | Joinville, SC, BR | não informada | Link direto · [Aplicar](https://jobs.smartrecruiters.com/BoschGroup/744000157489978-assistente-backoffice-jr-35993-35995-35996-35997-) | jobspy/indeed | Atende: cargo: backoffice; competências: indicadores, sistemas, atendimento; formação superior compatível |
-| 65% (baixa) | REVISAR DESCRIÇÃO | Administrativo / Operações | Universidade Iguaçu | [Auxiliar Administrativo - Secretaria Acadêmica - Nova Iguaçu](https://www.linkedin.com/jobs/view/4480698783) | 2026-10-23 | Nova Iguaçu, Rio de Janeiro, Brazil | não informada | Normal · [Aplicar](https://www.linkedin.com/jobs/view/4480698783) | jobspy/linkedin | Atende: cargo: auxiliar administrativo; formação superior disponível; nível de entrada/júnior |
-| 61% (baixa) | REVISAR DESCRIÇÃO | Suporte / Atendimento | Grupo CCR | [TRILHOS \| ANALISTA DE ATENDIMENTO JÚNIOR](https://www.linkedin.com/jobs/view/4482608934) | 2026-10-24 | Rio de Janeiro, Rio de Janeiro, Brazil | não informada | Normal · [Aplicar](https://www.linkedin.com/jobs/view/4482608934) | jobspy/linkedin | Atende: cargo: atendimento; competências: atendimento; formação superior disponível |
-| 61% (baixa) | REVISAR DESCRIÇÃO | Suporte / Atendimento | Motiva | [TRILHOS \| ANALISTA DE ATENDIMENTO JÚNIOR](https://www.linkedin.com/jobs/view/4482305085) | 2026-10-24 | Rio de Janeiro, Rio de Janeiro, Brazil | não informada | Normal · [Aplicar](https://www.linkedin.com/jobs/view/4482305085) | jobspy/linkedin | Atende: cargo: atendimento; competências: atendimento; formação superior disponível |
-| 60% (alta) | REVISAR | Suporte / Atendimento | Caderno Nacional | [Atendente de Suporte Técnico - Sem experiência - (Olé Fibra)](https://br.indeed.com/viewjob?jk=5b7e7bf52b553252) | 2026-10-24 | São José, SC, BR | não informada | Link direto · [Aplicar](https://cadernonacional.com.br/vagas/atendente-de-suporte-tecnico/87049793?source=Indeed) | jobspy/indeed | Atende: cargo: suporte técnico, suporte; competências: atendimento; formação superior disponível |
-| 57% (baixa) | REVISAR DESCRIÇÃO | Administrativo / Operações | Jobbol | [Analista Administrativo Júnior](https://www.linkedin.com/jobs/view/4483194307) | 2026-10-24 | Rio de Janeiro, Rio de Janeiro, Brazil | não informada | Normal · [Aplicar](https://www.linkedin.com/jobs/view/4483194307) | jobspy/linkedin | Atende: cargo: analista administrativo; formação superior disponível; nível de entrada/júnior |
-| 57% (alta) | REVISAR | Administrativo / Operações | Jobbol | [ANALISTA ADMINISTRATIVO JÚNIOR - Barra da Tijuca (ServiPromo)](https://br.indeed.com/viewjob?jk=0b5d46aa4cd9e356) | 2026-10-23 | Rio de Janeiro, RJ, BR | não informada | Link direto · [Aplicar](https://www.jobbol.com.br/vaga/29387157701) | jobspy/indeed | Atende: cargo: analista administrativo; competências: contratos; experiência transferível: rotinas administrativas |
+| 77% (alta) | PODE VALER | Administrativo / Operações | Ativa | [Auxiliar Administrativo SAC](https://www.empregos.com.br/vaga/11956018?utm_source=freehire.me) | 2026-10-24T15:10:59Z | São João de Meriti, RJ | não informada | Normal · [Aplicar](https://www.empregos.com.br/vaga/11956018?utm_source=freehire.me) | freehire/empregos | Atende: cargo: auxiliar administrativo; competências: excel, relatórios, atendimento; formação superior disponível |
+| 60% (baixa) | REVISAR DESCRIÇÃO | Suporte / Atendimento | Influx | [Technical Support Analyst - 100% Remote](https://www.linkedin.com/jobs/view/4481003482) | 2026-10-23 | Brazil | não informada | Easy Apply · [Aplicar](https://www.linkedin.com/jobs/view/4481003482) | jobspy/linkedin | Atende: cargo: technical support, support; formação superior disponível |
 
 ## Saúde das fontes
 
-- **FreeHire**: 588 resultados brutos; 26 requisições OK; 0 falhas.
-- **Gupy**: 175 resultados brutos; 29 requisições OK; 0 falhas.
-- **JobSpy**: 245 resultados brutos; 18 requisições OK; 0 falhas.
+- **FreeHire**: 514 resultados brutos; 26 requisições OK; 0 falhas.
+- **Gupy**: 159 resultados brutos; 28 requisições OK; 0 falhas.
+- **JobSpy**: 299 resultados brutos; 18 requisições OK; 0 falhas.
 
 > A porcentagem é uma compatibilidade estimada por regras transparentes. Quando a fonte não fornece a descrição completa, a confiança aparece como baixa e a pontuação é limitada para não criar falsa precisão.
