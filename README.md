@@ -51,7 +51,7 @@ GitHub Actions executa às **08h, 11h e 16h (horário de Brasília)**.
 ## Próximas camadas
 
 - leitura separada de posts públicos/recrutadores do LinkedIn;
-- entrega automática dos resultados no ChatGPT e por e-mail;
+- envio automático dos resultados por e-mail;
 - calibração contínua do ranking com base em vagas boas/ruins marcadas pelo usuário.
 
 Nenhuma candidatura é enviada automaticamente.
