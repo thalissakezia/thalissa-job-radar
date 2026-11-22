@@ -1,25 +1,24 @@
 # Thalissa Job Radar — novidades
 
-Executado em **2026-11-21 23:44 UTC**.
+Executado em **2026-11-22 18:18 UTC**.
 
-- Vagas únicas coletadas nesta execução: **783**
-- Vagas nunca vistas antes: **68**
-- Novas vagas descartadas por regra objetiva: **64**
-- Novas vagas para revisar/candidatar: **4**
+- Vagas únicas coletadas nesta execução: **522**
+- Vagas nunca vistas antes: **221**
+- Novas vagas descartadas por regra objetiva: **218**
+- Novas vagas para revisar/candidatar: **3**
 
 ## Novas vagas
 
 | Compatibilidade | Recomendação | Currículo | Empresa | Vaga | Data | Local | Salário | Candidatura | Fonte | Análise |
 |---:|---|---|---|---|---|---|---|---|---|---|
-| 88% (alta) | VALE CANDIDATAR | Administrativo / Operações | SGS | [ASSISTENTE ADMINISTRATIVO \| AFIRMATIVA PcD](https://himalayas.app/companies/sgs/jobs/assistente-administrativo-afirmativa-pcd?utm_source=freehire.me) | 2026-11-21T14:48:14Z | Brazil | não informada | Normal · [Aplicar](https://himalayas.app/companies/sgs/jobs/assistente-administrativo-afirmativa-pcd?utm_source=freehire.me) | freehire/himalayas | Atende: cargo: assistente administrativo; competências: excel, documentos, relatórios, sistemas; formação superior disponível |
-| 64% (alta) | PODE VALER | BI / Dados | We are Tims | [Microsoft Data Analyst \| Power BI Expert](https://himalayas.app/companies/we-are-tims/jobs/microsoft-data-analyst-power-bi-expert?utm_source=freehire.me) | 2026-11-21T18:08:53Z | Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S. | não informada | Normal · [Aplicar](https://himalayas.app/companies/we-are-tims/jobs/microsoft-data-analyst-power-bi-expert?utm_source=freehire.me) | freehire/himalayas | Atende: cargo: power bi, data analyst; competências: power bi; formação superior disponível |
-| 59% (alta) | REVISAR | BI / Dados | We are Tims | [Consultor Microsoft Data Analyst](https://himalayas.app/companies/we-are-tims/jobs/consultor-microsoft-data-analyst-4247232397?utm_source=freehire.me) | 2026-11-21T18:08:48Z | Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S. | não informada | Normal · [Aplicar](https://himalayas.app/companies/we-are-tims/jobs/consultor-microsoft-data-analyst-4247232397?utm_source=freehire.me) | freehire/himalayas | Atende: cargo: data analyst; competências: power bi; formação superior disponível |
-| 52% (alta) | REVISAR | BI / Dados | We are Tims | [Microsoft Fabric Consultant / Power BI](https://himalayas.app/companies/we-are-tims/jobs/microsoft-fabric-consultant-power-bi?utm_source=freehire.me) | 2026-11-21T18:08:54Z | Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Spain, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S. | não informada | Normal · [Aplicar](https://himalayas.app/companies/we-are-tims/jobs/microsoft-fabric-consultant-power-bi?utm_source=freehire.me) | freehire/himalayas | Atende: cargo: power bi; competências: power bi; formação superior disponível / Possíveis lacunas: pede 3 ano(s) de experiência direta |
+| 84% (alta) | VALE CANDIDATAR | Suporte / Atendimento | Stefanini | [ANALISTA SUPORTE JR N1](https://himalayas.app/companies/stefanini/jobs/analista-suporte-jr-n1-5211191892?utm_source=freehire.me) | 2026-11-21T22:35:02Z | Brazil | não informada | Normal · [Aplicar](https://himalayas.app/companies/stefanini/jobs/analista-suporte-jr-n1-5211191892?utm_source=freehire.me) | freehire/himalayas | Atende: cargo: suporte; competências: atendimento, sistemas, resolução de problemas; formação superior compatível |
+| 78% (alta) | VALE CANDIDATAR | BI / Dados | Huzzle.com | [Data Analyst](https://www.jobleads.com/br/job/data-analyst--brazil--e0e1c4a3d60a6c045be07ee4d43356dcf?utm_source=freehire.me) | 2026-11-21T20:16:25Z | , | não informada | Normal · [Aplicar](https://www.jobleads.com/br/job/data-analyst--brazil--e0e1c4a3d60a6c045be07ee4d43356dcf?utm_source=freehire.me) | freehire/jobleads | Atende: cargo: data analyst; competências: power bi, dashboard, sql; formação superior disponível |
+| 65% (baixa) | REVISAR DESCRIÇÃO | Suporte / Atendimento | Vertical Rio | [Atendimento ao cliente](https://www.linkedin.com/jobs/view/4492361444) | 2026-11-22 | Rio de Janeiro, Rio de Janeiro, Brazil | não informada | Normal · [Aplicar](https://www.linkedin.com/jobs/view/4492361444) | jobspy/linkedin | Atende: cargo: atendimento ao cliente, atendimento; competências: atendimento; formação superior disponível |
 
 ## Saúde das fontes
 
-- **FreeHire**: 661 resultados brutos; 26 requisições OK; 0 falhas.
-- **Gupy**: 117 resultados brutos; 26 requisições OK; 0 falhas.
-- **JobSpy**: 143 resultados brutos; 18 requisições OK; 0 falhas.
+- **FreeHire**: 448 resultados brutos; 26 requisições OK; 0 falhas.
+- **Gupy**: 82 resultados brutos; 23 requisições OK; 0 falhas.
+- **JobSpy**: 98 resultados brutos; 18 requisições OK; 0 falhas.
 
 > A porcentagem é uma compatibilidade estimada por regras transparentes. Quando a fonte não fornece a descrição completa, a confiança aparece como baixa e a pontuação é limitada para não criar falsa precisão.
