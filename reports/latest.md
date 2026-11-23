@@ -1,24 +1,23 @@
 # Thalissa Job Radar — novidades
 
-Executado em **2026-11-22 18:18 UTC**.
+Executado em **2026-11-23 00:03 UTC**.
 
-- Vagas únicas coletadas nesta execução: **522**
-- Vagas nunca vistas antes: **221**
-- Novas vagas descartadas por regra objetiva: **218**
-- Novas vagas para revisar/candidatar: **3**
+- Vagas únicas coletadas nesta execução: **484**
+- Vagas nunca vistas antes: **93**
+- Novas vagas descartadas por regra objetiva: **91**
+- Novas vagas para revisar/candidatar: **2**
 
 ## Novas vagas
 
 | Compatibilidade | Recomendação | Currículo | Empresa | Vaga | Data | Local | Salário | Candidatura | Fonte | Análise |
 |---:|---|---|---|---|---|---|---|---|---|---|
-| 84% (alta) | VALE CANDIDATAR | Suporte / Atendimento | Stefanini | [ANALISTA SUPORTE JR N1](https://himalayas.app/companies/stefanini/jobs/analista-suporte-jr-n1-5211191892?utm_source=freehire.me) | 2026-11-21T22:35:02Z | Brazil | não informada | Normal · [Aplicar](https://himalayas.app/companies/stefanini/jobs/analista-suporte-jr-n1-5211191892?utm_source=freehire.me) | freehire/himalayas | Atende: cargo: suporte; competências: atendimento, sistemas, resolução de problemas; formação superior compatível |
-| 78% (alta) | VALE CANDIDATAR | BI / Dados | Huzzle.com | [Data Analyst](https://www.jobleads.com/br/job/data-analyst--brazil--e0e1c4a3d60a6c045be07ee4d43356dcf?utm_source=freehire.me) | 2026-11-21T20:16:25Z | , | não informada | Normal · [Aplicar](https://www.jobleads.com/br/job/data-analyst--brazil--e0e1c4a3d60a6c045be07ee4d43356dcf?utm_source=freehire.me) | freehire/jobleads | Atende: cargo: data analyst; competências: power bi, dashboard, sql; formação superior disponível |
-| 65% (baixa) | REVISAR DESCRIÇÃO | Suporte / Atendimento | Vertical Rio | [Atendimento ao cliente](https://www.linkedin.com/jobs/view/4492361444) | 2026-11-22 | Rio de Janeiro, Rio de Janeiro, Brazil | não informada | Normal · [Aplicar](https://www.linkedin.com/jobs/view/4492361444) | jobspy/linkedin | Atende: cargo: atendimento ao cliente, atendimento; competências: atendimento; formação superior disponível |
+| 76% (alta) | PODE VALER | BI / Dados | Pasquali Solution | [Analista de BI](https://www.jobleads.com/br/job/analista-de-bi--brazil--ecd2c85703e555ed8abd383a394cb26bc?utm_source=freehire.me) | 2026-11-22T19:10:49Z | , | não informada | Normal · [Aplicar](https://www.jobleads.com/br/job/analista-de-bi--brazil--ecd2c85703e555ed8abd383a394cb26bc?utm_source=freehire.me) | freehire/jobleads | Atende: cargo: analista de bi; competências: power bi, excel, dashboard; formação superior compatível / Possíveis lacunas: inglês avançado |
+| 68% (alta) | PODE VALER | BI / Dados | Italent Connection | [Remote Bi & Power Bi Data Engineer](https://ar.whatjobs.com/pub_api__cpl__35909284__7080?utm_campaign=publisher&utm_medium=api&geoID=6516&utm_source=freehire.me) | 2026-11-22T19:23:31Z | Ciudad de Mendoza, Argentina | não informada | Normal · [Aplicar](https://ar.whatjobs.com/pub_api__cpl__35909284__7080?utm_campaign=publisher&utm_medium=api&geoID=6516&utm_source=freehire.me) | freehire/whatjobs-ar | Atende: cargo: power bi; competências: power bi, excel, dashboard, sql, python, etl; formação superior disponível / Possíveis lacunas: Spark, dbt, SAP |
 
 ## Saúde das fontes
 
-- **FreeHire**: 448 resultados brutos; 26 requisições OK; 0 falhas.
-- **Gupy**: 82 resultados brutos; 23 requisições OK; 0 falhas.
-- **JobSpy**: 98 resultados brutos; 18 requisições OK; 0 falhas.
+- **FreeHire**: 409 resultados brutos; 26 requisições OK; 0 falhas.
+- **Gupy**: 46 resultados brutos; 18 requisições OK; 0 falhas.
+- **JobSpy**: 141 resultados brutos; 18 requisições OK; 0 falhas.
 
 > A porcentagem é uma compatibilidade estimada por regras transparentes. Quando a fonte não fornece a descrição completa, a confiança aparece como baixa e a pontuação é limitada para não criar falsa precisão.
